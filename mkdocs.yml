@@ -1,7 +1,7 @@
 
-  
+site_dir: public  
 site_name: Solutions 
-docs_dir: docs
+docs_dir: 'docs/'
 nav:
   - Accueil: index.md
   - "Resident Evil 2 (Remake)":
@@ -11,6 +11,8 @@ nav:
 
 theme:
   name: material
+  nav_style: light
+  navigation_depth: 4
   features:
     - content.code.copy
     - navigation.tabs
@@ -26,17 +28,40 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+  language: fr
+use_directory_urls: false
+
 
 markdown_extensions:
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - admonition
+  - def_list
+  - pymdownx.highlight
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.keys
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - toc:
+      permalink: True
+  - plantuml_markdown
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
   - attr_list
   - md_in_html
-  - pymdownx.blocks.caption
   - toc:
       toc_depth: 2
 
 plugins:
   - with-pdf
   - glightbox
+
 
 
 
