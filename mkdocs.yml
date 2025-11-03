@@ -26,4 +26,5 @@ markdown_extensions:
       toc_depth: 2
 
 plugins:
+  - with-pdf
   - glightbox
