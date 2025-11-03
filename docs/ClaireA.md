@@ -34,7 +34,7 @@
 
     Comme les munitions sont rares en mode Hardcore, vous devez toujours avoir des munitions ou de la poudre à canon sur vous. Lorsque votre inventaire est plein, privilégiez les munitions et jetez les autres objets.
 
-!!! failure "Quittez et rechargez la sauvegarde en cas de game over"
+!!! warning "Quittez et rechargez la sauvegarde en cas de game over"
 
     <figure markdown="span">
 
@@ -191,8 +191,8 @@
 | 1 | Salle d'attente | Herbe verte (sur le bureau) <br> Long magazine (coffre-fort) Remarque : vous n'avez pas besoin de le prendre pour l'instant, car il n'est pas encore nécessaire. |
 | 2 | Deuxième étage / Salle d'art | Planche de bois (près de la salle d'art) <br> Clé du casier à armes (sur le bureau d'accueil) <br> Sceptre (utilisez le livre rouge sur le bras gauche) |
 | 3 | Sortie de secours | Herbe verte (devant la porte) <br> Coupe boulon (devant la porte du premier étage) <br> Munitions pour pistolet <br> Bois (sous les escaliers) |
-| 6 | Bureau est | Fusible <br> Valve (bureau dans la petite pièce) <br> Poudre à canon améliorée (blanche) (étagère dans la petite pièce) <br> Grenade flash (bureau à gauche de l'entrée) <br> Munitions pour pistolet (cadavre à gauche de l'entrée) <br> Poudre à canon (bureau à droite) |
-| 11 | salle des opérations | Détonateur (dessus du bureau) <br> Herbe verte (à gauche de l'entrée) <br> Grenade flash (à gauche de l'entrée) |
+| 6 | Bureau Est | Fusible <br> Valve (bureau dans la petite pièce) <br> Poudre à canon améliorée (blanche) (étagère dans la petite pièce) <br> Grenade flash (bureau à gauche de l'entrée) <br> Munitions pour pistolet (cadavre à gauche de l'entrée) <br> Poudre à canon (bureau à droite) |
+| 11 | Salle des opérations | Détonateur (dessus du bureau) <br> Herbe verte (à gauche de l'entrée) <br> Grenade flash (à gauche de l'entrée) |
 | 15 | Les douches (après la valve)  | Poudre à canon (casier arrière au fond) |
 | 17 | Bureau STARS | Pile (bureau dans la petite pièce) <br> Herbe rouge (immédiatement après l'entrée) <br> Grenade flash (boîte avant gauche) <br> Balles incendiaires (bureau avant gauche) <br> Poudre à canon (blanche) (bureau gauche) <br> Spray de premiers secours (urgence à l'arrière gauche) |
 | 24 |  Devant l'installation souterraine   | Balles incendiaires (étagère gauche) |
@@ -222,13 +222,13 @@
 | No. | Procédure          |
 | :---------------: |:---------------| 
 | 0 | (Facultatif) Vous pouvez sauvegarder pour la première fois | 
-| 1 | Prendre l'ascenseur jusqu'à l'installation souterraine |   
+| 1 | Prenez l'ascenseur jusqu'à l'installation souterraine |   
 | 2 | Récupérez la grenade à fragmentation dans les escaliers inférieurs |   
-| 3 | Déclencher la cinématique après le casier tombé |   
-| 4 | Après le boss |   
+| 3 | Déclenchez la cinématique après le casier tombé |   
+| 4 | Tuez le boss |   
 | 5 | Montez à l'échelle après le combat avec G et suivez Sherry |   
 | 6 | Tirez sur le levier pour créer un pont |   
-| 7 | Organiser les objets dans la salle des opérations |   
+| 7 | Organisez les objets dans la salle des opérations |   
 | 8 | Montez l'échelle et allez au parking |   
 | 9 | Examinez le terminal à la sortie du parking et déclenchez la cinématique |   
 
@@ -238,7 +238,7 @@
 | 4 | Salle des machines | Herbe verte (en haut à gauche de la carte) <br> Grenade à fragmentation (en haut à gauche et en bas à droite de la carte) <br> Herbe rouge (en bas à gauche) <br> Munitions pour pistolet (en bas à droite, en bas à gauche et en haut à gauche de la carte) |
 | 4 | Salle des machines (étage) | Poudre à canon (montez à l'échelle et allez dans la pièce de gauche) <br> Herbe verte (montez à l'échelle et allez dans la pièce de gauche) |
 
-!!! danger "G Première Phase"
+!!! danger "4. G Première Phase"
 
     <figure markdown="span">
 
@@ -248,6 +248,6 @@
 
     Vous affrontez votre premier boss. Utilisez des grenades pour lui infliger des dégâts. Son attaque de saisie peut causer une mort instantanée, alors ripostez avec un couteau ou une grenade.
 
-!!! tip "Utilisation du couteau de combat"
+!!! tip "4. Utilisation du couteau de combat"
 
     Ce boss est facilement tuable très rapidement en le harcelant avec un couteau. 
