@@ -12,11 +12,10 @@ nav:
 theme:
   name: material
   features:
+    - content.code.copy
     - navigation.tabs
-    - navigation.instant
     - navigation.top
-    - navigation.tabs.sticky
-    - toc.integrate 
+    - toc.integrate # Table Of Content, table des matières intégrée dans la barre verticale de navigation
   palette:
     - scheme: default
       primary: cyan
@@ -38,5 +37,6 @@ markdown_extensions:
 plugins:
   - with-pdf
   - glightbox
+
 
 
