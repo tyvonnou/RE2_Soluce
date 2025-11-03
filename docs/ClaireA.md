@@ -3,7 +3,7 @@
 
 ## Conseils pour obtenir le rang S+
 
-!!! tip "Vous pouvez arrêter le chronomètre en mettant le jeu en pause"
+!!! info "Vous pouvez arrêter le chronomètre en mettant le jeu en pause"
 
     <figure markdown="span">
 
@@ -13,48 +13,48 @@
 
     Le rang S+ doit être obtenu dans un délai très strict. Vous devez effectuer le moins d'actions possible pour accomplir les tâches afin de ne pas perdre de temps. Mettre le jeu en pause arrêtera le chronomètre. Cela vous laissera le temps d'étudier les solutions des énigmes avant de vous y attaquer.
 
-### Tuez les ennemis sur les chemins les plus empruntés 
+!!! info "Tuez les ennemis sur les chemins les plus empruntés"
 
-<figure markdown="span">
+    <figure markdown="span">
 
-![Image title](IMG/-3.jpg)
+    ![Image title](IMG/-3.jpg)
 
-</figure>
+    </figure>
 
-En mode Hardcore, si vous êtes attaqué deux fois, la partie est terminée. Essayez de vaincre les ennemis dans les chemins fréquemment empruntés avec prudence et prenez le temps de les vaincre.
+    En mode Hardcore, si vous êtes attaqué deux fois, la partie est terminée. Essayez de vaincre les ennemis dans les chemins fréquemment empruntés avec prudence et prenez le temps de les vaincre.
 
 
-### Ramassez toutes les munitions 
+!!! info "Ramassez toutes les munitions"
 
-<figure markdown="span">
+    <figure markdown="span">
 
-![Image title](IMG/-2.jpg)
+    ![Image title](IMG/-2.jpg)
 
-</figure>
+    </figure>
 
-Comme les munitions sont rares en mode Hardcore, vous devez toujours avoir des munitions ou de la poudre à canon sur vous. Lorsque votre inventaire est plein, privilégiez les munitions et jetez les autres objets.
+    Comme les munitions sont rares en mode Hardcore, vous devez toujours avoir des munitions ou de la poudre à canon sur vous. Lorsque votre inventaire est plein, privilégiez les munitions et jetez les autres objets.
 
-### Quittez et rechargez la sauvegarde en cas de game over
+!!! info "Quittez et rechargez la sauvegarde en cas de game over"
 
-<figure markdown="span">
+    <figure markdown="span">
 
-![Image title](IMG/-1.jpg)
+    ![Image title](IMG/-1.jpg)
 
-</figure>
+    </figure>
 
-Si vous mourez pendant le jeu, il est préférable de charger une sauvegarde plutôt que de continuer. Reprendre là où vous vous êtes arrêté ajoute du temps à votre temps de jeu total. 
+    Si vous mourez pendant le jeu, il est préférable de charger une sauvegarde plutôt que de continuer. Reprendre là où vous vous êtes arrêté ajoute du temps à votre temps de jeu total. 
 
-### L'utilisation du couteau infini est autorisée pour le rang S+
+!!! info "L'utilisation du couteau infini est autorisée pour le rang S+"
 
-Bien que l'utilisation d'armes infinies ne soit pas autorisée pour obtenir le rang S+, vous pouvez tout de même obtenir ce rang en utilisant le couteau de combat infini. Cela permet de tuer facilement les zombies à terre et d'économiser des balles.
+    Bien que l'utilisation d'armes infinies ne soit pas autorisée pour obtenir le rang S+, vous pouvez tout de même obtenir ce rang en utilisant le couteau de combat infini. Cela permet de tuer facilement les zombies à terre et d'économiser des balles.
 
-### Points de sauvegarde recommandés 
+!!! info "Points de sauvegarde recommandés" 
 
-- G 1ère forme avant le combat (pièce secrète sous la statue de la déesse)
-- G 2ème forme avant le combat (salle de surveillance des égouts après avoir résolu le puzzle d'échecs)
-- G 3ème forme avant le combat (laboratoire - zone ouest après avoir obtenu l'échantillon du virus G)
+    - G 1ère forme avant le combat (pièce secrète sous la statue de la déesse)
+    - G 2ème forme avant le combat (salle de surveillance des égouts après avoir résolu le puzzle d'échecs)
+    - G 3ème forme avant le combat (laboratoire - zone ouest après avoir obtenu l'échantillon du virus G)
 
-Pour obtenir la note S+, vous devez limiter le nombre de sauvegardes à 3 maximum. Les points recommandés ci-dessus concernent les combats contre les boss principaux avec G et les situations de mort instantanée.
+    Pour obtenir la note S+, vous devez limiter le nombre de sauvegardes à 3 maximum. Les points recommandés ci-dessus concernent les combats contre les boss principaux avec G et les situations de mort instantanée.
 
 ## La station
 
