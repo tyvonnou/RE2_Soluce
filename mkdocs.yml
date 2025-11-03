@@ -7,7 +7,7 @@ nav:
   - "Resident Evil 2 (Remake)":
     - "Claire":
       - "Scénario A": ClaireA.md
-      - "Scénario B": ClaireB.md
+#      - "Scénario B": ClaireB.md
 
 theme:
   name: material
