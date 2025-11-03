@@ -49,7 +49,6 @@ markdown_extensions:
       custom_checkbox: true
   - toc:
       permalink: True
-  - plantuml_markdown
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
@@ -61,6 +60,7 @@ markdown_extensions:
 plugins:
   - with-pdf
   - glightbox
+
 
 
 
