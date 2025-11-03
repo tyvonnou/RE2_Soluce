@@ -3,7 +3,7 @@
 
 ## Conseils pour obtenir le rang S+
 
-!!! info "Vous pouvez arrêter le chronomètre en mettant le jeu en pause"
+!!! tip "Vous pouvez arrêter le chronomètre en mettant le jeu en pause"
 
     <figure markdown="span">
 
@@ -13,7 +13,7 @@
 
     Le rang S+ doit être obtenu dans un délai très strict. Vous devez effectuer le moins d'actions possible pour accomplir les tâches afin de ne pas perdre de temps. Mettre le jeu en pause arrêtera le chronomètre. Cela vous laissera le temps d'étudier les solutions des énigmes avant de vous y attaquer.
 
-!!! info "Tuez les ennemis sur les chemins les plus empruntés"
+!!! warning "Tuez les ennemis sur les chemins les plus empruntés"
 
     <figure markdown="span">
 
@@ -24,7 +24,7 @@
     En mode Hardcore, si vous êtes attaqué deux fois, la partie est terminée. Essayez de vaincre les ennemis dans les chemins fréquemment empruntés avec prudence et prenez le temps de les vaincre.
 
 
-!!! info "Ramassez toutes les munitions"
+!!! note "Ramassez toutes les munitions"
 
     <figure markdown="span">
 
@@ -34,7 +34,7 @@
 
     Comme les munitions sont rares en mode Hardcore, vous devez toujours avoir des munitions ou de la poudre à canon sur vous. Lorsque votre inventaire est plein, privilégiez les munitions et jetez les autres objets.
 
-!!! info "Quittez et rechargez la sauvegarde en cas de game over"
+!!! failure "Quittez et rechargez la sauvegarde en cas de game over"
 
     <figure markdown="span">
 
@@ -44,11 +44,11 @@
 
     Si vous mourez pendant le jeu, il est préférable de charger une sauvegarde plutôt que de continuer. Reprendre là où vous vous êtes arrêté ajoute du temps à votre temps de jeu total. 
 
-!!! info "L'utilisation du couteau infini est autorisée pour le rang S+"
+!!! tip "L'utilisation du couteau infini est autorisée pour le rang S+"
 
     Bien que l'utilisation d'armes infinies ne soit pas autorisée pour obtenir le rang S+, vous pouvez tout de même obtenir ce rang en utilisant le couteau de combat infini. Cela permet de tuer facilement les zombies à terre et d'économiser des balles.
 
-!!! info "Points de sauvegarde recommandés" 
+!!! abstract  "Points de sauvegarde recommandés" 
 
     - G 1ère forme avant le combat (pièce secrète sous la statue de la déesse)
     - G 2ème forme avant le combat (salle de surveillance des égouts après avoir résolu le puzzle d'échecs)
@@ -69,11 +69,11 @@
 | 7 | Déclenchez la cinématique  |   
 | 8 | Faites demi-tour immédiatement après la cinématique et courez |   
 
-!!! info  "4. Courez tout droit vers la clé immédiatement après la cinématique"
+!!! warning  "4. Courez tout droit vers la clé immédiatement après la cinématique"
 
     Ignorez simplement le zombie à ce stade et courez immédiatement vers la clé. Courez vers son côté pour passer en toute sécurité.
 
-!!! info "5. Lorsque vous obtenez la clé, regardez derrière vous et attendez que le zombie passe"
+!!! warning "5. Lorsque vous obtenez la clé, regardez derrière vous et attendez que le zombie passe"
 
     <figure markdown="span">
 
@@ -147,7 +147,7 @@
 | 16 | Salon | Médaille licorne <br> Poudre à canon (bureau à droite de l'entrée) |
 | 17 | Hall principal | Munition pour pistolet (au-dessus de la chaise à gauche en sortant de la bibliothèque) <br> Médaille lion |
 
-!!! info  "15. Déplacez les étagères vers le milieu"
+!!! tip  "15. Déplacez les étagères vers le milieu"
 
     <figure markdown="span">
 
@@ -197,7 +197,7 @@
 | 17 | Bureau STARS | Pile (bureau dans la petite pièce) <br> Herbe rouge (immédiatement après l'entrée) <br> Grenade flash (boîte avant gauche) <br> Balles incendiaires (bureau avant gauche) <br> Poudre à canon (blanche) (bureau gauche) <br> Spray de premiers secours (urgence à l'arrière gauche) |
 | 24 |  Devant l'installation souterraine   | Balles incendiaires (étagère gauche) |
 
-!!! info  "13. Vous devez récupérer le lance-grenades"
+!!! tip  "13. Vous devez récupérer le lance-grenades"
 
     <figure markdown="span">
 
@@ -207,7 +207,7 @@
 
     Le lance-grenades est particulièrement efficace contre les Licker et G, donc si vous l'oubliez et que vous le ratez, vous perdrez beaucoup de temps. 
 
-!!! info  "20. Zombie au plafond"
+!!! warning  "20. Zombie au plafond"
 
     <figure markdown="span">
 
@@ -216,3 +216,38 @@
     </figure>
 
     Ce cadavre se met à bouger comme un zombie après l'explosion de la bombe C4. Il bloquera la voie d'évacuation vers la bibliothèque, vous devriez donc le neutraliser à l'avance.
+
+## Installation souterraine vers le parking
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 0 | (Facultatif) Vous pouvez sauvegarder pour la première fois | 
+| 1 | Prendre l'ascenseur jusqu'à l'installation souterraine |   
+| 2 | Récupérez la grenade à fragmentation dans les escaliers inférieurs |   
+| 3 | Déclencher la cinématique après le casier tombé |   
+| 4 | Après le boss |   
+| 5 | Montez à l'échelle après le combat avec G et suivez Sherry |   
+| 6 | Tirez sur le levier pour créer un pont |   
+| 7 | Organiser les objets dans la salle des opérations |   
+| 8 | Montez l'échelle et allez au parking |   
+| 9 | Examinez le terminal à la sortie du parking et déclenchez la cinématique |   
+
+| No. | Lieu          | Objets |
+| :---------------: |:---------------| :------------- |
+| 1 | Escaliers souterrains | Grenade à fragmentation (sous l'escalier inférieur) |
+| 4 | Salle des machines | Herbe verte (en haut à gauche de la carte) <br> Grenade à fragmentation (en haut à gauche et en bas à droite de la carte) <br> Herbe rouge (en bas à gauche) <br> Munitions pour pistolet (en bas à droite, en bas à gauche et en haut à gauche de la carte) |
+| 4 | Salle des machines (étage) | Poudre à canon (montez à l'échelle et allez dans la pièce de gauche) <br> Herbe verte (montez à l'échelle et allez dans la pièce de gauche) |
+
+!!! danger "G Première Phase"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/5.jpg)
+
+    </figure>
+
+    Vous affrontez votre premier boss. Utilisez des grenades pour lui infliger des dégâts. Son attaque de saisie peut causer une mort instantanée, alors ripostez avec un couteau ou une grenade.
+
+!!! tip "Utilisation du couteau de combat"
+
+    Ce boss est facilement tuable très rapidement en le harcelant avec un couteau. 
