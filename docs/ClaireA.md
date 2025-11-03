@@ -3,15 +3,21 @@
 
 ## Conseils pour obtenir le rang S+
 
-### Vous pouvez arrêter le chronomètre en mettant le jeu en pause
+### 
 
-<figure markdown="span">
 
-![Image title](IMG/-4.jpg)
 
-</figure>
 
-Le rang S+ doit être obtenu dans un délai très strict. Vous devez effectuer le moins d'actions possible pour accomplir les tâches afin de ne pas perdre de temps. Mettre le jeu en pause arrêtera le chronomètre. Cela vous laissera le temps d'étudier les solutions des énigmes avant de vous y attaquer.
+
+!!! tip "Vous pouvez arrêter le chronomètre en mettant le jeu en pause"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/-4.jpg)
+
+    </figure>
+
+    Le rang S+ doit être obtenu dans un délai très strict. Vous devez effectuer le moins d'actions possible pour accomplir les tâches afin de ne pas perdre de temps. Mettre le jeu en pause arrêtera le chronomètre. Cela vous laissera le temps d'étudier les solutions des énigmes avant de vous y attaquer.
 
 ### Tuez les ennemis sur les chemins les plus empruntés 
 

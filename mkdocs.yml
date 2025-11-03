@@ -33,10 +33,10 @@ use_directory_urls: false
 
 
 markdown_extensions:
-  - pymdownx.details
   - pymdownx.tabbed:
       alternate_style: true 
   - admonition
+  - pymdownx.details
   - def_list
   - pymdownx.highlight
   - pymdownx.superfences:
