@@ -1,6 +1,6 @@
 
 site_dir: public  
-site_name: Solutions 
+site_name: Naouak 
 docs_dir: 'docs/'
 nav:
   - Accueil: index.md
@@ -59,6 +59,10 @@ markdown_extensions:
 
 plugins:
   - to-pdf:
+      toc_title: "Sommaire"
+      toc_level: 4
+      author: Scie à métaux
+      cover_subtitle: Guides & Astuces
       download_link: header
   - glightbox
 
