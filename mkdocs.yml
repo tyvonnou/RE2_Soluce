@@ -58,8 +58,10 @@ markdown_extensions:
       toc_depth: 2
 
 plugins:
-  - with-pdf
+  - to-pdf:
+      download_link: header
   - glightbox
+
 
 
 
