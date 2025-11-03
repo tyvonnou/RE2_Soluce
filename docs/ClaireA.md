@@ -10,6 +10,7 @@
 ![Image title](IMG/-4.jpg)
 
 </figure>
+
 Le rang S+ doit être obtenu dans un délai très strict. Vous devez effectuer le moins d'actions possible pour accomplir les tâches afin de ne pas perdre de temps. Mettre le jeu en pause arrêtera le chronomètre. Cela vous laissera le temps d'étudier les solutions des énigmes avant de vous y attaquer.
 
 ### Tuez les ennemis sur les chemins les plus empruntés 
@@ -19,7 +20,9 @@ Le rang S+ doit être obtenu dans un délai très strict. Vous devez effectuer l
 ![Image title](IMG/-3.jpg)
 
 </figure>
+
 En mode Hardcore, si vous êtes attaqué deux fois, la partie est terminée. Essayez de vaincre les ennemis dans les chemins fréquemment empruntés avec prudence et prenez le temps de les vaincre.
+
 
 ### Ramassez toutes les munitions 
 
@@ -205,7 +208,6 @@ Vous retournerez à la bibliothèque au milieu de l'histoire. Comme le Tyran vou
 Le lance-grenades est particulièrement efficace contre les Licker et G, donc si vous l'oubliez et que vous le ratez, vous perdrez beaucoup de temps. 
 
 ### 20. Zombie au plafond
-
 <figure markdown="span">
 
 ![Image title](IMG/4.jpg)
