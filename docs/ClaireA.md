@@ -1,5 +1,5 @@
 
-# Claire A
+# Scénario A
 
 ## Conseils pour obtenir le rang S+
 
@@ -69,19 +69,19 @@
 | 7 | Déclenchez la cinématique  |   
 | 8 | Faites demi-tour immédiatement après la cinématique et courez |   
 
-###  4. Courez tout droit vers la clé immédiatement après la cinématique
+!!! info  "4. Courez tout droit vers la clé immédiatement après la cinématique"
 
-Ignorez simplement le zombie à ce stade et courez immédiatement vers la clé. Courez vers son côté pour passer en toute sécurité.
+    Ignorez simplement le zombie à ce stade et courez immédiatement vers la clé. Courez vers son côté pour passer en toute sécurité.
 
-###  5. Lorsque vous obtenez la clé, regardez derrière vous et attendez que le zombie passe.
+!!! info "5. Lorsque vous obtenez la clé, regardez derrière vous et attendez que le zombie passe"
 
-<figure markdown="span">
+    <figure markdown="span">
 
-![Image title](IMG/1.jpg)
+    ![Image title](IMG/1.jpg)
 
-</figure>
+    </figure>
 
-Après avoir obtenu la clé, attendez que le zombie passe devant l'étagère. Ainsi, vous n'aurez pas besoin de tirer et de gaspiller des munitions.
+    Après avoir obtenu la clé, attendez que le zombie passe devant l'étagère. Ainsi, vous n'aurez pas besoin de tirer et de gaspiller des munitions.
 
 ## Vers le RPD
 
@@ -147,15 +147,15 @@ Après avoir obtenu la clé, attendez que le zombie passe devant l'étagère. Ai
 | 16 | Salon | Médaille licorne <br> Poudre à canon (bureau à droite de l'entrée) |
 | 17 | Hall principal | Munition pour pistolet (au-dessus de la chaise à gauche en sortant de la bibliothèque) <br> Médaille lion |
 
-### 15. Déplacez les étagères vers le milieu 
+!!! info  "15. Déplacez les étagères vers le milieu"
 
-<figure markdown="span">
+    <figure markdown="span">
 
-![Image title](IMG/2.jpg)
+    ![Image title](IMG/2.jpg)
 
-</figure>
+    </figure>
 
-Vous retournerez à la bibliothèque au milieu de l'histoire. Comme le Tyran vous traquera à ce moment-là, il vaut mieux déplacer les étagères à l'avance et tuer les zombies dans cette pièce pour vous faciliter la tâche.
+    Vous retournerez à la bibliothèque au milieu de l'histoire. Comme le Tyran vous traquera à ce moment-là, il vaut mieux déplacer les étagères à l'avance et tuer les zombies dans cette pièce pour vous faciliter la tâche.
 
 ## Vers les installations souterraines
 
@@ -197,21 +197,22 @@ Vous retournerez à la bibliothèque au milieu de l'histoire. Comme le Tyran vou
 | 17 | Bureau STARS | Pile (bureau dans la petite pièce) <br> Herbe rouge (immédiatement après l'entrée) <br> Grenade flash (boîte avant gauche) <br> Balles incendiaires (bureau avant gauche) <br> Poudre à canon (blanche) (bureau gauche) <br> Spray de premiers secours (urgence à l'arrière gauche) |
 | 24 |  Devant l'installation souterraine   | Balles incendiaires (étagère gauche) |
 
-### 13. Vous devez récupérer le lance-grenades 
+!!! info  "13. Vous devez récupérer le lance-grenades"
 
-<figure markdown="span">
+    <figure markdown="span">
 
-![Image title](IMG/3.jpg)
+    ![Image title](IMG/3.jpg)
 
-</figure>
+    </figure>
 
-Le lance-grenades est particulièrement efficace contre les Licker et G, donc si vous l'oubliez et que vous le ratez, vous perdrez beaucoup de temps. 
+    Le lance-grenades est particulièrement efficace contre les Licker et G, donc si vous l'oubliez et que vous le ratez, vous perdrez beaucoup de temps. 
 
-### 20. Zombie au plafond
-<figure markdown="span">
+!!! info  "20. Zombie au plafond"
 
-![Image title](IMG/4.jpg)
+    <figure markdown="span">
 
-</figure>
+    ![Image title](IMG/4.jpg)
 
-Ce cadavre se met à bouger comme un zombie après l'explosion de la bombe C4. Il bloquera la voie d'évacuation vers la bibliothèque, vous devriez donc le neutraliser à l'avance.
+    </figure>
+
+    Ce cadavre se met à bouger comme un zombie après l'explosion de la bombe C4. Il bloquera la voie d'évacuation vers la bibliothèque, vous devriez donc le neutraliser à l'avance.
