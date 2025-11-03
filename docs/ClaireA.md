@@ -3,12 +3,6 @@
 
 ## Conseils pour obtenir le rang S+
 
-### 
-
-
-
-
-
 !!! tip "Vous pouvez arrêter le chronomètre en mettant le jeu en pause"
 
     <figure markdown="span">
