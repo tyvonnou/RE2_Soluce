@@ -64,6 +64,7 @@ plugins:
       author: Scie à métaux
       cover_subtitle: Guides & Astuces
       download_link: header
+      copyright: Copyright © Scie à métaux 2025
   - glightbox
 
 
