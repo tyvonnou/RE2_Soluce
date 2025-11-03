@@ -16,7 +16,16 @@ theme:
     - navigation.top
     - navigation.tabs.sticky
     - toc.integrate 
-
+  palette:
+    - scheme: default
+      primary: cyan
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
 
 markdown_extensions:
   - attr_list
@@ -28,3 +37,4 @@ markdown_extensions:
 plugins:
   - with-pdf
   - glightbox
+
