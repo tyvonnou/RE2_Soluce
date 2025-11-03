@@ -1,12 +1,13 @@
 
   
-site_name: Resident Evil 2 (Remake) Soluce Rang S+
+site_name: Solutions 
 docs_dir: docs
 nav:
   - Accueil: index.md
-  - "Claire":
-    - "Scénario A": ClaireA.md
-    - "Scénario B": ClaireB.md
+  - "Resident Evil 2 (Remake)":
+    - "Claire":
+      - "Scénario A": ClaireA.md
+      - "Scénario B": ClaireB.md
 
 theme:
   name: material
@@ -37,4 +38,5 @@ markdown_extensions:
 plugins:
   - with-pdf
   - glightbox
+
 
