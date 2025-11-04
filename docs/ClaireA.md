@@ -549,6 +549,62 @@
 
 ## Laboratoire Ouest à William Birkin 3eme forme
 
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 1 | Dirigez-vous vers la zone Ouest | 
+| 2 | Rétablissez l'électricité à l'aide du modulateur de signal OSS <br>  Organisation des objets|   
+| 3 | Continuez pour récupérer les médicaments antiviraux |   
+| 4 | Gestion des objets avant le combat contre le boss <br> Mitraillette / Lance-grenades requis <br> Grenades flash <br> Balles renforcées SLS |   
+| 5 | Sauvegardez pour la troisième fois |   
+| 6 | Après la cinématique, combattez la troisième forme de William Birkin |   
+| 7 | Retournez à la salle des gardes après le combat |   
+
+| No. | Lieu          | Objets |
+| :---------------: |:---------------| :------------- |
+| 2 | Laboratoire biologique  |   Grenade à fragmentation (cadavre sur le chemin menant au laboratoire) <br> Herbe bleue (sortie latérale) |
+| 3 | Laboratoire de niveau P-4 | Herbe rouge (casier) <br> Poudre améliorée (blanche) (sur le bureau) <br> Poudre à canon (grande) (Étagère de droite) |
+| 6 | Récipient de culture adulte |  Spray de premiers secours (côté gauche du laboratoire) <br> Balle renforcée pour SLS 60 (côté droit du laboratoire) <br> Flash (côté droit du laboratoire, côté ascenseur) <br> Cartouche à aiguille (bas de la carte, à gauche) <br> Grenade à fragmentation |
+
+???+ tip "6. Visez les yeux dans les genoux lorsque le combat commence"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/11.jpg)
+
+    </figure>
+
+    Lorsque la bataille commence, visez les petits yeux situés au niveau des genoux avec votre mitraillette. Ce sera une excellente occasion, car il est difficile de viser pendant que vous êtes en mouvement.
+    
+???+ tip "6. Utilisez des balles acides pour annuler ces attaques"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/12.jpg)
+
+    </figure>
+
+    Vous pouvez annuler les attaques en le frappant avec une balle acide. S'il est touché par une balle acide, vous pourrez vous déplacer sans danger de l'autre côté. Préparez une dizaine de balles acides à l'avance.
+
+???+ tip "6. Tirez des balles renforcées SLS lorsque la poitrine s'ouvre"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/13.jpg)
+
+    </figure>
+
+    La balle renforcée SLS est l'équivalent du Magnum pour Claire. Vous pouvez infliger d'importants dégâts en tirant dans les globes oculaires situés dans la poitrine, qui constituent un point faible. Sachez que vous ne pouvez l'utiliser que si vous obtenez le cadre renforcé dans les égouts.
+
+???+ tip "6. Continuez à viser la poitrine pendant la deuxième moitié du combat"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/14.jpg)
+
+    </figure>
+
+    Lorsque Birkin subit des dégâts supérieurs à un certain seuil, son comportement change et ses points faibles, à savoir ses globes oculaires, sont toujours exposés. En gardant vos distances, vous pouvez le vaincre en tirant sur ses globes oculaires.
+
 ## Cartes
 
 ???+ info "Commissariat, 1er étage"
