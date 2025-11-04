@@ -3,7 +3,7 @@
 
 ## Conseils pour obtenir le rang S+
 
-!!! tip "Vous pouvez arrêter le chronomètre en mettant le jeu en pause"
+???+ tip "Vous pouvez arrêter le chronomètre en mettant le jeu en pause"
 
     <figure markdown="span">
 
@@ -13,7 +13,7 @@
 
     Le rang S+ doit être obtenu dans un délai très strict (Normal : 03:30:00, Hardcore : 02:30:00). Vous devez effectuer le moins d'actions possible pour accomplir les tâches afin de ne pas perdre de temps. Mettre le jeu en pause arrêtera le chronomètre. Cela vous laissera le temps d'étudier les solutions des énigmes avant de vous y attaquer.
 
-!!! warning "Tuez les ennemis sur les chemins les plus empruntés"
+???+ warning "Tuez les ennemis sur les chemins les plus empruntés"
 
     <figure markdown="span">
 
@@ -24,7 +24,7 @@
     En mode Hardcore, si vous êtes attaqué deux fois, la partie est terminée. Essayez de vaincre les ennemis dans les chemins fréquemment empruntés avec prudence et prenez le temps de les vaincre.
 
 
-!!! note "Ramassez toutes les munitions"
+???+ note "Ramassez toutes les munitions"
 
     <figure markdown="span">
 
@@ -34,7 +34,7 @@
 
     Comme les munitions sont rares en mode Hardcore, vous devez toujours avoir des munitions ou de la poudre à canon sur vous. Lorsque votre inventaire est plein, privilégiez les munitions et jetez les autres objets.
 
-!!! warning "Quittez et rechargez la sauvegarde en cas de game over"
+???+ warning "Quittez et rechargez la sauvegarde en cas de game over"
 
     <figure markdown="span">
 
@@ -44,11 +44,11 @@
 
     Si vous mourez pendant le jeu, il est préférable de charger une sauvegarde plutôt que de continuer. Reprendre là où vous vous êtes arrêté ajoute du temps à votre temps de jeu total. 
 
-!!! tip "L'utilisation du couteau infini est autorisée pour le rang S+"
+???+ tip "L'utilisation du couteau infini est autorisée pour le rang S+"
 
     Bien que l'utilisation d'armes infinies ne soit pas autorisée pour obtenir le rang S+, vous pouvez tout de même obtenir ce rang en utilisant le couteau de combat infini. Cela permet de tuer facilement les zombies à terre et d'économiser des balles.
 
-!!! abstract  "Points de sauvegarde recommandés" 
+???+ abstract  "Points de sauvegarde recommandés" 
 
     - G 1ère forme avant le combat (pièce secrète sous la statue de la déesse)
     - G 2ème forme avant le combat (salle de surveillance des égouts après avoir résolu le puzzle d'échecs)
@@ -69,11 +69,11 @@
 | 7 | Déclenchez la cinématique  |   
 | 8 | Faites demi-tour immédiatement après la cinématique et courez |   
 
-!!! warning  "4. Courez tout droit vers la clé immédiatement après la cinématique"
+???+ warning  "4. Courez tout droit vers la clé immédiatement après la cinématique"
 
     Ignorez simplement le zombie à ce stade et courez immédiatement vers la clé. Courez vers son côté pour passer en toute sécurité.
 
-!!! warning "5. Lorsque vous obtenez la clé, regardez derrière vous et attendez que le zombie passe"
+???+ warning "5. Lorsque vous obtenez la clé, regardez derrière vous et attendez que le zombie passe"
 
     <figure markdown="span">
 
@@ -147,7 +147,7 @@
 | 16 | Salon | Médaille licorne <br> Poudre à canon (bureau à droite de l'entrée) |
 | 17 | Hall principal | Munition pour pistolet (au-dessus de la chaise à gauche en sortant de la bibliothèque) <br> Médaille lion |
 
-!!! tip  "15. Déplacez les étagères vers le milieu"
+???+ tip  "15. Déplacez les étagères vers le milieu"
 
     <figure markdown="span">
 
@@ -197,7 +197,7 @@
 | 17 | Bureau STARS | Pile (bureau dans la petite pièce) <br> Herbe rouge (immédiatement après l'entrée) <br> Grenade flash (boîte avant gauche) <br> Balles incendiaires (bureau avant gauche) <br> Poudre à canon (blanche) (bureau gauche) <br> Spray de premiers secours (urgence à l'arrière gauche) |
 | 24 |  Devant l'installation souterraine   | Balles incendiaires (étagère gauche) |
 
-!!! tip  "13. Vous devez récupérer le lance-grenades"
+???+ tip  "13. Vous devez récupérer le lance-grenades"
 
     <figure markdown="span">
 
@@ -207,7 +207,7 @@
 
     Le lance-grenades est particulièrement efficace contre les Licker et G, donc si vous l'oubliez et que vous le ratez, vous perdrez beaucoup de temps. 
 
-!!! warning  "20. Zombie au plafond"
+???+ warning  "20. Zombie au plafond"
 
     <figure markdown="span">
 
@@ -238,7 +238,7 @@
 | 4 | Salle des machines | Herbe verte (en haut à gauche de la carte) <br> Grenade à fragmentation (en haut à gauche et en bas à droite de la carte) <br> Herbe rouge (en bas à gauche) <br> Munitions pour pistolet (en bas à droite, en bas à gauche et en haut à gauche de la carte) |
 | 4 | Salle des machines (étage) | Poudre à canon (montez à l'échelle et allez dans la pièce de gauche) <br> Herbe verte (montez à l'échelle et allez dans la pièce de gauche) |
 
-!!! danger "4. G Première Phase"
+???+ danger "4. G Première Phase"
 
     <figure markdown="span">
 
@@ -248,7 +248,7 @@
 
     Vous affrontez votre premier boss. Utilisez des grenades pour lui infliger des dégâts. Son attaque de saisie peut causer une mort instantanée, alors ripostez avec un couteau ou une grenade.
 
-!!! tip "4. Utilisation du couteau de combat"
+???+ tip "4. Utilisation du couteau de combat"
 
     Ce boss peut être éliminé rapidement en l'attaquant de manière continue avec un couteau de combat.
 
@@ -292,7 +292,7 @@
 | 19 | Devant de la salle de stockage Est | Flash (casier côté balcon) <br> Munitions pour pistolet (casier de l'entrepôt) |
 | 21 | Salle de stockage Est | Herbe bleue (étagères près de l'entrée) <br> Grande roue dentée (au-dessus de la boîte centrale) <br> Couteau de combat (pièce avec la clé cœur) <br> Boîte de composants électroniques (pièce avec la clé cœur) |
 
-!!! warning "4. Tuez le Licker au chenil"
+???+ warning "4. Tuez le Licker au chenil"
 
     <figure markdown="span">
 
@@ -421,7 +421,7 @@
 
     <figure markdown="span">
 
-    ![Image title](IMG/chess.png)
+    ![Image title](IMG/chess.png){ width="200" }
 
     </figure>
 
@@ -436,7 +436,7 @@
     * Replacez la Reine sur son panneau électrique d’origine
     * Placez le Roi sur le panneau électrique au fond à gauche
     * Aller récupérer la Reine depuis l’intérieur 
-    * Repartez avec le roi
+    * Repartez avec le Roi
 
 ???+ warning "12. Passer à travers G adulte"
 
@@ -452,7 +452,7 @@
 
 ## Cartes
 
-!!! info "Commissariat, 1er étage"
+???+ info "Commissariat, 1er étage"
 
     <figure markdown="span">
 
@@ -460,7 +460,7 @@
 
     </figure>
 
-!!! info "Commissariat, 2eme étage"
+???+ info "Commissariat, 2eme étage"
 
     <figure markdown="span">
 
@@ -468,7 +468,7 @@
 
     </figure>
 
-!!! info "Commissariat, 3eme étage (+4)"
+???+ info "Commissariat, 3eme étage (+4)"
 
     <figure markdown="span">
 
@@ -476,7 +476,7 @@
 
     </figure>
 
-!!! info "Installation souterraine"
+???+ info "Installation souterraine"
 
     <figure markdown="span">
 
@@ -484,7 +484,7 @@
 
     </figure>
 
-!!! info "Commissariat, parking"
+???+ info "Commissariat, parking"
 
     <figure markdown="span">
 
@@ -492,7 +492,7 @@
 
     </figure>
 
-!!! info "Orphelinat"
+???+ info "Orphelinat"
 
     <figure markdown="span">
 
@@ -500,7 +500,7 @@
 
     </figure>
 
-!!! info "Les rues derrière le commissariat"
+???+ info "Les rues derrière le commissariat"
     
     <figure markdown="span">
 
@@ -508,7 +508,7 @@
 
     </figure>
 
-!!! info "Égouts supérieurs"
+???+ info "Égouts supérieurs"
     
     <figure markdown="span">
 
@@ -516,7 +516,7 @@
 
     </figure>
 
-!!! info "Égouts"
+???+ info "Égouts"
     
     <figure markdown="span">
 
@@ -524,7 +524,7 @@
 
     </figure>
 
-!!! info "Égouts inférieurs"
+???+ info "Égouts inférieurs"
     
     <figure markdown="span">
 
