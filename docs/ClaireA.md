@@ -496,6 +496,57 @@
 
 ## Laboratoire à puzzle de dispersion chimique
 
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 1 | Descendez le chemin et rendez-vous à la salle des gardes | 
+| 2 | Organisez les objets dans la zone d'accueil |   
+| 3 | Rendez-vous à la cafétéria par la porte à côté de l'entrée |   
+| 4 | Passez devant les zombies dans la cafétéria et grimpez à l'échelle, ignorez les zombies |   
+| 5 | Empruntez la porte en sortant de la cuisine <br>  Tuez le zombie à l'endroit où vous avez ouvert la porte |   
+| 6 | Combinez les composants électroniques et le bracelet |   
+| 7 | Dirigez-vous vers le hall principal |   
+| 8 | Ouvrez le passage vers la zone Est |   
+| 9 | Organisez les objets dans le hall (conservez beaucoup de munitions incendiaires) |   
+| 10 | Traversez la salle de conférence et rendez-vous à la salle de contrôle de la serre |   
+| 11 | Brûlez les ennemis Ivy sur votre chemin avec des munitions incendiaires |   
+| 12 | Obtenez la cartouche de dispersion au centre de contrôle de la serre |   
+| 13 | Entrez le code de cryptage <br>  Laboratoire d'analyse (2067) <br> Échelle (3123)  |   
+| 14 | Diréger vous vers le laboratoire d'analyse |  
+| 15 | Résolvez l'énigme des médicaments <br> milieu, gauche, droite, milieu, gauche, droite, milieu, gauche |  
+| 16 | Allez à l'échelle depuis la trappe ouverte |  
+| 17 | Tuez les zombies (3 ennemis) lorsque vous arrivez dans le salon <br> Deux Lickers apparaissent au fur et à mesure que vous avancez, vous pouvez les ignorer pour l'instant|  
+| 18 | Montez les escaliers et éliminez tous les zombies sur la route |  
+| 19 | Prenez le modulateur et retournez dans le salon |  
+| 20 | Tuez les Lickers dans le salon |  
+| 21 | Le modulateur réglé sur MURF permet de rétablir l'électricité |  
+| 22 | Refroidissez l'herbicide dans le laboratoire à basse température |  
+| 23 | Organisez vos objets dans la salle des serveurs |  
+| 24 | Dirigez-vous vers la salle de contrôle de la serre <br> Brûler le lierre avec des balles incendiaires |  
+| 25 | Après avoir pulvérisé l'agent chimique, combiner les composants électroniques avec le bracelet |  
+| 26 |  Ouvrir le passage vers la zone ouest dans le hall principal |  
+
+| No. | Lieu          | Objets |
+| :---------------: |:---------------| :------------- |
+| 3 | Cafeteria  |  Cartouche d'aiguille (étagère de gauche immédiatement) |
+| 5 | Cuisine |  Poudre à canon (grande) (à gauche de l'endroit où vous êtes descendu) <br> Couteau de combat (à gauche de la cuisine) |
+| 6 | Salle de sieste  | Composant électronique (main dépassant vers la droite) <br> Condensateur haute tension (casier gauche) <br> Munitions incendiaires (étagère gauche) |
+| 9 | Hall principal | poudre à canon (bureau devant la boîte à objets) |
+| 10 | Centre de contrôle de la serre | Flash (bureau central) |
+| 14 | Laboratoire d'analyse |  Poudre à canon (bureau central) |
+| 16 | Serre | Herbe rouge (descendez l'escalier à gauche) <br> Herbe bleue (porte d'entrée) |
+| 20 | Salon |  Poudre à canon (en bas de l'échelle et à gauche au bout) <br> Munitions incendiaires |
+| 23 | Salle des serveurs |  Poudre à canon améliorée (blanche) (étagère gauche) <br> Munitions incendiaires (boîte d'objets à gauche) |
+
+???+ danger "11. Méfiez-vous de l'attaque mortelle instantanée des Ivy"
+    
+    <figure markdown="span">
+
+    ![Image title](IMG/10.jpg)
+
+    </figure>
+
+    Les Ivy, qui apparaîssent à partir d'ici, peuvent vous infliger une attaque mortelle instantanée lorsqu'elles vous attrapre. Si vous mourez, vous serez renvoyé au point de sauvegarde, ce qui vous fera perdre du temps. Assurez-vous toujours d'avoir une arme pour riposter, comme un couteau, ou tuez-les avec des balles incendiaires.
+
 ## Cartes
 
 ???+ info "Commissariat, 1er étage"
