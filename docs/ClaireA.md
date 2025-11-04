@@ -605,6 +605,54 @@
 
     Lorsque Birkin subit des dégâts supérieurs à un certain seuil, son comportement change et ses points faibles, à savoir ses globes oculaires, sont toujours exposés. En gardant vos distances, vous pouvez le vaincre en tirant sur ses globes oculaires.
 
+## Évasion du laboratoire vers la fin
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 1 | Accompagnez Sherry jusqu'au hall principal | 
+| 2 | Activez l'ascenseur situé au centre du hall principal |   
+| 3 | Descendez de l'ascenseur et continuez sur le chemin |   
+| 4 | Organiser vos objets pour la dernière fois |   
+| 5 | Lorsque vous êtes prêt, descendez avec le petit ascenseur <br> Ignorez l'Ivy sur la route et courez jusqu'à la porte |   
+| 6 | Descendez l'échelle et trouvez la porte <br> Combattez les Ivy jusqu'à ce que Sherry ouvre la porte <br> Si vous avez des balles incendiaires, utilisez-les ici |   
+| 7 | Lorsque la porte s'ouvre, suivez le chemin <br> Vous pouvez vaincre les zombies qui s'y trouvent |   
+| 8 | Récupérez une prise double dans le train <br> Utilisez la prise double dans la pièce à côté du train <br> Récupérez le minigun |   
+| 9 | Après la cinématique, le combat contre la 4ème forme de Birkin commence |   
+| 10 | Le temps de jeu est déterminé à la fin du jeu |   
+
+???+ tip "4. Gérez votre inventaire avant le combat"
+   
+    <figure markdown="span">
+
+    ![Image title](IMG/15.jpg)
+
+    </figure>
+
+    Voici la dernière boite, les objets ne pourront plus être remplacés avant la fin. Ne prenez que les objets nécessaires, comme les grenades à fragmentation pour le boss. Ranger le fusil électrique et les autres objets inutiles. ** Gardez 2 emplacements d'objet pour le minigun et la prise double.**
+
+
+
+???+ tip "9. Infligez des dégâts importants avec les grenades à fragmentation"    
+
+    <figure markdown="span">
+
+    ![Image title](IMG/16.jpg)
+
+    </figure>
+
+    La grenade à fragmentation est également puissante pour cette 4ème forme. Elle est recommandée car elle est facile à utiliser lorsqu'elle est lancée à l'arrêt, par exemple après une course.
+
+???+ tip "9. Utilisez le minigun avec les grenades à fragmentation"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/17.jpg)
+
+    </figure>
+
+    Si vous utilisez les grenades à fragmentation, vous pouvez vaincre le boss en visant uniquement son point faible avec le minigun. Si vous tirez ailleurs que sur ses points faibles, vous allez épuiser vos munitions, alors soyez patient et visez avec précision.
+   
+
 ## Cartes
 
 ???+ info "Commissariat, 1er étage"
