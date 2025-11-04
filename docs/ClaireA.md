@@ -494,7 +494,7 @@
 
     Une fois que Birkin rugit, déplacez-vous sur le côté de la porte. Vous pouvez vous faufiler sur le côté.
 
-## Laboratoire à puzzle de dispersion chimique
+## Laboratoire jusqu'à la dispersion chimique
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
