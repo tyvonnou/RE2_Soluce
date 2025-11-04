@@ -494,6 +494,8 @@
 
     Une fois que Birkin rugit, déplacez-vous sur le côté de la porte. Vous pouvez vous faufiler sur le côté.
 
+## Laboratoire à puzzle de dispersion chimique
+
 ## Cartes
 
 ???+ info "Commissariat, 1er étage"
@@ -573,5 +575,13 @@
     <figure markdown="span">
 
     ![Image title](IMG/ClaireAmap10.jpg)
+
+    </figure>
+
+???+ info "Laboratoire"
+    
+    <figure markdown="span">
+
+    ![Image title](IMG/ClaireAmap11.jpg)
 
     </figure>
