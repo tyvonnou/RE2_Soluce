@@ -260,10 +260,10 @@
 | 2 | Récupérer les objets dans le stand de tir |   
 | 3 | Sortez par la porte du parking et utilisez la clé de la voiture. Jetez la clé après avoir déverrouillé le coffre de la voiture de police |   
 | 4 | Rendez-vous au chenil et tuez 2 Lickers |   
-| 5 | Obtenir la clé diamant dans la morgue |   
+| 5 | Obtenir la clé carreau dans la morgue |   
 | 6 | Comme les zombies près de l'entrée sont plus coriaces, utilisez une grenade flash pour les neutraliser afin de pouvoir passer en toute sécurité |   
 | 7 | Il y a un Licker au plafond sur le chemin du retour, battez-le si vous allez au stand de tir |   
-| 8 | Si vous utilisez la clé diamant dans le stand de tir, vous pouvez la défaussez plus tard |   
+| 8 | Si vous utilisez la clé carreau dans le stand de tir, vous pourez la défaussez plus tard |   
 | 9 | Récupérez le JMPHp 3 dans le coffre de la voiture ouvert précédemment |   
 | 10 | Rendez-vous à la salle de contrôle des ascenseurs | 
 | 11 | Tirez le levier dans la salle de contrôle de l'ascenseur et montez dans l'ascenseur | 
@@ -304,6 +304,87 @@
 
 ## Balcon jusqu'à Sherry
 
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 1 | Montez les escaliers jusqu'au balcon | 
+| 2 | Descendez de l'échelle |   
+| 3 | Descendez les escaliers et tirez le levier |   
+| 4 | Récupérez les deux herbes vertes |   
+| 5 | Tirez sur le levier de la valve pour éteindre le feu |   
+| 6 | Le tyran apparaît lorsque vous passez de la porte vers l'hélicoptère |   
+| 7 | Attirez Tyrant sur le balcon, esquivez le et dirigez-vous vers le hall principal |   
+| 8 | Récupérez le chargeur étendu JMP dans le coffre-fort de la salle d'attente (droite 6, gauche 2, droite 11) |   
+| 9 | Gestion des objets dans le hall principal (assurez-vous d'avoir sur vous votre badge STARS et votre clé carreau) |   
+| 10 | Convertir le badge STARS en clé USB | 
+| 11 | Traversez la bibliothèque pour vous rendre à la buanderie | 
+| 12 | Ouvrez la buanderie avec la clé en carreau (jetez la clé) | 
+| 13 | Obtenir le coffre-fort portable  | 
+| 14 | Procurez-vous la mitraillette à l'aide d'une clé USB au bureau STARS | 
+| 15 | Rendez-vous à la salle des coffres (il est plus sûr d'y aller depuis le bureau ouest) | 
+| 16 | Battez le Licker dans le couloir | 
+| 17 | Utiliser la clé de rechange dans la salle des coffres (203) Prendre la sacoche | 
+| 18 | Ouvrez la salle des archives avec la clé cœur | 
+| 19 | Récupérez l'outil | 
+| 20 | Rendez-vous à la bibliothèque en passant par le hall principal | 
+| 21 | Prenez le grand engrenage dans la boîte à objets | 
+| 22 | Abaissez la bibliothèque à l'aide de l'outil | 
+| 23 | Déplacez la bibliothèque à l'aide de l'outil et la bibliothèque de gauche une fois vers la droite | 
+| 24 | Passez par-dessus la bibliothèque à l'aide de l'échelle et rendez-vous à la tour de l'horloge | 
+| 25 | Insérez le grand engrenage à l'endroit indiqué à droite | 
+| 26 | Récupérez le grand engrenage et montez les escaliers | 
+| 27 | Récupérez le petit engrenage à l'étage supérieur et remplacez-le par le grand engrenage | 
+| 28 | Placez le petit engrenage devant les escaliers | 
+| 29 | Récupérez la boîte de composants électroniques | 
+| 30 | Traversez la salle de stockage Est pour vous rendre au bureau du chef | 
+| 31 | Résolvez l'énigme du tableau électrique dans la salle de collection | 
+| 32 | Après avoir examiné la carte, passez à la partie Sherry | 
+
+| No. | Lieu          | Objets |
+| :---------------: |:---------------| :------------- |
+| 1 | Balcon | Herbe bleue (sur la table devant) <br> Balle de pistolet (sur le banc près de l'hélicoptère) <br> Herbe verte (au bout de l'escalier) |
+| 6 | Après balcon | Herbe rouge (dès que vous franchissez la porte) |
+| 8 | Salle d'attente | Chargeur étendu (coffre-fort) |
+| 13 | Buanderie | Poudre à canon améliorée (blanche) <br> Coffre-fort portable (au-dessus de la machine à laver) |
+| 19 | Salle des archives | Outil <br> Grenade <br> Poudre à canon |
+
+## De Sherry jusqu'aux égouts
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 1 | La partie avec Sherry commence | 
+| 2 | Retournez immédiatement en arrière et ouvrez la peluche |   
+| 3 | Prenez un bloc dans la peluche |   
+| 4 | Utilisez les blocs dans le puzzle |   
+| 5 | Résolvez le puzzle pour obtenir des ciseaux |   
+| 6 | Utilisez les ciseaux sur le mur |   
+| 7 | Descendez les escaliers et vérifiez les clés dans la salle du directeur |   
+| 8 | Échappez-vous du chef de la police |   
+| 9 | Cachez-vous dans la chambre d'enfant près de l'étagère à serviettes <br> Puis cachez-vous sous le bureau |   
+| 10 | Prenez la clé, rendez-vous dans le bureau du directeur et déclenchez la cinématique | 
+| 11 | Le contrôle revient à Claire | 
+| 12 | Organisez les objets dans le bureau du chef | 
+| 13 | Ouvrez la sortie du parking avec la carte  | 
+| 14 | Esquivez le tyran dans le parking | 
+| 15 | Approchez-vous du grillage avec deux zombies | 
+| 16 | Franchissez la porte après la destruction, ce qui attire les zombies et le tyran | 
+| 17 | Descendez la rue et sortez des escaliers | 
+| 18 | Laissez le premier chien derrière le grillage | 
+| 19 | Tuez le chien sur la voiture banche <br> Puis, le chien sur le chemin | 
+| 20 | Rendez-vous sur le terrain de basket | 
+| 21 | Prenez les balles sur le banc | 
+| 22 | Tuez les trois chiens à travers le grillage | 
+| 23 | Dans le bus, récupérer la grenade et mettre à terre le zombie | 
+| 24 | Tuez le dernier chien, puis accédez à l'orphelina | 
+| 25 | Lorsque vous arrivez à l'orphelinat, récupérez les objets au deuxième étage | 
+| 26 | Descendez l'échelle qui mène du bureau du chef de la police aux égouts | 
+| 27 | Après avoir rejoint Sherry, échappez-vous de Tyrant jusqu'à l'ascenseur |
+
+| No. | Lieu          | Objets |
+| :---------------: |:---------------| :------------- |
+| 1 | Terrain de basket | Munitions pour mitraillette <br> Herbe verte |
+| 6 | Bus | Grenade |
+| 8 | Orphelinat | Munitions pour mitraillette (salle de bain à l'arrière de la chambre d'enfant) <br> Spray de premiers secours (salle de bain à l'arrière de la chambre d'enfant) |
+
 ## Cartes
 
 !!! info "Commissariat, 1er étage"
@@ -343,5 +424,21 @@
     <figure markdown="span">
 
     ![Image title](IMG/ClaireAmap5.jpg)
+
+    </figure>
+
+!!! info "Orphelinat"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/ClaireAmap6.jpg)
+
+    </figure>
+
+!!! info "Les rues derrière le commissariat"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/ClaireAmap7.jpg)
 
     </figure>
