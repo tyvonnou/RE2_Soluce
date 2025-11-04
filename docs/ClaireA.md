@@ -417,7 +417,13 @@
 | 12 | Canal inférieur | Herbe verte (à côté du premier cadavre en descendant l'échelle) |
 | 15 |  Salle des marchandises |  Herbe rouge (étagères à côté de l'entrée) <br> Balle incendiaire (pièce ouverte avec le Roi) |
 
-!!! tip "14. Solution pour obtenir le fusil électrique"
+???+ tip "14. Solution pour obtenir le fusil électrique"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/chess.png)
+
+    </figure>
 
     Vous aurez besoin d’au moins 4 emplacements libres dans votre inventaire pour résoudre l’énigme et prendre l’arme qui occupe deux cases.
 
@@ -432,7 +438,7 @@
     * Aller récupérer la Reine depuis l’intérieur 
     * Repartez avec le roi
 
-!!! warning "12. Passer à travers G adulte"
+???+ warning "12. Passer à travers G adulte"
 
     <figure markdown="span">
 
