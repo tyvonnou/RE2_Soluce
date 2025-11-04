@@ -286,7 +286,7 @@
 | 4 | Chenil | Poudre à canon renforcée (blanche) (panier juste devant l'entrée) |
 | 5 | Morgue | Flash <br> Herbe Rouge <br> Clé Carreaux |
 | 11 | Salle de contrôle de l'ascenseur | Herbe bleue (devant l'entrée) <br> Crosse d’épaule pour le Lance-Grenades (devant l'entrée et le casier) <br> Explosif amélioré (blanc) (derrière le bureau) |
-| 12 | Bureau du chef | Herbe verte (Couloir après l'ascenseur) <br> Munitions pour mitraillette (sur le bureau au centre) |
+| 12 | Bureau du chef | Herbe verte (couloir après l'ascenseur) <br> Munitions pour mitraillette (sur le bureau au centre) |
 | 14 | Salle de collection  | Tableau en relief (sur le bureau) |
 | 17 | Salle d'interrogatoire | Munitions pour pistolet (sur le bureau de gauche) <br> Boîte (insigne STARS) (étagère arrière) |
 | 19 | Devant de la salle de stockage Est | Flash (casier côté balcon) <br> Munitions pour pistolet (casier de l'entrepôt) |
@@ -300,7 +300,7 @@
 
     </figure>
 
-    Vous devez traverser deux fois le chenil. Vous devez donc éliminer le Licker dans cette pièce.
+    Vous devez traverser deux fois le chenil. Il faut donc éliminer le Licker dans cette pièce.
 
 ## Balcon jusqu'à Sherry
 
@@ -311,15 +311,15 @@
 | 3 | Descendez les escaliers et tirez le levier |   
 | 4 | Récupérez les deux herbes vertes |   
 | 5 | Tirez sur le levier de la valve pour éteindre le feu |   
-| 6 | Le tyran apparaît lorsque vous passez de la porte vers l'hélicoptère |   
-| 7 | Attirez Tyrant sur le balcon, esquivez le et dirigez-vous vers le hall principal |   
+| 6 | Le Tyran apparaît lorsque vous passez de la porte vers l'hélicoptère |   
+| 7 | Attirez le Tyran sur le balcon, esquivez-le et dirigez-vous vers le hall principal |   
 | 8 | Récupérez le chargeur étendu JMP dans le coffre-fort de la salle d'attente (droite 6, gauche 2, droite 11) |   
 | 9 | Gestion des objets dans le hall principal (assurez-vous d'avoir sur vous votre badge STARS et votre clé carreau) |   
 | 10 | Convertir le badge STARS en clé USB | 
 | 11 | Traversez la bibliothèque pour vous rendre à la buanderie | 
-| 12 | Ouvrez la buanderie avec la clé en carreau (jetez la clé) | 
+| 12 | Ouvrez la buanderie avec la clé carreau (jetez la clé) | 
 | 13 | Obtenir le coffre-fort portable  | 
-| 14 | Procurez-vous la mitraillette à l'aide d'une clé USB au bureau STARS | 
+| 14 | Procurez-vous la mitraillette à l'aide de la clé USB au bureau STARS | 
 | 15 | Rendez-vous à la salle des coffres (il est plus sûr d'y aller depuis le bureau Ouest) | 
 | 16 | Battez le Licker dans le couloir | 
 | 17 | Utiliser la clé de rechange dans la salle des coffres (203) Prendre la sacoche | 
@@ -328,20 +328,20 @@
 | 20 | Rendez-vous à la bibliothèque en passant par le hall principal | 
 | 21 | Prenez le grand engrenage dans la boîte à objets | 
 | 22 | Abaissez la bibliothèque à l'aide de l'outil | 
-| 23 | Déplacez la bibliothèque à l'aide de l'outil et la bibliothèque de gauche une fois vers la droite | 
+| 23 | Déplacez les dernières bibliothèques | 
 | 24 | Passez par-dessus la bibliothèque à l'aide de l'échelle et rendez-vous à la tour de l'horloge | 
-| 25 | Insérez le grand engrenage à l'endroit indiqué à droite | 
+| 25 | Insérez le grand engrenage à droite | 
 | 26 | Récupérez le grand engrenage et montez les escaliers | 
 | 27 | Récupérez le petit engrenage à l'étage supérieur et remplacez-le par le grand engrenage | 
 | 28 | Placez le petit engrenage devant les escaliers | 
 | 29 | Récupérez la boîte de composants électroniques | 
 | 30 | Traversez la salle de stockage Est pour vous rendre au bureau du chef | 
 | 31 | Résolvez l'énigme du tableau électrique dans la salle de collection | 
-| 32 | Après avoir examiné la carte, passez à la partie Sherry | 
+| 32 | Après avoir examiné la carte, passez à la partie avec Sherry | 
 
 | No. | Lieu          | Objets |
 | :---------------: |:---------------| :------------- |
-| 1 | Balcon | Herbe bleue (sur la table devant) <br> Balle de pistolet (sur le banc près de l'hélicoptère) <br> Herbe verte (au bout de l'escalier) |
+| 1 | Balcon | Herbe bleue (sur la table devant) <br> Munitions pour pistolet (sur le banc près de l'hélicoptère) <br> Herbe verte (au bout de l'escalier) |
 | 6 | Après balcon | Herbe rouge (dès que vous franchissez la porte) |
 | 8 | Salle d'attente | Chargeur étendu (coffre-fort) |
 | 13 | Buanderie | Poudre à canon améliorée (blanche) <br> Coffre-fort portable (au-dessus de la machine à laver) |
@@ -358,15 +358,15 @@
 | 5 | Résolvez le puzzle pour obtenir des ciseaux |   
 | 6 | Utilisez les ciseaux sur le mur |   
 | 7 | Descendez les escaliers et vérifiez les clés dans la salle du directeur |   
-| 8 | Échappez-vous du chef de la police |   
-| 9 | Cachez-vous dans la chambre d'enfant près de l'étagère à serviettes <br> Puis cachez-vous sous le bureau |   
-| 10 | Prenez la clé, rendez-vous dans le bureau du directeur et déclenchez la cinématique | 
-| 11 | Le contrôle revient à Claire | 
+| 8 | Échappez au chef de la police |   
+| 9 | Cachez-vous dans la chambre d'enfant près de l'étagère à serviettes, puis cachez-vous sous le bureau |   
+| 10 | Prenez la clé <br> Rendez-vous dans le bureau du directeur et déclenchez la cinématique | 
+| 11 | Vous contrôlez de nouveau Claire | 
 | 12 | Organisez les objets dans le bureau du chef | 
 | 13 | Ouvrez la sortie du parking avec la carte  | 
-| 14 | Esquivez le tyran dans le parking | 
+| 14 | Esquivez le Tyran dans le parking | 
 | 15 | Approchez-vous du grillage avec deux zombies | 
-| 16 | Franchissez la porte après la destruction, ce qui attire les zombies et le tyran | 
+| 16 | Franchissez la porte après la destruction, ce qui attire les zombies et le Tyran | 
 | 17 | Descendez la rue et sortez des escaliers | 
 | 18 | Laissez le premier chien derrière le grillage | 
 | 19 | Tuez le chien sur la voiture banche <br> Puis, le chien sur le chemin | 
