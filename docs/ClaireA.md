@@ -11,7 +11,7 @@
 
     </figure>
 
-    Le rang S+ doit être obtenu dans un délai très strict (Normal : 03:30:00, Hardcore : 02:30:00). Vous devez effectuer le moins d'actions possible pour accomplir les tâches afin de ne pas perdre de temps. Mettre le jeu en pause arrêtera le chronomètre. Cela vous laissera le temps d'étudier les solutions des énigmes avant de vous y attaquer.
+    Le rang S+ doit être atteint dans un délai strictement limité (Normal : 03:30:00, Hardcore : 02:30:00). Vous devez minimiser le nombre d'actions afin de gagner du temps et éviter toute perte de secondes. Mettre le jeu en pause arrêtera le chronomètre, ce qui vous permettra de prendre le temps d'analyser les solutions des énigmes avant de les résoudre.
 
 ???+ warning "Tuez les ennemis sur les chemins les plus empruntés"
 
@@ -21,7 +21,7 @@
 
     </figure>
 
-    En mode Hardcore, si vous êtes attaqué deux fois, la partie est terminée. Essayez de vaincre les ennemis dans les chemins fréquemment empruntés avec prudence et prenez le temps de les vaincre.
+    En mode Hardcore, si vous êtes attaqué deux fois, la partie est terminée. Soyez donc extrêmement vigilant. Prenez le temps de vaincre les ennemis sur les itinéraires les plus fréquentés, en agissant avec prudence. Ne vous précipitez pas et assurez-vous de maîtriser chaque rencontre.
 
 
 ???+ note "Ramassez toutes les munitions"
@@ -32,7 +32,7 @@
 
     </figure>
 
-    Comme les munitions sont rares en mode Hardcore, vous devez toujours avoir des munitions ou de la poudre à canon sur vous. Lorsque votre inventaire est plein, privilégiez les munitions et jetez les autres objets.
+    En mode Hardcore, les munitions sont rares, il est donc crucial d'en avoir constamment à portée de main, ou à défaut, de la poudre à canon. Lorsque votre inventaire est plein, privilégiez toujours les munitions et jetez les objets moins essentiels.
 
 ???+ warning "Quittez et rechargez la sauvegarde en cas de Game Over"
 
@@ -42,7 +42,7 @@
 
     </figure>
 
-    Si vous mourez pendant le jeu, il est préférable de charger une sauvegarde plutôt que de continuer. Reprendre là où vous vous êtes arrêté ajoute du temps à votre temps de jeu total. 
+    Si vous mourez pendant la partie, il est préférable de charger une sauvegarde plutôt que de continuer. Reprendre directement là où vous vous êtes arrêté rallonge considérablement votre temps de jeu.
 
 ???+ tip "L'utilisation du couteau infini est autorisée pour le rang S+"
 
@@ -52,7 +52,7 @@
 
     - William Birkin 1ère forme avant le combat (pièce secrète sous la statue de la déesse)
     - William Birkin 2ème forme avant le combat (salle de surveillance des égouts après avoir résolu le puzzle d'échecs)
-    - William Birkin 3ème forme avant le combat (laboratoire - zone ouest après avoir obtenu l'échantillon du virus G)
+    - William Birkin 3ème forme avant le combat (laboratoire - zone Ouest après avoir obtenu l'échantillon du virus G)
 
     Pour obtenir la note S+, vous devez limiter le nombre de sauvegardes à 3 maximum. Les points recommandés ci-dessus concernent les combats contre les boss principaux avec William Birkin et les situations de mort instantanée.
 
@@ -71,7 +71,7 @@
 
 ???+ warning  "4. Courez tout droit vers la clé immédiatement après la cinématique"
 
-    Ignorez simplement le zombie à ce stade et courez immédiatement vers la clé. Courez vers son côté pour passer en toute sécurité.
+    Ignorez le zombie et foncez directement vers la clé. Dirigez-vous vers son côté pour le contourner en toute sécurité.
 
 ???+ warning "5. Lorsque vous obtenez la clé, regardez derrière vous et attendez que le zombie passe"
 
@@ -90,7 +90,7 @@
 | 1 | Courez au poste de police | 
 | 2 | En chemin, entrez dans la ruelle à gauche après la voiture de police |   
 | 3 | Entrez par le portail et dirigez-vous vers le poste de police situé de l'autre côté |   
-| 4 | Examinez immédiatement l'interrupteur situé à droite de l'entrée pour ouvrir le couloir est du 1er étage  |   
+| 4 | Examinez immédiatement l'interrupteur situé à droite de l'entrée pour ouvrir le couloir Est du 1er étage  |   
 | 5 | Passez par le volet situé juste à côté de l'interrupteur et rendez-vous dans la salle du gardien, à l'arrière |   
 | 6 | Déclenchez la cinématique après avoir ouvert le volet dans la salle des gardes |   
 | 7 | Après la cinématique, passez devant le zombie qui enfonce la porte  |   
@@ -102,17 +102,17 @@
 | :---------------: |:---------------| :------------- |
 | 4 | Hall principal |Spray de premiers secours <br> Ruban encreur |
 | 6 | Toilettes |Spray de premiers secours |
-| 9 | Salle de presse | Munitions ( sur le cadavre au centre) |
+| 9 | Salle de presse | Munitions (sur le cadavre au centre) |
 | 9 | Petite pièce à gauche de la salle de presse | Munitions |
 
 ## Salle principale à l'appel de Marvin 
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
-| 1 |  Utilisez le couteau de combat pour vous rendre dans le couloir ouest du 1er étage | 
+| 1 |  Utilisez le couteau de combat pour vous rendre dans le couloir Ouest du 1er étage | 
 | 2 | Rendez-vous dans la salle des opérations et utilisez la planche de bois sur la fenêtre (la fenêtre avec les zombies près de la salle des opérations) |   
 | 3 | Tuez les deux zombies lorsque vous sortez dans le couloir |   
-| 4 |  Entrez dans le bureau ouest et récupérez le chargeur rapide (serrure gauche : NED, serrure droite : MRG)  |   
+| 4 |  Entrez dans le bureau Ouest et récupérez le chargeur rapide (serrure gauche : NED, serrure droite : MRG)  |   
 | 5 | Récupérez la pochette à la hanche dans le coffre-fort. (gauche 9, droite 15, gauche 7) |   
 | 6 | Allez dans la chambre noire et fermez la fenêtre avec la planche de bois |   
 | 7 | Montez les escaliers et tuez les zombies sur votre chemin |   
@@ -120,7 +120,7 @@
 | 9 | Ouvrez le coffre-fort portable et récupérez l'objet dans la salle des coffres |   
 | 10 | Gérez votre inventaire dans la chambre noire à l'aide de la boîte à objets |   
 | 11 |  Récupérez la clé en forme de pique au 3e étage. Déverrouillez le casier à l'aide de la solution : DCM | 
-| 12 | Traversez la réserve ouest pour vous rendre à la bibliothèque |   
+| 12 | Traversez la réserve Ouest pour vous rendre à la bibliothèque |   
 | 13 |  Lorsque vous arrivez à la bibliothèque, Marvin vous contactera par radio |   
 | 14 | **Éliminez tous les ennemis dans la bibliothèque**  |   
 | 15 | **Déplacez les étagères vers le milieu et alignez-les avec l'espace dans le sol au-dessus** |   
@@ -129,20 +129,20 @@
 | 18 | Obtenez la médaille Lion (lion · feuille · oiseau) |   
 | 19 | Déclenchez la cinématique en vous approchant de Marvin |   
 | 20 | Après la cinématique, attachez les 2 médailles à la statue de la déesse au centre |   
-| 21 | Déverrouillez la porte du bureau ouest à l'aide de la clé de pique |   
+| 21 | Déverrouillez la porte du bureau Ouest à l'aide de la clé de pique |   
 | 22 | Rangez les objets dans la boîte du hall principal |   
 
 | No. | Lieu          | Objets |
 | :---------------: |:---------------| :------------- |
 | 1 | Salle de réception | Herbe verte (près de l'entrée) <br> Munitions pour pistolet (sur la chaise) |
 | 2 | Salle des opérations | Munitions pour pistolet  (juste après l'entrée) |
-| 4 | Couloir devant le bureau ouest | Munitions pour pistolet (derrière la salle des opérations) <br> Planche de bois (devant la chambre noire) |
-| 5 | Bureau ouest | Munitions pour pistolet (casier) <br> Poudre à canon (sur le bureau) <br> Sacoche (coffre-fort) <br> Chargeur rapide (bureau de Leon)|
+| 4 | Couloir devant le bureau Ouest | Munitions pour pistolet (derrière la salle des opérations) <br> Planche de bois (devant la chambre noire) |
+| 5 | Bureau Ouest | Munitions pour pistolet (casier) <br> Poudre à canon (sur le bureau) <br> Sacoche (coffre-fort) <br> Chargeur rapide (bureau de Leon)|
 | 6 | Chambre noire | Poudre à canon (casier) <br> Herbe rouge (arrière-salle)|
-| 8 | 2e étage ouest | Munitions pour pistolet (cadavre devant l'escalier) <br> Herbe rouge (devant la salle de douche) <br> Balles incendiaires (casier) <br> Balles incendiaires (casier avec clé) <br> Coffre-fort portable (sur l'étagère à côté du casier) |
+| 8 | 2e étage Ouest | Munitions pour pistolet (cadavre devant l'escalier) <br> Herbe rouge (devant la salle de douche) <br> Balles incendiaires (casier) <br> Balles incendiaires (casier avec clé) <br> Coffre-fort portable (sur l'étagère à côté du casier) |
 | 9 | Salle des coffres |  Poudre à canon (102) <br> Munitions pour pistolet (109) <br> Balles incendiaires (208) |
-| 11 | 3e étage ouest | Munitions pour pistolet (sur la boîte devant l'escalier) <br> Munitions pour mitraillette (casier avec clé) <br> Clé en forme de pique |
-| 12 | Réserve ouest  | Poudre à canon (sur la boîte à côté de l'entrée) <br> Bois (à droite de l'entrée) <br> Munitions pour pistolet (étagère devant le C4) <br> Sacoche (sur le bureau devant le C4) |
+| 11 | 3e étage Ouest | Munitions pour pistolet (sur la boîte devant l'escalier) <br> Munitions pour mitraillette (casier avec clé) <br> Clé en forme de pique |
+| 12 | Réserve Ouest  | Poudre à canon (sur la boîte à côté de l'entrée) <br> Bois (à droite de l'entrée) <br> Munitions pour pistolet (étagère devant le C4) <br> Sacoche (sur le bureau devant le C4) |
 | 13 | Bibliothèque  | Couteau de combat (cadavre à gauche sous l'escalier) <br> Livre rouge (bureau devant la porte pique)|
 | 16 | Salon | Médaille licorne <br> Poudre à canon (bureau à droite de l'entrée) |
 | 17 | Hall principal | Munition pour pistolet (au-dessus de la chaise à gauche en sortant de la bibliothèque) <br> Médaille lion |
@@ -164,10 +164,10 @@
 | 1 | Ouvrez la porte pique dans la salle d'attente (jetez la clé pique à ce stade)| 
 | 2 | Récupérez la clé du casier à armes et le sceptre (joyau rouge) dans la salle d'art |   
 | 3 | Empruntez la sortie de secours pour rejoindre le premier étage |   
-| 4 | Utilisez le coupe boulon pour ouvrir le bureau côté est |   
+| 4 | Utilisez le coupe boulon pour ouvrir le bureau côté Est |   
 | 5 | Gardez les fenêtres fermées avec du bois |   
-| 6 | Prenez le fusible et la poignée ronde dans le bureau côté est |   
-| 7 | Gardez les fenêtres du bureau ouest fermées avec un cadre en bois |   
+| 6 | Prenez le fusible et la poignée ronde dans le bureau côté Est |   
+| 7 | Gardez les fenêtres du bureau Ouest fermées avec un cadre en bois |   
 | 8 | Ouvrez le hall principal avec le fusible |   
 | 9 | Gérez l'inventaire dans la boîte à objets |   
 | 10 | Assurez-vous d'avoir la clé du casier à armes, le coupe boulon et la poignée ronde, puis dirigez-vous vers la salle des opérations |   
@@ -178,7 +178,7 @@
 | 15 | Utilisez la valve au 2e étage pour accéder au bureau STARS |   
 | 16 | Tuez le Licker avec une grenade |   
 | 17 | Récupérez la pile au bureau STARS |   
-| 18 | Descendez le chemin et dirigez-vous vers la salle de stockage ouest depuis la bibliothèque |   
+| 18 | Descendez le chemin et dirigez-vous vers la salle de stockage Ouest depuis la bibliothèque |   
 | 19 | Fixez le détonateur au C4 |   
 | 20 | Tuez le zombie suspendu au plafond |   
 | 21 |  Après avoir installé le détonateur, l'étagère ne s'effondrera pas si vous vous échappez vers la bibliothèque |   
@@ -320,7 +320,7 @@
 | 12 | Ouvrez la buanderie avec la clé en carreau (jetez la clé) | 
 | 13 | Obtenir le coffre-fort portable  | 
 | 14 | Procurez-vous la mitraillette à l'aide d'une clé USB au bureau STARS | 
-| 15 | Rendez-vous à la salle des coffres (il est plus sûr d'y aller depuis le bureau ouest) | 
+| 15 | Rendez-vous à la salle des coffres (il est plus sûr d'y aller depuis le bureau Ouest) | 
 | 16 | Battez le Licker dans le couloir | 
 | 17 | Utiliser la clé de rechange dans la salle des coffres (203) Prendre la sacoche | 
 | 18 | Ouvrez la salle des archives avec la clé cœur | 
@@ -523,7 +523,7 @@
 | 23 | Organisez vos objets dans la salle des serveurs |  
 | 24 | Dirigez-vous vers la salle de contrôle de la serre <br> Brûler le lierre avec des balles incendiaires |  
 | 25 | Après avoir pulvérisé l'agent chimique, combiner les composants électroniques avec le bracelet |  
-| 26 |  Ouvrir le passage vers la zone ouest dans le hall principal |  
+| 26 |  Ouvrir le passage vers la zone Ouest dans le hall principal |  
 
 | No. | Lieu          | Objets |
 | :---------------: |:---------------| :------------- |
