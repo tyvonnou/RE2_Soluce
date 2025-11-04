@@ -11,12 +11,7 @@
 
     </figure>
 
-    Le rang S+ doit être obtenu dans un délai très strict. Vous devez effectuer le moins d'actions possible pour accomplir les tâches afin de ne pas perdre de temps. Mettre le jeu en pause arrêtera le chronomètre. Cela vous laissera le temps d'étudier les solutions des énigmes avant de vous y attaquer.
-
-    | Mode | Temps |
-    | :---------------: |:--------| 
-    | Claire A (Normal) |  03:30:00 | 
-    | Claire A (Hardcore) |  02:30:00 |
+    Le rang S+ doit être obtenu dans un délai très strict (Normal : 03:30:00, Hardcore : 02:30:00). Vous devez effectuer le moins d'actions possible pour accomplir les tâches afin de ne pas perdre de temps. Mettre le jeu en pause arrêtera le chronomètre. Cela vous laissera le temps d'étudier les solutions des énigmes avant de vous y attaquer.
 
 !!! warning "Tuez les ennemis sur les chemins les plus empruntés"
 
