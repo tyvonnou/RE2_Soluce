@@ -436,9 +436,7 @@
     </figure>
 
 !!! info "Les rues derrière le commissariat"
-
+    
     <figure markdown="span">
-
     ![Image title](IMG/ClaireAmap7.jpg)
-
     </figure>
