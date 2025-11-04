@@ -521,16 +521,16 @@
 | 21 | Le modulateur réglé sur MURF permet de rétablir l'électricité |  
 | 22 | Refroidissez l'herbicide dans le laboratoire à basse température |  
 | 23 | Organisez vos objets dans la salle des serveurs |  
-| 24 | Dirigez-vous vers la salle de contrôle de la serre <br> Brûler le lierre avec des balles incendiaires |  
-| 25 | Après avoir pulvérisé l'agent chimique, combiner les composants électroniques avec le bracelet |  
-| 26 |  Ouvrir le passage vers la zone Ouest dans le hall principal |  
+| 24 | Dirigez-vous vers la salle de contrôle de la serre <br> Brûlez le lierre avec des balles incendiaires |  
+| 25 | Après avoir pulvérisé l'agent chimique, combinez les composants électroniques avec le bracelet |  
+| 26 | Ouvrez le passage vers la zone Ouest dans le hall principal |  
 
 | No. | Lieu          | Objets |
 | :---------------: |:---------------| :------------- |
-| 3 | Cafeteria  |  Cartouche d'aiguille (étagère de gauche immédiatement) |
+| 3 | Cafétéria   |  Munitions électriques (étagère de gauche immédiatement) |
 | 5 | Cuisine |  Poudre à canon (grande) (à gauche de l'endroit où vous êtes descendu) <br> Couteau de combat (à gauche de la cuisine) |
 | 6 | Salle de sieste  | Composant électronique (main dépassant vers la droite) <br> Condensateur haute tension (casier gauche) <br> Munitions incendiaires (étagère gauche) |
-| 9 | Hall principal | poudre à canon (bureau devant la boîte à objets) |
+| 9 | Hall principal | Poudre à canon (bureau devant la boîte à objets) |
 | 10 | Centre de contrôle de la serre | Flash (bureau central) |
 | 14 | Laboratoire d'analyse |  Poudre à canon (bureau central) |
 | 16 | Serre | Herbe rouge (descendez l'escalier à gauche) <br> Herbe bleue (porte d'entrée) |
@@ -545,7 +545,7 @@
 
     </figure>
 
-    Les Ivy, qui apparaîssent à partir d'ici, peuvent vous infliger une attaque mortelle instantanée lorsqu'elles vous attrapre. Si vous mourez, vous serez renvoyé au point de sauvegarde, ce qui vous fera perdre du temps. Assurez-vous toujours d'avoir une arme pour riposter, comme un couteau, ou tuez-les avec des balles incendiaires.
+    Les Ivy, qui apparaîssent à partir d'ici, peuvent vous infliger une attaque mortelle instantanée lorsqu'elles vous attrapent. Si vous mourez, vous serez renvoyé au point de sauvegarde, ce qui vous fera perdre du temps. Assurez-vous toujours d'avoir une arme pour riposter, comme un couteau, ou tuez-les avec des balles incendiaires.
 
 ## Laboratoire Ouest à William Birkin 3eme forme
 
@@ -563,7 +563,7 @@
 | :---------------: |:---------------| :------------- |
 | 2 | Laboratoire biologique  |   Grenade à fragmentation (cadavre sur le chemin menant au laboratoire) <br> Herbe bleue (sortie latérale) |
 | 3 | Laboratoire de niveau P-4 | Herbe rouge (casier) <br> Poudre améliorée (blanche) (sur le bureau) <br> Poudre à canon (grande) (Étagère de droite) |
-| 6 | Récipient de culture adulte |  Spray de premiers secours (côté gauche du laboratoire) <br> Balle renforcée pour SLS 60 (côté droit du laboratoire) <br> Flash (côté droit du laboratoire, côté ascenseur) <br> Cartouche à aiguille (bas de la carte, à gauche) <br> Grenade à fragmentation |
+| 6 | Récipient de culture adulte |  Spray de premiers secours (côté gauche du laboratoire) <br> Balle renforcée pour SLS 60 (côté droit du laboratoire) <br> Flash (côté droit du laboratoire, côté ascenseur) <br> Munitions électriques (bas de la carte, à gauche) <br> Grenade à fragmentation |
 
 ???+ tip "6. Visez les yeux dans les genoux lorsque le combat commence"
 
@@ -603,7 +603,7 @@
 
     </figure>
 
-    Lorsque Birkin subit des dégâts supérieurs à un certain seuil, son comportement change et ses points faibles, à savoir ses globes oculaires, sont toujours exposés. En gardant vos distances, vous pouvez le vaincre en tirant sur ses globes oculaires.
+    Lorsque Birkin subit des dégâts supérieurs à un certain seuil, son comportement change et ses points faibles (globes oculaires) sont toujours exposés. En gardant vos distances, vous pouvez le vaincre en tirant sur ses globes oculaires.
 
 ## Évasion du laboratoire vers la fin
 
@@ -612,9 +612,9 @@
 | 1 | Accompagnez Sherry jusqu'au hall principal | 
 | 2 | Activez l'ascenseur situé au centre du hall principal |   
 | 3 | Descendez de l'ascenseur et continuez sur le chemin |   
-| 4 | Organiser vos objets pour la dernière fois |   
+| 4 | Organisez vos objets pour la dernière fois |   
 | 5 | Lorsque vous êtes prêt, descendez avec le petit ascenseur <br> Ignorez l'Ivy sur la route et courez jusqu'à la porte |   
-| 6 | Descendez l'échelle et trouvez la porte <br> Combattez les Ivy jusqu'à ce que Sherry ouvre la porte <br> Si vous avez des balles incendiaires, utilisez-les ici |   
+| 6 | Descendez l'échelle et aller à la porte <br> Combattez les Ivy jusqu'à ce que Sherry ouvre la porte <br> Si vous avez des balles incendiaires, utilisez-les ici |   
 | 7 | Lorsque la porte s'ouvre, suivez le chemin <br> Vous pouvez vaincre les zombies qui s'y trouvent |   
 | 8 | Récupérez une prise double dans le train <br> Utilisez la prise double dans la pièce à côté du train <br> Récupérez le minigun |   
 | 9 | Après la cinématique, le combat contre la 4ème forme de Birkin commence |   
@@ -628,7 +628,7 @@
 
     </figure>
 
-    Voici la dernière boite, les objets ne pourront plus être remplacés avant la fin. Ne prenez que les objets nécessaires, comme les grenades à fragmentation pour le boss. Ranger le fusil électrique et les autres objets inutiles. ** Gardez 2 emplacements d'objet pour le minigun et la prise double.**
+    Voici la dernière boîte, les objets ne pourront plus être remplacés avant la fin. Ne prenez que les objets nécessaires, comme les grenades à fragmentation pour le boss. Ranger le fusil électrique et les autres objets inutiles. Gardez 2 emplacements d'objet pour le minigun et la prise double.
 
 
 
@@ -640,7 +640,7 @@
 
     </figure>
 
-    La grenade à fragmentation est également puissante pour cette 4ème forme. Elle est recommandée car elle est facile à utiliser lorsqu'elle est lancée à l'arrêt, par exemple après une course.
+    La grenade à fragmentation est également puissante pour cette 4ème forme. Elle est recommandée car elle est facile à utiliser lorsque Birkin est immobile, par exemple après une charge.
 
 ???+ tip "9. Utilisez le minigun avec les grenades à fragmentation"
 
