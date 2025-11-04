@@ -377,7 +377,7 @@
 | 24 | Tuez le dernier chien, puis accédez à l'orphelina | 
 | 25 | Lorsque vous arrivez à l'orphelinat, récupérez les objets au deuxième étage | 
 | 26 | Descendez l'échelle qui mène du bureau du chef de la police aux égouts | 
-| 27 | Après avoir rejoint Sherry, échappez-vous de Tyrant jusqu'à l'ascenseur |
+| 27 | Après avoir rejoint Sherry, échappez-vous du Tyran jusqu'à l'ascenseur |
 
 | No. | Lieu          | Objets |
 | :---------------: |:---------------| :------------- |
@@ -438,5 +438,7 @@
 !!! info "Les rues derrière le commissariat"
     
     <figure markdown="span">
-    ![Image title](IMG/ClaireAmap7.jpg)
+
+    ![Image title](IMG/ClaireAmap7.jpg){ width="300" }
+    
     </figure>
