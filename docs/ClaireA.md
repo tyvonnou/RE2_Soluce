@@ -547,6 +547,8 @@
 
     Les Ivy, qui apparaîssent à partir d'ici, peuvent vous infliger une attaque mortelle instantanée lorsqu'elles vous attrapre. Si vous mourez, vous serez renvoyé au point de sauvegarde, ce qui vous fera perdre du temps. Assurez-vous toujours d'avoir une arme pour riposter, comme un couteau, ou tuez-les avec des balles incendiaires.
 
+## Laboratoire Ouest à William Birkin 3eme forme
+
 ## Cartes
 
 ???+ info "Commissariat, 1er étage"
