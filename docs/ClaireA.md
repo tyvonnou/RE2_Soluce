@@ -431,7 +431,7 @@
 
     <figure markdown="span">
 
-    ![Image title](IMG/ClaireAmap6.jpg)
+    ![Image title](IMG/ClaireAmap6.jpg){ width="1200" }
 
     </figure>
 
@@ -439,6 +439,6 @@
     
     <figure markdown="span">
 
-    ![Image title](IMG/ClaireAmap7.jpg){ width="300" }
-    
+    ![Image title](IMG/ClaireAmap7.jpg){ width="600" }
+
     </figure>
