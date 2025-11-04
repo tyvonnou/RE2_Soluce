@@ -371,19 +371,18 @@
 | 18 | Laissez le premier chien derrière le grillage | 
 | 19 | Tuez le chien sur la voiture banche <br> Puis, le chien sur le chemin | 
 | 20 | Rendez-vous sur le terrain de basket | 
-| 21 | Prenez les balles sur le banc | 
-| 22 | Tuez les trois chiens à travers le grillage | 
-| 23 | Dans le bus, récupérer la grenade et mettre à terre le zombie | 
-| 24 | Tuez le dernier chien, puis accédez à l'orphelina | 
-| 25 | Lorsque vous arrivez à l'orphelinat, récupérez les objets au deuxième étage | 
-| 26 | Descendez l'échelle qui mène du bureau du chef de la police aux égouts | 
-| 27 | Après avoir rejoint Sherry, échappez-vous du Tyran jusqu'à l'ascenseur |
+| 21 | Tuez les trois chiens à travers le grillage | 
+| 22 | Dans le bus, mettre à terre le zombie pour passer | 
+| 23 | Tuez le dernier chien, puis accédez à l'orphelina | 
+| 24 | Lorsque vous arrivez à l'orphelinat, récupérez les objets au deuxième étage | 
+| 25 | Descendez l'échelle qui mène du bureau du chef de la police aux égouts | 
+| 26 | Après avoir rejoint Sherry, échappez-vous du Tyran jusqu'à l'ascenseur |
 
 | No. | Lieu          | Objets |
 | :---------------: |:---------------| :------------- |
-| 1 | Terrain de basket | Munitions pour mitraillette <br> Herbe verte |
-| 6 | Bus | Grenade |
-| 8 | Orphelinat | Munitions pour mitraillette (salle de bain à l'arrière de la chambre d'enfant) <br> Spray de premiers secours (salle de bain à l'arrière de la chambre d'enfant) |
+| 20 | Terrain de basket | Munitions pour mitraillette <br> Herbe verte |
+| 22 | Bus | Grenade |
+| 24 | Orphelinat | Munitions pour mitraillette (salle de bain à l'arrière de la chambre d'enfant) <br> Spray de premiers secours (salle de bain à l'arrière de la chambre d'enfant) |
 
 ## Égouts jusqu'à l'acquisition du fusil électrique 
 
