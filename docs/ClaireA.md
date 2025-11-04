@@ -650,8 +650,7 @@
 
     </figure>
 
-    Si vous utilisez les grenades à fragmentation, vous pouvez vaincre le boss en visant uniquement son point faible avec le minigun. Si vous tirez ailleurs que sur ses points faibles, vous allez épuiser vos munitions, alors soyez patient et visez avec précision.
-   
+    Si vous utilisez des grenades à fragmentation, le minigun vous servira exclusivement pour son point faible. Évitez de tirer ailleurs, car cela videra rapidement vos munitions. Soyez patient et visez avec précision pour maximiser vos chances de succès.
 
 ## Cartes
 
