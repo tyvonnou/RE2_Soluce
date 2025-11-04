@@ -262,14 +262,14 @@
 | 4 | Rendez-vous au chenil et tuez 2 Lickers |   
 | 5 | Obtenir la clé diamant dans la morgue |   
 | 6 | Comme les zombies près de l'entrée sont plus coriaces, utilisez une grenade flash pour les neutraliser afin de pouvoir passer en toute sécurité |   
-| 7 | Il y a un Licker au plafond sur le chemin du retour, battez-le si vous allez au champ de tir |   
-| 8 | Si vous utilisez la clé diamant dans le stand de tir, défaussez-la plus tard |   
+| 7 | Il y a un Licker au plafond sur le chemin du retour, battez-le si vous allez au stand de tir |   
+| 8 | Si vous utilisez la clé diamant dans le stand de tir, vous pouvez la défaussez plus tard |   
 | 9 | Récupérez le JMPHp 3 dans le coffre de la voiture ouvert précédemment |   
 | 10 | Rendez-vous à la salle de contrôle des ascenseurs | 
 | 11 | Tirez le levier dans la salle de contrôle de l'ascenseur et montez dans l'ascenseur | 
 | 12 | Organiser les objets dans le bureau du chef | 
 | 13 | Laissez un pistolet dans la boîte à objets | 
-| 14 | Obtenir le relief dans la salle de collection | 
+| 14 | Obtenir le tableau en relief dans la salle de collection | 
 | 15 | Ouvrez la porte du bureau du chef | 
 | 16 | Descendez les escaliers | 
 | 17 | Ouvrez la salle d'interrogatoire | 
@@ -279,6 +279,28 @@
 | 21 | Récupérez le grand engrenage dans la salle de stockage Est | 
 | 22 | Récupérez une boîte de composants électroniques dans la salle de la porte cœur | 
 | 23 | Organiser les objets dans le bureau du chef | 
+
+| No. | Lieu          | Objets |
+| :---------------: |:---------------| :------------- |
+| 1 | Stand de tir | Clé de voiture (bureau juste après le stand de tir) <br> Balles incendiaires (étagère près de l'entrée du stand de tir) |
+| 4 | Chenil | Poudre à canon renforcée (blanche) (panier juste devant l'entrée) |
+| 5 | Morgue | Flash <br> Herbe Rouge <br> Clé Carreaux |
+| 11 | Salle de contrôle de l'ascenseur | Herbe bleue (devant l'entrée) <br> Crosse d’épaule pour le Lance-Grenades (devant l'entrée et le casier) <br> Explosif amélioré (blanc) (derrière le bureau) |
+| 12 | Bureau du chef | Herbe verte (Couloir après l'ascenseur) <br> Munitions pour mitraillette (sur le bureau au centre) |
+| 14 | Salle de collection  | Tableau en relief (sur le bureau) |
+| 17 | Salle d'interrogatoire | Munitions pour pistolet (sur le bureau de gauche) <br> Boîte (insigne STARS) (étagère arrière) |
+| 19 | Devant de la salle de stockage Est | Flash (casier côté balcon) <br> Munitions pour pistolet (casier de l'entrepôt) |
+| 21 | Salle de stockage Est | Herbe bleue (étagères près de l'entrée) <br> Grande roue dentée (au-dessus de la boîte centrale) <br> Couteau de combat (pièce avec la clé cœur) <br> Boîte de composants électroniques (pièce avec la clé cœur) |
+
+!!! warning "4. Tuez Licker au chenil"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/6.jpg)
+
+    </figure>
+
+    Vous devez traverser deux fois le chenil. Vous devez donc éliminer le Licker dans cette pièce.
 
 ## Cartes
 
@@ -303,5 +325,21 @@
 <figure markdown="span">
 
 ![Image title](IMG/ClaireAmap3.jpg)
+
+</figure>
+
+### Installation souterraine
+
+<figure markdown="span">
+
+![Image title](IMG/ClaireAmap4.jpg)
+
+</figure>
+
+### Commissariat, parking
+
+<figure markdown="span">
+
+![Image title](IMG/ClaireAmap5.jpg)
 
 </figure>
