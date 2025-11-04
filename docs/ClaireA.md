@@ -110,20 +110,20 @@
 | No. | Procédure          |
 | :---------------: |:---------------| 
 | 1 |  Utilisez le couteau de combat pour vous rendre dans le couloir Ouest du 1er étage | 
-| 2 | Rendez-vous dans la salle des opérations et utilisez la planche de bois sur la fenêtre (la fenêtre avec les zombies près de la salle des opérations) |   
+| 2 | Rendez-vous dans la salle des opérations et mettez la planche de bois sur la fenêtre (la fenêtre avec les zombies près de la salle des opérations) |   
 | 3 | Tuez les deux zombies lorsque vous sortez dans le couloir |   
 | 4 |  Entrez dans le bureau Ouest et récupérez le chargeur rapide (serrure gauche : NED, serrure droite : MRG)  |   
-| 5 | Récupérez la pochette à la hanche dans le coffre-fort. (gauche 9, droite 15, gauche 7) |   
+| 5 | Récupérez la sacoche dans le coffre-fort (gauche 9, droite 15, gauche 7) |   
 | 6 | Allez dans la chambre noire et fermez la fenêtre avec la planche de bois |   
 | 7 | Montez les escaliers et tuez les zombies sur votre chemin |   
 | 8 | Code pour récupérer les objets au deuxième étage : CAP |   
 | 9 | Ouvrez le coffre-fort portable et récupérez l'objet dans la salle des coffres |   
-| 10 | Gérez votre inventaire dans la chambre noire à l'aide de la boîte à objets |   
+| 10 | Organisez votre inventaire dans la chambre noire à l'aide de la boîte à objets |   
 | 11 |  Récupérez la clé en forme de pique au 3e étage. Déverrouillez le casier à l'aide de la solution : DCM | 
 | 12 | Traversez la réserve Ouest pour vous rendre à la bibliothèque |   
 | 13 |  Lorsque vous arrivez à la bibliothèque, Marvin vous contactera par radio |   
 | 14 | **Éliminez tous les ennemis dans la bibliothèque**  |   
-| 15 | **Déplacez les étagères vers le milieu et alignez-les avec l'espace dans le sol au-dessus** |   
+| 15 | **Déplacez les étagères vers le milieu et alignez-les avec le trou dans le sol au-dessus** |   
 | 16 | Entrez dans le salon et récupérez la médaille Licorne (poisson · scorpion · bouteille d'eau) |   
 | 17 | Rendez-vous dans le hall principal avec la clé en forme de pique  |   
 | 18 | Obtenez la médaille Lion (lion · feuille · oiseau) |   
@@ -166,15 +166,15 @@
 | 3 | Empruntez la sortie de secours pour rejoindre le premier étage |   
 | 4 | Utilisez le coupe boulon pour ouvrir le bureau côté Est |   
 | 5 | Gardez les fenêtres fermées avec du bois |   
-| 6 | Prenez le fusible et la poignée ronde dans le bureau côté Est |   
+| 6 | Prenez le fusible et la valve dans le bureau côté Est |   
 | 7 | Gardez les fenêtres du bureau Ouest fermées avec un cadre en bois |   
 | 8 | Ouvrez le hall principal avec le fusible |   
-| 9 | Gérez l'inventaire dans la boîte à objets |   
-| 10 | Assurez-vous d'avoir la clé du casier à armes, le coupe boulon et la poignée ronde, puis dirigez-vous vers la salle des opérations |   
+| 9 | Organisez l'inventaire dans la boîte à objets |   
+| 10 | Assurez-vous d'avoir la clé du casier à armes, le coupe boulon et la valve, puis dirigez-vous vers la salle des opérations |   
 | 11 | Coupez la chaîne de la salle des opérations et récupérez le détonateur | 
 | 12 | Laissez la clé et allez au casier à armes |   
 | 13 | Récupérez le lance-grenades avec la clé du casier à armes |   
-| 14 | Gérez les objets dans la boîte à objets  |   
+| 14 | Organisez les objets dans la boîte à objets  |   
 | 15 | Utilisez la valve au 2e étage pour accéder au bureau STARS |   
 | 16 | Tuez le Licker avec une grenade |   
 | 17 | Récupérez la pile au bureau STARS |   
@@ -188,7 +188,7 @@
 
 | No. | Lieu          | Objets |
 | :---------------: |:---------------| :------------- |
-| 1 | Salle d'attente | Herbe verte (sur le bureau) <br> Long magazine (coffre-fort) Remarque : vous n'avez pas besoin de le prendre pour l'instant, car il n'est pas encore nécessaire. |
+| 1 | Salle d'attente | Herbe verte (sur le bureau) <br> Chargeur étendu (coffre-fort) Remarque : vous n'avez pas besoin de le prendre pour l'instant, car il n'est pas encore nécessaire |
 | 2 | Deuxième étage / Salle d'art | Planche de bois (près de la salle d'art) <br> Clé du casier à armes (sur le bureau d'accueil) <br> Sceptre (utilisez le livre rouge sur le bras gauche) |
 | 3 | Sortie de secours | Herbe verte (devant la porte) <br> Coupe boulon (devant la porte du premier étage) <br> Munitions pour pistolet <br> Bois (sous les escaliers) |
 | 6 | Bureau Est | Fusible <br> Valve (bureau dans la petite pièce) <br> Poudre à canon améliorée (blanche) (étagère dans la petite pièce) <br> Grenade flash (bureau à gauche de l'entrée) <br> Munitions pour pistolet (cadavre à gauche de l'entrée) <br> Poudre à canon (bureau à droite) |
@@ -205,7 +205,7 @@
 
     </figure>
 
-    Le lance-grenades est particulièrement efficace contre les Licker et G, donc si vous l'oubliez et que vous le ratez, vous perdrez beaucoup de temps. 
+    Le lance-grenades est particulièrement efficace contre les Licker et William Birkin, donc si vous l'oubliez et que vous le ratez, vous perdrez beaucoup de temps. 
 
 ???+ warning  "20. Zombie au plafond"
 
@@ -263,13 +263,13 @@
 | 5 | Obtenir la clé carreau dans la morgue |   
 | 6 | Comme les zombies près de l'entrée sont plus coriaces, utilisez une grenade flash pour les neutraliser afin de pouvoir passer en toute sécurité |   
 | 7 | Il y a un Licker au plafond sur le chemin du retour, battez-le si vous allez au stand de tir |   
-| 8 | Si vous utilisez la clé carreau dans le stand de tir, vous pourez la défaussez plus tard |   
+| 8 | Si vous utilisez la clé carreau dans le stand de tir, vous pourrez la défausser plus tard |   
 | 9 | Récupérez le JMPHp 3 dans le coffre de la voiture ouvert précédemment |   
 | 10 | Rendez-vous à la salle de contrôle des ascenseurs | 
 | 11 | Tirez le levier dans la salle de contrôle de l'ascenseur et montez dans l'ascenseur | 
 | 12 | Organiser les objets dans le bureau du chef | 
 | 13 | Laissez un pistolet dans la boîte à objets | 
-| 14 | Obtenir le tableau en relief dans la salle de collection | 
+| 14 | Obtenir le tableau en relief dans la salle de collection <br> Prendre la clé cœur à l'arrière du tableau | 
 | 15 | Ouvrez la porte du bureau du chef | 
 | 16 | Descendez les escaliers | 
 | 17 | Ouvrez la salle d'interrogatoire | 
