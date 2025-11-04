@@ -369,14 +369,14 @@
 | 16 | Franchissez la porte après la destruction, ce qui attire les zombies et le Tyran | 
 | 17 | Descendez la rue et sortez des escaliers | 
 | 18 | Laissez le premier chien derrière le grillage | 
-| 19 | Tuez le chien sur la voiture banche <br> Puis, le chien sur le chemin | 
+| 19 | Tuez le chien sur la voiture banche, puis le chien sur le chemin | 
 | 20 | Rendez-vous sur le terrain de basket | 
 | 21 | Tuez les trois chiens à travers le grillage | 
-| 22 | Dans le bus, mettre à terre le zombie pour passer | 
+| 22 | Dans le bus, mettez à terre le zombie pour passer | 
 | 23 | Tuez le dernier chien, puis accédez à l'orphelina | 
 | 24 | Lorsque vous arrivez à l'orphelinat, récupérez les objets au deuxième étage | 
 | 25 | Descendez l'échelle qui mène du bureau du chef de la police aux égouts | 
-| 26 | Après avoir rejoint Sherry, échappez-vous du Tyran jusqu'à l'ascenseur |
+| 26 | Après avoir rejoint Sherry, échappez au Tyran jusqu'à l'ascenseur |
 
 | No. | Lieu          | Objets |
 | :---------------: |:---------------| :------------- |
@@ -392,30 +392,30 @@
 | 2 | Descendez depuis le couloir près du bureau |   
 | 3 | Empruntez le chemin qui mène à la salle de contrôle <br> Vous pouvez ignorer les zombies dans cette salle|   
 | 4 | Ouvrez le casier (SZF) |   
-| 5 | Sortez de la salle de contrôle par le puits situé à gauche de la salle |   
+| 5 | Sortez de la salle de contrôle par le trou situé à gauche de la salle |   
 | 6 | Vous pouvez changer votre pistolet pour le SLS 60 dans la salle de surveillance |   
 | 7 | Descendez le pont du bassin de traitement <br> Récupérez l'outil sur la plate-forme du téléphérique |   
 | 8 | Récupérez le cadre renforcé dans le coffre-fort (gauche 2, droite 12, gauche 8) |   
 | 9 |  Descendez les escaliers à droite du bassin de traitement |   
 | 10 | Éliminez 2 zombies |   
-| 11 | Descendez les escaliers, et à gauche ouvrez la porte à l'aide de l'outil |   
+| 11 | Descendez les escaliers et à gauche ouvrez la porte à l'aide de l'outil |   
 | 12 | Descendez l'échelle vers le canal inférieur (vous n'avez pas besoin de prendre la clé pour l'instant) |   
 | 13 | Dirigez-vous vers la salle de stockage tout en évitant le G adulte |   
 | 14 | Prenez la Reine dans la salle de stockage |   
 | 15 | Récupérez le fusil électrique après avoir obtenu le Roi |   
-| 16 | Récupérez le Roi et la Reine et retournez à la salle de surveillance |   
-| 17 | Passez à côté du G adulte tout en le frappant avec un coup d'étincelle <br>  Ignorez le G adulte avant l'échelle |   
-| 18 | Lorsque vous atteignez la salle de surveillance, installez les pieces |   
+| 16 | Récupérez le Roi et la Reine, et retournez à la salle de surveillance |   
+| 17 | Passez à côté du G adulte tout en le blessant avec le fusil électrique <br>  Ignorez le G adulte avant l'échelle |   
+| 18 | Lorsque vous atteignez la salle de surveillance, installez les pièces |   
 | 19 | Organisation des objets dans la salle de surveillance |   
 
 
 | No. | Lieu          | Objets |
 | :---------------: |:---------------| :------------- |
-| 1 | Bureau | Balle renforcée pour SLS 60 (à côté de la machine à écrire) |
-| 3 | Salle de contrôle |  Balles incendiaires (cadavre) <br> Balle de mitraillette (casier) |
+| 1 | Bureau | Munitions renforcées pour SLS 60 (à côté de la machine à écrire) |
+| 3 | Salle de contrôle |  Munitions incendiaires (cadavre) <br> Munitions pour mitraillette (casier) |
 | 7 | Bassin de traitement  | Cadre de renfort (coffre-fort) <br> Herbe bleue (zombies à l'arrière du coffre-fort) <br> Herbe rouge (plateforme du téléphérique) <br> Herbe verte (sous les escaliers) |
 | 12 | Canal inférieur | Herbe verte (à côté du premier cadavre en descendant l'échelle) |
-| 15 |  Salle des marchandises |  Herbe rouge (étagères à côté de l'entrée) <br> Balle incendiaire (pièce ouverte avec le Roi) |
+| 15 |  Salle des marchandises |  Herbe rouge (étagères à côté de l'entrée) <br> Munitions incendiaires (pièce ouverte avec le Roi) |
 
 ???+ tip "14. Solution pour obtenir le fusil électrique"
 
@@ -429,13 +429,13 @@
 
     * Prenez la Reine sur le panneau électrique
     * Placez cette prise Reine sur le second panneau électrique
-    * Récupérez le Roi à l'étage, et sautez
+    * Récupérez le Roi à l'étage et sautez
     * Placez le Roi sur le panneau électrique qui contrôle l’accès à la petite pièce du fond
     * Récupérez le fusil électrique
     * Ouvrez ensuite la seconde porte depuis l’intérieur, retournez prendre le Roi, puis la Reine
     * Replacez la Reine sur son panneau électrique d’origine
     * Placez le Roi sur le panneau électrique au fond à gauche
-    * Aller récupérer la Reine depuis l’intérieur 
+    * Allez récupérer la Reine depuis l’intérieur 
     * Repartez avec le Roi
 
 ???+ warning "12. Passer à travers G adulte"
@@ -446,13 +446,13 @@
 
     </figure>
 
-    Le G adulte apparaît sur le chemin du retour et bloque le passage. Si vous utilisez un tir électrique, vous ne pourrez pas bouger pendant que l'arme se recharge. Il est donc préférablede vous faufilez sur le côté.
+    Le G adulte apparaît sur le chemin du retour et bloque le passage. Si vous utilisez un tir électrique, vous ne pourrez pas bouger pendant que l'arme se recharge. Il est donc préférable de vous faufiler sur le côté.
 
 ## Fusil électrique vers William Birkin deuxième forme 
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
-| 1 | Descendez les escaliers dans la piscine de traitement et tirez le levier de droite vers les égouts <br> Vous pouvez ignorer l'adulte G qui sort sur le côté | 
+| 1 | Descendez les escaliers dans la bassin de traitement et tirez le levier de droite vers les égouts <br> Vous pouvez ignorer l'adulte G qui sort sur le côté | 
 | 2 | Ouvrez la porte et montez dans l'ascenseur de service |   
 | 3 | Éliminez les zombies dans la salle de travail |   
 | 4 | Récupérez la Tour |   
@@ -501,7 +501,7 @@
 | 1 | Descendez le chemin et rendez-vous à la salle des gardes | 
 | 2 | Organisez les objets dans la zone d'accueil |   
 | 3 | Rendez-vous à la cafétéria par la porte à côté de l'entrée |   
-| 4 | Passez devant les zombies dans la cafétéria et grimpez à l'échelle, ignorez les zombies |   
+| 4 | Ignorez les zombies dans la cafétéria et grimpez à l'échelle |   
 | 5 | Empruntez la porte en sortant de la cuisine <br>  Tuez le zombie à l'endroit où vous avez ouvert la porte |   
 | 6 | Combinez les composants électroniques et le bracelet |   
 | 7 | Dirigez-vous vers le hall principal |   
@@ -511,8 +511,8 @@
 | 11 | Brûlez les ennemis Ivy sur votre chemin avec des munitions incendiaires |   
 | 12 | Obtenez la cartouche de dispersion au centre de contrôle de la serre |   
 | 13 | Entrez le code de cryptage <br>  Laboratoire d'analyse (2067) <br> Échelle (3123)  |   
-| 14 | Diréger vous vers le laboratoire d'analyse |  
-| 15 | Résolvez l'énigme des médicaments <br> milieu, gauche, droite, milieu, gauche, droite, milieu, gauche |  
+| 14 | Dirigez vous vers le laboratoire d'analyse |  
+| 15 | Résolvez l'énigme des médicaments : milieu, gauche, droite, milieu, gauche, droite, milieu, gauche |  
 | 16 | Allez à l'échelle depuis la trappe ouverte |  
 | 17 | Tuez les zombies (3 ennemis) lorsque vous arrivez dans le salon <br> Deux Lickers apparaissent au fur et à mesure que vous avancez, vous pouvez les ignorer pour l'instant|  
 | 18 | Montez les escaliers et éliminez tous les zombies sur la route |  
