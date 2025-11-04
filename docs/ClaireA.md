@@ -292,7 +292,7 @@
 | 19 | Devant de la salle de stockage Est | Flash (casier côté balcon) <br> Munitions pour pistolet (casier de l'entrepôt) |
 | 21 | Salle de stockage Est | Herbe bleue (étagères près de l'entrée) <br> Grande roue dentée (au-dessus de la boîte centrale) <br> Couteau de combat (pièce avec la clé cœur) <br> Boîte de composants électroniques (pièce avec la clé cœur) |
 
-!!! warning "4. Tuez Licker au chenil"
+!!! warning "4. Tuez le Licker au chenil"
 
     <figure markdown="span">
 
@@ -302,44 +302,46 @@
 
     Vous devez traverser deux fois le chenil. Vous devez donc éliminer le Licker dans cette pièce.
 
+## Balcon jusqu'à Sherry
+
 ## Cartes
 
-### Commissariat, 1er étage
+!!! info "Commissariat, 1er étage"
 
-<figure markdown="span">
+    <figure markdown="span">
 
-![Image title](IMG/ClaireAmap1.jpg)
+    ![Image title](IMG/ClaireAmap1.jpg)
 
-</figure>
+    </figure>
 
-### Commissariat, 2eme étage
+!!! info "Commissariat, 2eme étage"
 
-<figure markdown="span">
+    <figure markdown="span">
 
-![Image title](IMG/ClaireAmap2.jpg)
+    ![Image title](IMG/ClaireAmap2.jpg)
 
-</figure>
+    </figure>
 
-### Commissariat, 3eme étage (+4)
+!!! info "Commissariat, 3eme étage (+4)"
 
-<figure markdown="span">
+    <figure markdown="span">
 
-![Image title](IMG/ClaireAmap3.jpg)
+    ![Image title](IMG/ClaireAmap3.jpg)
 
-</figure>
+    </figure>
 
-### Installation souterraine
+!!! info "Installation souterraine"
 
-<figure markdown="span">
+    <figure markdown="span">
 
-![Image title](IMG/ClaireAmap4.jpg)
+    ![Image title](IMG/ClaireAmap4.jpg)
 
-</figure>
+    </figure>
 
-### Commissariat, parking
+!!! info "Commissariat, parking"
 
-<figure markdown="span">
+    <figure markdown="span">
 
-![Image title](IMG/ClaireAmap5.jpg)
+    ![Image title](IMG/ClaireAmap5.jpg)
 
-</figure>
+    </figure>
