@@ -464,7 +464,7 @@
 | 10 | En sortant de la salle, William Birkin apparaît |   
 | 11 |  Évitez l'attaque depuis le plafond <br> Brisez le volet et passez à côté de William Birkin |   
 | 12 | Détruisez William Birkin à l'aide de la grue |   
-| 13 | Après l'voir vaincu, ouvrez la porte du broyeur à déchets et sauvez Sherry |   
+| 13 | Après l'avoir vaincu, ouvrez la porte du broyeur à déchets et sauvez Sherry |   
 | 14 | Dirigez-vous vers le téléphérique menant au laboratoire |   
 
 | No. | Lieu          | Objets |
