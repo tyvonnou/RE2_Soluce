@@ -315,14 +315,14 @@
 | 7 | Attirez le Tyran sur le balcon, esquivez-le et dirigez-vous vers le hall principal |   
 | 8 | Récupérez le chargeur étendu JMP dans le coffre-fort de la salle d'attente (droite 6, gauche 2, droite 11) |   
 | 9 | Gestion des objets dans le hall principal (assurez-vous d'avoir sur vous votre badge STARS et votre clé carreau) |   
-| 10 | Convertir le badge STARS en clé USB | 
+| 10 | Convertissez le badge STARS en clé USB | 
 | 11 | Traversez la bibliothèque pour vous rendre à la buanderie | 
 | 12 | Ouvrez la buanderie avec la clé carreau (jetez la clé) | 
-| 13 | Obtenir le coffre-fort portable  | 
+| 13 | Obtenez le coffre-fort portable  | 
 | 14 | Procurez-vous la mitraillette à l'aide de la clé USB au bureau STARS | 
 | 15 | Rendez-vous à la salle des coffres (il est plus sûr d'y aller depuis le bureau Ouest) | 
 | 16 | Battez le Licker dans le couloir | 
-| 17 | Utiliser la clé de rechange dans la salle des coffres (203) Prendre la sacoche | 
+| 17 | Utilisez la clé de rechange dans la salle des coffres (203) Prendre la sacoche | 
 | 18 | Ouvrez la salle des archives avec la clé cœur | 
 | 19 | Récupérez l'outil | 
 | 20 | Rendez-vous à la bibliothèque en passant par le hall principal | 
