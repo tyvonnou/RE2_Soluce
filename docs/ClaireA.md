@@ -386,6 +386,19 @@
 
 ## Égouts jusqu'à l'acquisition du fusil électrique 
 
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 1 | Récupérez l'objet dans le bureau après la cinématique | 
+| 2 | Descendez depuis le couloir près du bureau |   
+| 3 | Empruntez le chemin qui mène à la salle de contrôle |   
+| 4 | Ouvrez le casier (SZF) |   
+| 5 | Passez par le volet situé juste à côté de l'interrupteur et rendez-vous dans la salle du gardien, à l'arrière |   
+| 6 | Déclenchez la cinématique après avoir ouvert le volet dans la salle des gardes |   
+| 7 | Après la cinématique, passez devant le zombie qui enfonce la porte  |   
+| 8 | Il y aura deux zombies sur le chemin menant au hall principal, près de la salle de presse |   
+| 9 | Tuez un zombie et courez vers le hall principal |   
+| 10 | Récupérez un couteau de combat auprès de Marvin dans le hall principal |   
+
 ## Cartes
 
 !!! info "Commissariat, 1er étage"
@@ -441,5 +454,29 @@
     <figure markdown="span">
 
     ![Image title](IMG/ClaireAmap7.jpg){ width="600" }
+
+    </figure>
+
+!!! info "Égouts supérieurs"
+    
+    <figure markdown="span">
+
+    ![Image title](IMG/ClaireAmap8.jpg){ width="600" }
+
+    </figure>
+
+!!! info "Égouts"
+    
+    <figure markdown="span">
+
+    ![Image title](IMG/ClaireAmap9.jpg)
+
+    </figure>
+
+!!! info "Égouts inférieurs"
+    
+    <figure markdown="span">
+
+    ![Image title](IMG/ClaireAmap10.jpg)
 
     </figure>
