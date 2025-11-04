@@ -34,7 +34,7 @@
 
     Comme les munitions sont rares en mode Hardcore, vous devez toujours avoir des munitions ou de la poudre à canon sur vous. Lorsque votre inventaire est plein, privilégiez les munitions et jetez les autres objets.
 
-???+ warning "Quittez et rechargez la sauvegarde en cas de game over"
+???+ warning "Quittez et rechargez la sauvegarde en cas de Game Over"
 
     <figure markdown="span">
 
@@ -50,11 +50,11 @@
 
 ???+ abstract  "Points de sauvegarde recommandés" 
 
-    - G 1ère forme avant le combat (pièce secrète sous la statue de la déesse)
-    - G 2ème forme avant le combat (salle de surveillance des égouts après avoir résolu le puzzle d'échecs)
-    - G 3ème forme avant le combat (laboratoire - zone ouest après avoir obtenu l'échantillon du virus G)
+    - William Birkin 1ère forme avant le combat (pièce secrète sous la statue de la déesse)
+    - William Birkin 2ème forme avant le combat (salle de surveillance des égouts après avoir résolu le puzzle d'échecs)
+    - William Birkin 3ème forme avant le combat (laboratoire - zone ouest après avoir obtenu l'échantillon du virus G)
 
-    Pour obtenir la note S+, vous devez limiter le nombre de sauvegardes à 3 maximum. Les points recommandés ci-dessus concernent les combats contre les boss principaux avec G et les situations de mort instantanée.
+    Pour obtenir la note S+, vous devez limiter le nombre de sauvegardes à 3 maximum. Les points recommandés ci-dessus concernent les combats contre les boss principaux avec William Birkin et les situations de mort instantanée.
 
 ## La station
 
@@ -226,7 +226,7 @@
 | 2 | Récupérez la grenade à fragmentation dans les escaliers inférieurs |   
 | 3 | Déclenchez la cinématique après le casier tombé |   
 | 4 | Tuez le boss |   
-| 5 | Montez à l'échelle après le combat avec G et suivez Sherry |   
+| 5 | Montez à l'échelle après le combat avec William Birkin et suivez Sherry |   
 | 6 | Tirez sur le levier pour créer un pont |   
 | 7 | Organisez les objets dans la salle des opérations |   
 | 8 | Montez l'échelle et allez au parking |   
@@ -238,7 +238,7 @@
 | 4 | Salle des machines | Herbe verte (en haut à gauche de la carte) <br> Grenade à fragmentation (en haut à gauche et en bas à droite de la carte) <br> Herbe rouge (en bas à gauche) <br> Munitions pour pistolet (en bas à droite, en bas à gauche et en haut à gauche de la carte) |
 | 4 | Salle des machines (étage) | Poudre à canon (montez à l'échelle et allez dans la pièce de gauche) <br> Herbe verte (montez à l'échelle et allez dans la pièce de gauche) |
 
-???+ danger "4. G Première Phase"
+???+ danger "4. William Birkin Première forme"
 
     <figure markdown="span">
 
@@ -448,7 +448,7 @@
 
     Le G adulte apparaît sur le chemin du retour et bloque le passage. Si vous utilisez un tir électrique, vous ne pourrez pas bouger pendant que l'arme se recharge. Il est donc préférablede vous faufilez sur le côté.
 
-
+## Fusil électrique vers William Birkin deuxième forme 
 
 ## Cartes
 
