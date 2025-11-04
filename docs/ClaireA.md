@@ -385,6 +385,8 @@
 | 6 | Bus | Grenade |
 | 8 | Orphelinat | Munitions pour mitraillette (salle de bain à l'arrière de la chambre d'enfant) <br> Spray de premiers secours (salle de bain à l'arrière de la chambre d'enfant) |
 
+## Égouts jusqu'à l'acquisition du fusil électrique 
+
 ## Cartes
 
 !!! info "Commissariat, 1er étage"
@@ -431,7 +433,7 @@
 
     <figure markdown="span">
 
-    ![Image title](IMG/ClaireAmap6.jpg){ width="1200" }
+    ![Image title](IMG/ClaireAmap6.jpg)
 
     </figure>
 
