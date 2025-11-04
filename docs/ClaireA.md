@@ -63,8 +63,8 @@
 | 1 | Entrez dans la station-service par la porte principale | 
 | 2 | Allez dans l'allée à côté de la personne assise en t-shirt bleu |   
 | 3 | Continuez tout droit et regardez la cinématique |   
-| 4 | Courez tout droit vers la clé immédiatement après la cinématique. Vous pouvez passer sans danger à travers le zombie *  |   
-| 5 | Quand vous avez la clé, regardez derrière vous et attendez que le zombie passe *  |   
+| 4 | Courez tout droit vers la clé immédiatement après la cinématique. Vous pouvez passer sans danger à travers le zombie  |   
+| 5 | Quand vous avez la clé, regardez derrière vous et attendez que le zombie passe |   
 | 6 | Courez vers la porte verrouillée et échappez aux zombies dans le magasin  |   
 | 7 | Déclenchez la cinématique  |   
 | 8 | Faites demi-tour immédiatement après la cinématique et courez |   
@@ -84,6 +84,14 @@
     Après avoir obtenu la clé, attendez que le zombie passe devant l'étagère. Ainsi, vous n'aurez pas besoin de tirer et de gaspiller des munitions.
 
 ## Vers le RPD
+
+<figure markdown="span">
+
+![Image title](IMG/ClaireAmap1.jpg)
+
+<figcaption>Commissariat, 1er étage</figcaption>
+
+</figure>
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
@@ -106,6 +114,30 @@
 | 9 | Petite pièce à gauche de la salle de presse | Munitions |
 
 ## Salle principale à l'appel de Marvin 
+
+<figure markdown="span">
+
+![Image title](IMG/ClaireAmap1.jpg)
+
+<figcaption>Commissariat, 1er étage</figcaption>
+
+</figure>
+
+<figure markdown="span">
+
+![Image title](IMG/ClaireAmap2.jpg)
+
+<figcaption>Commissariat, 2eme étage</figcaption>
+
+</figure>
+
+<figure markdown="span">
+
+![Image title](IMG/ClaireAmap3.jpg)
+
+<figcaption>Commissariat, 3eme étage (+4) </figcaption>
+
+</figure>
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
@@ -250,4 +282,32 @@
 
 !!! tip "4. Utilisation du couteau de combat"
 
-    Ce boss est facilement tuable très rapidement en le harcelant avec un couteau. 
+    Ce boss peut être éliminé rapidement en l'attaquant de manière continue avec un couteau de combat.
+
+## Parking vers le 1er équipement électronique 
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 1 | Après la cinématique, rendez-vous au stand de tir | 
+| 2 | Récupérer les objets dans le stand de tir |   
+| 3 | Sortez par la porte du parking et utilisez la clé de la voiture. Jetez la clé après avoir déverrouillé le coffre de la voiture de police |   
+| 4 | Rendez-vous au chenil et tuez 2 Lickers |   
+| 5 | Obtenir la clé diamant dans la morgue |   
+| 6 | Comme les zombies près de l'entrée sont plus coriaces, utilisez une grenade flash pour les neutraliser afin de pouvoir passer en toute sécurité |   
+| 7 | Il y a un Licker au plafond sur le chemin du retour, battez-le si vous allez au champ de tir |   
+| 8 | Si vous utilisez la clé diamant dans le stand de tir, défaussez-la plus tard |   
+| 9 | Récupérez le JMPHp 3 dans le coffre de la voiture ouvert précédemment |   
+| 10 | Rendez-vous à la salle de contrôle des ascenseurs | 
+| 11 | Tirez le levier dans la salle de contrôle de l'ascenseur et montez dans l'ascenseur | 
+| 12 | Organiser les objets dans le bureau du chef | 
+| 13 | Laissez un pistolet dans la boîte à objets | 
+| 14 | Obtenir le relief dans la salle de collection | 
+| 15 | Ouvrez la porte du bureau du chef | 
+| 16 | Descendez les escaliers | 
+| 17 | Ouvrez la salle d'interrogatoire | 
+| 18 | Récupérez les balles et retournez au bureau du chef (ignorez l'ennemi) | 
+| 19 | Montez les escaliers jusqu'à la salle de stockage Est | 
+| 20 | Éliminez les deux zombies dans la salle de stockage Est | 
+| 21 | Récupérez le grand engrenage dans la salle de stockage Est | 
+| 22 | Récupérez une boîte de composants électroniques dans la salle de la porte cœur | 
+| 23 | Organiser les objets dans le bureau du chef | 
