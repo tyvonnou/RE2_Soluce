@@ -450,6 +450,50 @@
 
 ## Fusil électrique vers William Birkin deuxième forme 
 
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 1 | Descendez les escaliers dans la piscine de traitement et tirez le levier de droite vers les égouts <br> Vous pouvez ignorer l'adulte G qui sort sur le côté | 
+| 2 | Ouvrez la porte et montez dans l'ascenseur de service |   
+| 3 | Éliminez les zombies dans la salle de travail |   
+| 4 | Récupérez la Tour |   
+| 5 | Retournez dans la salle de surveillance |   
+| 6 | Résolvez le casse-tête des prises dans la salle de surveillance |   
+| 7 | Organisez vos objets (comme il s'agit d'un combat contre un boss, il est recommandé d'utiliser la mitraillette et des grenades) |   
+| 8 | Sauvegardez (deuxième fois) |   
+| 9 | Résolvez le casse-tête dans la salle d'alimentation principale (On, On, Off, On) |   
+| 10 | En sortant de la salle, William Birkin apparaît |   
+| 11 |  Évitez l'attaque depuis le plafond <br> Brisez le volet et passez à côté de William Birkin |   
+| 12 | Détruisez William Birkin à l'aide de la grue |   
+| 13 | Après l'voir vaincu, ouvrez la porte du broyeur à déchets et sauvez Sherry |   
+| 14 | Dirigez-vous vers le téléphérique menant au laboratoire |   
+
+| No. | Lieu          | Objets |
+| :---------------: |:---------------| :------------- |
+| 1 | Égouts | Grenade à fragmentation (dans la direction opposée au levier) <br> Herbe bleue (porte d'entrée) |
+| 9 | Salle d'alimentation principale |  Herbe bleue (à côté de la benne à ordures) <br> Herbe verte (avant la benne à ordures) <br> Herbe rouge (à côté de l'alimentation électrique principale) |
+| 7 | Bassin de traitement  | Cadre de renfort (coffre-fort) <br> Herbe bleue (zombies à l'arrière du coffre-fort) <br> Herbe rouge (plateforme du téléphérique) <br> Herbe verte (sous les escaliers) |
+| 12 | Station de traitement des eaux  | Munitions pour pistolet (côté grue) <br> Flash (côté grue)<br> Couteau de combat (côté grue) |
+
+???+ tip "11. La zone près du puzzle interrupteur est sûre"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/8.jpg)
+
+    </figure>
+
+    L'attaque de Birkin depuis le plafond ne vous touche pas lorsque vous vous tenez à côté du panneau de commande. Attendez que l'attaque cesse afin de ne pas subir de dégâts inutiles.
+
+???+ tip "11. Attendez à côté de la porte"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/9.jpg)
+
+    </figure>
+
+    Une fois que Birkin rugit, déplacez-vous sur le côté de la porte. Vous pouvez vous faufiler sur le côté.
+
 ## Cartes
 
 ???+ info "Commissariat, 1er étage"
