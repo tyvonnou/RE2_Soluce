@@ -401,9 +401,9 @@
 | 11 | Descendez les escaliers, et à gauche ouvrez la porte à l'aide de l'outil |   
 | 12 | Descendez l'échelle vers le canal inférieur (vous n'avez pas besoin de prendre la clé pour l'instant) |   
 | 13 | Dirigez-vous vers la salle de stockage tout en évitant le G adulte |   
-| 14 | Prenez la reine dans la salle de stockage |   
-| 15 | Récupérez le fusil électrique après avoir obtenu le roi |   
-| 16 | Récupérez le roi et la reine et retournez à la salle de surveillance |   
+| 14 | Prenez la Reine dans la salle de stockage |   
+| 15 | Récupérez le fusil électrique après avoir obtenu le Roi |   
+| 16 | Récupérez le Roi et la Reine et retournez à la salle de surveillance |   
 | 17 | Passez à côté du G adulte tout en le frappant avec un coup d'étincelle <br>  Ignorez le G adulte avant l'échelle |   
 | 18 | Lorsque vous atteignez la salle de surveillance, installez les pieces |   
 | 19 | Organisation des objets dans la salle de surveillance |   
@@ -415,7 +415,22 @@
 | 3 | Salle de contrôle |  Balles incendiaires (cadavre) <br> Balle de mitraillette (casier) |
 | 7 | Bassin de traitement  | Cadre de renfort (coffre-fort) <br> Herbe bleue (zombies à l'arrière du coffre-fort) <br> Herbe rouge (plateforme du téléphérique) <br> Herbe verte (sous les escaliers) |
 | 12 | Canal inférieur | Herbe verte (à côté du premier cadavre en descendant l'échelle) |
-| 15 |  Salle des marchandises |  Herbe rouge (étagères à côté de l'entrée) <br> Balle incendiaire (pièce ouverte avec le roi) |
+| 15 |  Salle des marchandises |  Herbe rouge (étagères à côté de l'entrée) <br> Balle incendiaire (pièce ouverte avec le Roi) |
+
+!!! tip "14. Solution pour obtenir le fusil électrique"
+
+    Vous aurez besoin d’au moins 4 emplacements libres dans votre inventaire pour résoudre l’énigme et prendre l’arme qui occupe deux cases.
+
+    * Prenez la Reine sur le panneau électrique
+    * Placez cette prise Reine sur le second panneau électrique
+    * Récupérez le Roi à l'étage, et sautez
+    * Placez le Roi sur le panneau électrique qui contrôle l’accès à la petite pièce du fond
+    * Récupérez le fusil électrique
+    * Ouvrez ensuite la seconde porte depuis l’intérieur, retournez prendre le Roi, puis la Reine
+    * Replacez la Reine sur son panneau électrique d’origine
+    * Placez le Roi sur le panneau électrique au fond à gauche
+    * Aller récupérer la Reine depuis l’intérieur 
+    * Repartez avec le roi
 
 !!! warning "12. Passer à travers G adulte"
 
@@ -425,7 +440,8 @@
 
     </figure>
 
-    Le G adulte apparaît sur le chemin du retour et bloque le passage. Si vous utilisez un tir électrique, vous ne pourrez pas bouger pendant que l'arme se recharge. Il est donc préférablede vous faufile sur le côté.
+    Le G adulte apparaît sur le chemin du retour et bloque le passage. Si vous utilisez un tir électrique, vous ne pourrez pas bouger pendant que l'arme se recharge. Il est donc préférablede vous faufilez sur le côté.
+
 
 
 ## Cartes
