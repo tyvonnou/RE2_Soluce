@@ -85,14 +85,6 @@
 
 ## Vers le RPD
 
-<figure markdown="span">
-
-![Image title](IMG/ClaireAmap1.jpg)
-
-<figcaption>Commissariat, 1er étage</figcaption>
-
-</figure>
-
 | No. | Procédure          |
 | :---------------: |:---------------| 
 | 1 | Courez au poste de police | 
@@ -114,30 +106,6 @@
 | 9 | Petite pièce à gauche de la salle de presse | Munitions |
 
 ## Salle principale à l'appel de Marvin 
-
-<figure markdown="span">
-
-![Image title](IMG/ClaireAmap1.jpg)
-
-<figcaption>Commissariat, 1er étage</figcaption>
-
-</figure>
-
-<figure markdown="span">
-
-![Image title](IMG/ClaireAmap2.jpg)
-
-<figcaption>Commissariat, 2eme étage</figcaption>
-
-</figure>
-
-<figure markdown="span">
-
-![Image title](IMG/ClaireAmap3.jpg)
-
-<figcaption>Commissariat, 3eme étage (+4) </figcaption>
-
-</figure>
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
@@ -311,3 +279,29 @@
 | 21 | Récupérez le grand engrenage dans la salle de stockage Est | 
 | 22 | Récupérez une boîte de composants électroniques dans la salle de la porte cœur | 
 | 23 | Organiser les objets dans le bureau du chef | 
+
+## Cartes
+
+### Commissariat, 1er étage
+
+<figure markdown="span">
+
+![Image title](IMG/ClaireAmap1.jpg)
+
+</figure>
+
+### Commissariat, 2eme étage
+
+<figure markdown="span">
+
+![Image title](IMG/ClaireAmap2.jpg)
+
+</figure>
+
+### Commissariat, 3eme étage (+4)
+
+<figure markdown="span">
+
+![Image title](IMG/ClaireAmap3.jpg)
+
+</figure>
