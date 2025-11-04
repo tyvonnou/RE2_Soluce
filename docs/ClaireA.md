@@ -390,14 +390,43 @@
 | :---------------: |:---------------| 
 | 1 | Récupérez l'objet dans le bureau après la cinématique | 
 | 2 | Descendez depuis le couloir près du bureau |   
-| 3 | Empruntez le chemin qui mène à la salle de contrôle |   
+| 3 | Empruntez le chemin qui mène à la salle de contrôle <br> Vous pouvez ignorer les zombies dans cette salle|   
 | 4 | Ouvrez le casier (SZF) |   
-| 5 | Passez par le volet situé juste à côté de l'interrupteur et rendez-vous dans la salle du gardien, à l'arrière |   
-| 6 | Déclenchez la cinématique après avoir ouvert le volet dans la salle des gardes |   
-| 7 | Après la cinématique, passez devant le zombie qui enfonce la porte  |   
-| 8 | Il y aura deux zombies sur le chemin menant au hall principal, près de la salle de presse |   
-| 9 | Tuez un zombie et courez vers le hall principal |   
-| 10 | Récupérez un couteau de combat auprès de Marvin dans le hall principal |   
+| 5 | Sortez de la salle de contrôle par le puits situé à gauche de la salle |   
+| 6 | Vous pouvez changer votre pistolet pour le SLS 60 dans la salle de surveillance |   
+| 7 | Descendez le pont du bassin de traitement <br> Récupérez l'outil sur la plate-forme du téléphérique |   
+| 8 | Récupérez le cadre renforcé dans le coffre-fort (gauche 2, droite 12, gauche 8) |   
+| 9 |  Descendez les escaliers à droite du bassin de traitement |   
+| 10 | Éliminez 2 zombies |   
+| 11 | Descendez les escaliers, et à gauche ouvrez la porte à l'aide de l'outil |   
+| 12 | Descendez l'échelle vers le canal inférieur (vous n'avez pas besoin de prendre la clé pour l'instant) |   
+| 13 | Dirigez-vous vers la salle de stockage tout en évitant le G adulte |   
+| 14 | Prenez la reine dans la salle de stockage |   
+| 15 | Récupérez le fusil électrique après avoir obtenu le roi |   
+| 16 | Récupérez le roi et la reine et retournez à la salle de surveillance |   
+| 17 | Passez à côté du G adulte tout en le frappant avec un coup d'étincelle <br>  Ignorez le G adulte avant l'échelle |   
+| 18 | Lorsque vous atteignez la salle de surveillance, installez les pieces |   
+| 19 | Organisation des objets dans la salle de surveillance |   
+
+
+| No. | Lieu          | Objets |
+| :---------------: |:---------------| :------------- |
+| 1 | Bureau | Balle renforcée pour SLS 60 (à côté de la machine à écrire) |
+| 3 | Salle de contrôle |  Balles incendiaires (cadavre) <br> Balle de mitraillette (casier) |
+| 7 | Bassin de traitement  | Cadre de renfort (coffre-fort) <br> Herbe bleue (zombies à l'arrière du coffre-fort) <br> Herbe rouge (plateforme du téléphérique) <br> Herbe verte (sous les escaliers) |
+| 12 | Canal inférieur | Herbe verte (à côté du premier cadavre en descendant l'échelle) |
+| 15 |  Salle des marchandises |  Herbe rouge (étagères à côté de l'entrée) <br> Balle incendiaire (pièce ouverte avec le roi) |
+
+!!! warning "12. Passer à travers G adulte"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/7.jpg)
+
+    </figure>
+
+    Le G adulte apparaît sur le chemin du retour et bloque le passage. Si vous utilisez un tir électrique, vous ne pourrez pas bouger pendant que l'arme se recharge. Il est donc préférablede vous faufile sur le côté.
+
 
 ## Cartes
 
