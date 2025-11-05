@@ -16,7 +16,7 @@
 
     </figure>
 
-???+ info "Commissariat, 3eme étage (+4)"
+???+ info "[Claire A] Commissariat, 3eme étage (+4)"
 
     <figure markdown="span">
 
