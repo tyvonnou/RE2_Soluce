@@ -1,6 +1,6 @@
 # Leon | Scénario B
 
-## Vers le RPD
+## Entrée au commisariat
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
@@ -19,10 +19,12 @@
 | 13 | Rendez-vous au bureau Est au 1er étage via l'escalier de sercours |
 | 14 | Récuperez les objets |
 | 15 | Rendez-vous dans la salle de presse en faisant une étape dans la petite salle d'archivage | 
-| 16 | Rendez-vous dans la salle de pause via le volet de la petite salle de garde | 
-| 15 | Rendez-vous dans la salle de presse en faisant une étape dans la petite salle d'archivage | 
-| 15 | Rendez-vous dans la salle de presse en faisant une étape dans la petite salle d'archivage | 
-Salle de pause
+| 16 | Rendez-vous dans la salle de pause via le volet de la petite salle de garde <br> Allumez la lumière en rentrant | 
+| 17 | Organisez vos objets dans la salle de pause : <br> - Valve <br> - Flash <br> - Poudre à canon de haute qualité (jaune) | 
+| 18 | Récupérez les objets dans la salle | 
+| 19 | Ré-organisez vos objets dans la salle de pause : <br> - Poudre à canon de haute qualité (jaune) <br> - Herbe bleue | 
+| 20 | Sortez de la salle et récupérez les objets | 
+| 19 | Ré-organisez vos objets dans la salle de pause : <br> - Cartouches de fusil x2 <br> - Couteau de combat | 
 
 | No. | Lieu          | Objets |
 | :---------------: |:---------------| :------------- |
@@ -33,8 +35,10 @@ Salle de pause
 | 9 | Couloir Est, 2ème étage | Herbe verte (sur le rebord de la fenêtre à côté de la porte menant à l'escalier de secours) <br> Planches en bois (à côté du mur dans le coin nord-ouest du passage |
 | 10 | Salle d'art | Carte pour le dépôt d'armes (sur la petite table avec la lampe de lecture verte) |
 | 14 | Bureau Est | Flash (sur un bureau vers l'entrée) <br> Munitions pour pistolet (sur le corps du policier) <br> Valve (dans le petit bureau) <br> Poudre à canon de haute qualité (jaune) (dans le petit bureau)|
-| 15 | Petite salle d'archivage | Planches en bois <br> Munitions pour pistolet x5
-| 15 | Salle de presse | Munitions pour pistolet x5 (sur le corp)
+| 15 | Petite salle d'archivage | Planches en bois <br> Munitions pour pistolet x5 |
+| 15 | Salle de presse | Munitions pour pistolet x5 (sur le corp) |
+| 18 | Salle de pause | Herbe bleue (sur la table) <br> Munitions pour pistolet x8 (dans le casier de droite) <br> Poudre à canon de haute qualité (jaune) (dans le casier de gauche) <br> fusible (sur une chaisse dans l'autre salle) |
+| 20 | Salle de pause - Couloir | Cartouches de fusil x2 (sur les étagères métalliques) <br> Couteau de combat (planté dans le mur à côté du boîtier à fusibles) |
 
 ???+ danger "12. Éliminez les deux zombies enflammés"
 
