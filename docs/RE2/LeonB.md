@@ -26,6 +26,7 @@
 | 20 | Sortez de la salle et récupérez les objets | 
 | 21 | Ré-organisez vos objets dans la salle de pause : <br> - Cartouches de fusil x2 <br> - Couteau de combat | 
 | 22 | Dirigez vous maintenant vers le hall principal | 
+| 23 | Utilisez le fusible pour ouvrir le volet menant au hall principal | 
 
 | No. | Lieu          | Objets |
 | :---------------: |:---------------| :------------- |
