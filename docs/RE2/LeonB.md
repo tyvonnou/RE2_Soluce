@@ -34,7 +34,7 @@
 | 2 | Devant le commisariat | Herbe rouge (juste après avoir monté les escaliers) <br> Herbe bleue (sur la droite juste avant le muret) <br> Coupe-boulon (dans la brouette) |
 | 4 | Salle des gardes | Grenade (sur le radiateur) <br> Pistolet M19 (Sur la table) <br> Munitions pour pistolet x10 (sur les boîtes en carton à côté des casiers) <br> Clé de la cour (sur la porte du casier ouvert) |
 | 7 | Escalier de secours | Munitions pour pistolet x10 (sur les barils sous l'escalier) <br> Planches en bois (au sol, à côté de la clôture) |
-| 9 | Couloir Est, 2ème étage | Herbe verte (sur le rebord de la fenêtre à côté de la porte menant à l'escalier de secours) <br> Planches en bois (à côté du mur dans le coin nord-ouest du passage |
+| 9 | Couloir Est, 2ème étage | Herbe verte (sur le rebord de la fenêtre à côté de la porte menant à l'escalier de secours) <br> Planches en bois (à côté du mur dans le coin nord-ouest du passage) |
 | 10 | Salle d'art | Carte pour le dépôt d'armes (sur la petite table avec la lampe de lecture verte) |
 | 14 | Bureau Est | Flash (sur un bureau vers l'entrée) <br> Munitions pour pistolet (sur le corps du policier) <br> Valve (dans le petit bureau) <br> Poudre à canon de haute qualité (jaune) (dans le petit bureau)|
 | 15 | Petite salle d'archivage | Planches en bois <br> Munitions pour pistolet x5 |
@@ -71,4 +71,4 @@
 
     </figure>
 
-    Atention à l'homme kebab, tuez le pour ne pas qu'il pose problème pour la suite.
+    Attention à l'homme kebab, tuez le pour ne pas qu'il pose problème pour la suite.
