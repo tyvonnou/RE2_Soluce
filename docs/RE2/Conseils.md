@@ -20,6 +20,18 @@
 
     En mode Hardcore, si vous êtes attaqué deux fois, la partie est terminée. Soyez donc extrêmement vigilant. Prenez le temps de vaincre les ennemis sur les itinéraires les plus fréquentés, en agissant avec prudence. Ne vous précipitez pas et assurez-vous de maîtriser chaque rencontre.
 
+    | Mode | S & S+ | A | B |
+    | :------- | :---: | :---: | :----: | 
+    Leon A (Normal) | 03:30:00 | 05:00:00 | 08:00:00 | 
+    Leon B (Normal) | 03:00:00 | 04:00:00 | 05:00:00 |
+    Claire A (Normal) | 03:30:00 | 05:00:00 | 08:00:00 |
+    Claire B (Normal) | 03:00:00 | 04:00:00 | 05:00:00 |
+    Leon A (Hardcore) | 02:30:00 | 04:00:00 | 08:00:00 |
+    Leon B (Hardcore) | 02:00:00 | 03:30:00 | 05:00:00 |
+    Claire A (Hardcore) | 02:30:00 | 04:00:00 | 08:00:00 |
+    Claire B (Hardcore) | 02:00:00 | 03:30:00 | 05:00:00 |
+
+
 
 ???+ note "Ramassez toutes les munitions"
 
