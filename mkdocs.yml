@@ -6,8 +6,12 @@ nav:
   - Accueil: index.md
   - "Resident Evil 2 (Remake)":
     - "Claire":
-      - "Scénario A": ClaireA.md
-#      - "Scénario B": ClaireB.md
+      - "Scénario A": RE2/ClaireA.md
+      - "Scénario B": RE2/ClaireA.md
+    - "Leon":
+      - "Scénario A": RE2/LeonA.md
+      - "Scénario B": RE2/LeonB.md
+
 
 theme:
   name: material
