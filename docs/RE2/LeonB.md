@@ -1,6 +1,6 @@
 # Leon | Scénario B
 
-## Entrée au commisariat
+## Entrée au commisariat 
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
@@ -24,7 +24,8 @@
 | 18 | Récupérez les objets dans la salle | 
 | 19 | Ré-organisez vos objets dans la salle de pause : <br> - Poudre à canon de haute qualité (jaune) <br> - Herbe bleue | 
 | 20 | Sortez de la salle et récupérez les objets | 
-| 19 | Ré-organisez vos objets dans la salle de pause : <br> - Cartouches de fusil x2 <br> - Couteau de combat | 
+| 21 | Ré-organisez vos objets dans la salle de pause : <br> - Cartouches de fusil x2 <br> - Couteau de combat | 
+| 22 | Dirigez vous maintenant vers le hall principal | 
 
 | No. | Lieu          | Objets |
 | :---------------: |:---------------| :------------- |
@@ -39,6 +40,7 @@
 | 15 | Salle de presse | Munitions pour pistolet x5 (sur le corp) |
 | 18 | Salle de pause | Herbe bleue (sur la table) <br> Munitions pour pistolet x8 (dans le casier de droite) <br> Poudre à canon de haute qualité (jaune) (dans le casier de gauche) <br> fusible (sur une chaisse dans l'autre salle) |
 | 20 | Salle de pause - Couloir | Cartouches de fusil x2 (sur les étagères métalliques) <br> Couteau de combat (planté dans le mur à côté du boîtier à fusibles) |
+| 22 | Toilettes | Spray de premiers secours (dans les deuxièmes toilettes) |
 
 ???+ danger "12. Éliminez les deux zombies enflammés"
 
@@ -59,3 +61,13 @@
     </figure>
 
     Le zombie peut vous attaquer, courez dans la direction opposée le temps qu'il finisse sa charge, puis brisez lui les genoux pour passer.
+
+???+ warning "22. L'homme kebab"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/L3.jpg){ width="416" }
+
+    </figure>
+
+    Atention à l'homme kebab, tuez le pour ne pas qu'il pose problème pour la suite.
