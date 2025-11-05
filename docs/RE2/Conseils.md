@@ -10,7 +10,7 @@
 
     Le rang S+ doit être atteint dans un délai strictement limité. Vous devez minimiser le nombre d'actions afin de gagner du temps et éviter toute perte de secondes. Mettre le jeu en pause arrêtera le chronomètre, ce qui vous permettra de prendre le temps d'analyser les solutions des énigmes avant de les résoudre.
 
-       | Mode | S & S+ | A | B |
+    | Mode | S & S+ | A | B |
     | :------- | :---: | :---: | :----: | 
     Leon A (Normal) | 03:30:00 | 05:00:00 | 08:00:00 | 
     Leon B (Normal) | 03:00:00 | 04:00:00 | 05:00:00 |
