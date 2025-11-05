@@ -5,6 +5,7 @@ docs_dir: 'docs/'
 nav:
   - Accueil: index.md
   - "Resident Evil 2 (Remake)":
+    - "Conseils": RE2/Conseils.md
     - "Claire":
       - "Scénario A": RE2/ClaireA.md
       - "Scénario B": RE2/ClaireB.md
