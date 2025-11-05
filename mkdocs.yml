@@ -12,6 +12,7 @@ nav:
     - "Leon":
       - "Scénario A": RE2/LeonA.md
       - "Scénario B": RE2/LeonB.md
+    - Cartes: RE2/Cartes.md
 
 
 theme:
