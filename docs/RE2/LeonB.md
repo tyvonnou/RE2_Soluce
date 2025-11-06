@@ -73,7 +73,7 @@
 
     Attention à l'homme kebab, tuez le pour ne pas qu'il pose problème pour la suite.
 
-## Commisariat 
+## Les deux premières medailles
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
@@ -82,15 +82,54 @@
 | 3 | Dans la salle des opérations, utilisez le coupe-boulon sur la porte au fond | 
 | 4 | Jetez maintenant le coupe-boulon et récuperez les objets dans la salle de stockage | 
 | 5 | Sortez par la porte verouillée et éliminez les deux zombies | 
+| 6 | Dans le bureau Ouest, récupérez la sacoche dans le coffre-fort (gauche 9, droite 15, gauche 7) | 
+| 7 | Récupérez le chargeur étendu (serrure gauche : NED, serrure droite : MRG) | 
+| 8 | Ressortez et ouvrez le coffre 109 dans la salles des coffres | 
+| 9 | Dirigez vous maintenant vers la chambre noire |
+| 10 | Éliminez les deux zombies au niveau des escaliers | 
+| 11 | Entrez dans la chambre noire et allumez la lumière |
+| 12 | Combinez HV + HR |  
+| 13 | Organisez vos objets : <br> - Herbe verte + bleue <br> - Chargeur étendu <br> - Herbe verte <br> - Flash <br> - Poudre à canon <br> - Spray de premiers secours <br> | 
+| 14 | Fouillez les casiers | 
+| 15 | Organisez vos objets : <br> - Poudre à canon <br>- Rubans encreurs x3 <br> + Munitions pour fusil x2| 
+| 16 | Sortez et éliminez le dernier zombie | 
+| 17 | Récupérez le fusil à pompe et les balles dans la salle des coffres <br> Pensez à recharger le fusil | 
+| 18 | Montez les escaliers |
+| 19 | Tuez le zombie en haut des escaliers |
+| 20 | Dans la salle de stockage Ouest, tuez le zombie au plafond | 
+| 21 | Déposez le détonateur |
+| 22 | Allez maintenant dans la bibliothèque et tuez le zombie qui se balade, ainsi que celui assis devant la porte pique | 
+| 23 | Déplacez les bibliothèques, celle de droite : une fois sur la gauche ; celles de gauche : une fois sur la droite | 
+| 24 | Passez la porte en bas des escaliers et récupérez la médaille (jumeaux - balance - petit vers) | 
+| 25 | Retournez dans le hall en passant par la bibliothèque | 
+| 26 | Récuperez la médaille Lion (couronne - torche - oiseau) | 
+| 27 | Descendez et ouvrez la porte pique | 
+| 28 | Tuez les deux zombies avec une balle de fusil dans la tête chacun, ajoutez des balles de pistolet si nécéssaire | 
+| 29 | Disposez les médailles | 
+| 30 | Récupérez l'herbe verte dans la réception et combinez là avec votre herbe rouge | 
+| 30 | Récupérez l'herbe verte dans la réception et combinez là avec votre herbe rouge | 
+| 31 | Dirigez vous dans la salle d'attente au premier étage, tuez le zombie sur le chemin de la même manière ques les deux autres | 
+| 32 | Ouvrez la porte pique et récupérez le silencieux dans le coffre-fort (droite 6, gauche 2, droite 11) |
 
 | No. | Lieu          | Objets |
 | :---------------: |:---------------| :------------- |
-| 1 | Réception | Munition pour pistolet x6 |
-| 3 | Salle des opérations | Munition pour pistolet x4 <br> Carte (sur le tableau) | 
-| 4 | Salle de stockage | Détonateur <br> Herbe Verte <br> Flash |
+| 1 | Réception | Munitions pour pistolet x6 |
+| 3 | Salle des opérations | Munitions pour pistolet x4 <br> Carte (sur le tableau) | 
+| 4 | Salle de stockage | Détonateur <br> Herbe verte <br> Flash |
 | 5 | Passage central Ouest | Munitions pour pistolet x3 (sur le corp, à gauche en arrivant) | 
-
-
+| 6 | Bureau Ouest | Munitions pour pistolet x2 (à l'intérieur du casier) <br> Poudre à canon
+| 8 | Salle des coffres | Munitions pour pistolet x5 (109) |
+| 10 | Escaliers Ouest | Herbe verte | 
+| 11 | Chambre noire | Herbe Rouge |  
+| 14 | Chambre noire | Poudre à canon <br> Rubans encreurs x3 |  
+| 18 | Escaliers deuxième étage | Munitions pour pistolet x3 (sur le corp) <br> Herbe rouge |  
+| 19 | Escaliers troisième étage | Munitions pour pistolet x4 <br> Clé pique |  
+| 20 | Salle de stockage Ouest | Poudre à canon (en rentrant sur le petit meuble) <br> Munitions pour pistolet x4 (sur l'étagère près de l'endroit à faire exploser) | 
+| 22 | Bibliothèque |  Couteau de combat (sur le corp en bas des escaliers) | 
+| 23 | Bibliothèque |  Munitions pour pistolet x6 (derrière la bibliothèque la plus à gauche) | 
+| 24 | Salon | Carte | 
+| 25 | Hall principal | Munitions de pistolet x3 (au fond à droite en sortant de la bibliothèque) | 
+| 32 | Salle d'attente | Herbe verte | 
 
 ???+ danger "2. Ne courez pas"
 
@@ -111,3 +150,15 @@
     </figure>
 
     Même chose que pour les zombies enflammés, attendez bien que le réticule soit stable pour tirer et reculez quand nécéssaire.
+
+???+ tip "28. Soignez vous"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/L6.jpg){ width="416" }
+
+    </figure>
+
+    Si vous vous êtes fait toucher, un spray premiers secours est disposé à l'entrée du commisariat.
+
+## La dernière médaille et le Tyran 

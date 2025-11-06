@@ -57,7 +57,7 @@
 | 1 |  Utilisez le couteau de combat pour vous rendre dans le couloir Ouest du 1er étage | 
 | 2 | Rendez-vous dans la salle des opérations et mettez la planche de bois sur la fenêtre (la fenêtre avec les zombies près de la salle des opérations) |   
 | 3 | Tuez les deux zombies lorsque vous sortez dans le couloir |   
-| 4 |  Entrez dans le bureau Ouest et récupérez le chargeur rapide (serrure gauche : NED, serrure droite : MRG)  |   
+| 4 |  Entrez dans le bureau Ouest et récupérez le chargeur (serrure gauche : NED, serrure droite : MRG)  |   
 | 5 | Récupérez la sacoche dans le coffre-fort (gauche 9, droite 15, gauche 7) |   
 | 6 | Allez dans la chambre noire et fermez la fenêtre avec la planche de bois |   
 | 7 | Montez les escaliers et tuez les zombies sur votre chemin |   
