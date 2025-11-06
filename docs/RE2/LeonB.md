@@ -119,15 +119,15 @@
 | 8 | Salle des coffres | Munitions pour pistolet x5 (109) |
 | 10 | Escaliers Ouest | Herbe verte | 
 | 11 | Chambre noire | Herbe Rouge |  
-| 14 | Chambre noire | Poudre à canon <br> Rubans encreurs x3 |  
-| 18 | Escaliers deuxième étage | Munitions pour pistolet x3 (sur le corp) <br> Herbe rouge |  
-| 19 | Escaliers troisième étage | Munitions pour pistolet x4 <br> Clé pique |  
-| 20 | Salle de stockage Ouest | Poudre à canon (en rentrant sur le petit meuble) <br> Munitions pour pistolet x4 (sur l'étagère près de l'endroit à faire exploser) | 
-| 22 | Bibliothèque |  Couteau de combat (sur le corp en bas des escaliers) | 
-| 23 | Bibliothèque |  Munitions pour pistolet x6 (derrière la bibliothèque la plus à gauche) | 
-| 24 | Salon | Carte | 
-| 25 | Hall principal | Munitions de pistolet x3 (au fond à droite en sortant de la bibliothèque) | 
-| 32 | Salle d'attente | Herbe verte | 
+| 13 | Chambre noire | Poudre à canon <br> Rubans encreurs x3 |  
+| 17 | Escaliers deuxième étage | Munitions pour pistolet x3 (sur le corp) <br> Herbe rouge |  
+| 18 | Escaliers troisième étage | Munitions pour pistolet x4 <br> Clé pique |  
+| 19 | Salle de stockage Ouest | Poudre à canon (en rentrant sur le petit meuble) <br> Munitions pour pistolet x4 (sur l'étagère près de l'endroit à faire exploser) | 
+| 21 | Bibliothèque |  Couteau de combat (sur le corp en bas des escaliers) | 
+| 22 | Bibliothèque |  Munitions pour pistolet x6 (derrière la bibliothèque la plus à gauche) | 
+| 23 | Salon | Carte | 
+| 24 | Hall principal | Munitions de pistolet x3 (au fond à droite en sortant de la bibliothèque) | 
+| 31 | Salle d'attente | Herbe verte | 
 
 ???+ danger "2. Ne courez pas"
 
