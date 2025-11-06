@@ -100,7 +100,7 @@
 
     </figure>
 
-    Il est possible qu'un Licker se trouve dans ce couloir. Comme il est aveugle, marchez et ne courez pas afin d'éviter d'attirer son attention.
+    Il est possible qu'un Licker se trouve dans ce couloir. Comme il est aveugle, marchez tout le long du couloir et ne courez pas afin d'éviter d'attirer son attention.
 
 ???+ tip "5. Visez la tête"
 
