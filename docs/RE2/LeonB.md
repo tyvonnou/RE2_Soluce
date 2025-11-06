@@ -73,9 +73,7 @@
 
     Attention à l'homme kebab, tuez le pour ne pas qu'il pose problème pour la suite.
 
-<div>
-
-## Les deux premières medailles
+## Les deux premières medailles [2/2]
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
@@ -99,19 +97,7 @@
 | 18 | Tuez le zombie en haut des escaliers |
 | 19 | Dans la salle de stockage Ouest, tuez le zombie au plafond | 
 | 20 | Déposez le détonateur |
-| 21 | Allez maintenant dans la bibliothèque et tuez le zombie qui se balade, ainsi que celui assis devant la porte pique | 
-| 22 | Déplacez les bibliothèques, celle de droite : une fois sur la gauche ; celles de gauche : une fois sur la droite | 
-| 23 | Passez la porte en bas des escaliers et récupérez la médaille (jumeaux - balance - petit vers) | 
-| 24 | Retournez dans le hall en passant par la bibliothèque | 
-| 25 | Récuperez la médaille Lion (couronne - torche - oiseau) | 
-| 26 | Descendez et ouvrez la porte pique | 
-| 27 | Tuez les deux zombies avec une balle de fusil dans la tête chacun, ajoutez des balles de pistolet si nécéssaire | 
-| 28 | Disposez les médailles | 
-| 29 | Récupérez l'herbe verte dans la réception et combinez là avec votre herbe rouge | 
-| 30 | Dirigez vous dans la salle d'attente au premier étage, tuez le zombie de la même manière ques les autres | 
-| 31 | Utilisez la clé pique pour pouvoir la jeter et récupérez le silencieux dans le coffre-fort (droite 6, gauche 2, droite 11) |
 
-</div>
 
 | No. | Lieu          | Objets |
 | :---------------: |:---------------| :------------- |
@@ -127,11 +113,7 @@
 | 17 | Escaliers deuxième étage | Munitions pour pistolet x3 (sur le corp) <br> Herbe rouge |  
 | 18 | Escaliers troisième étage | Munitions pour pistolet x4 <br> Clé pique |  
 | 19 | Salle de stockage Ouest | Poudre à canon (en rentrant sur le petit meuble) <br> Munitions pour pistolet x4 (sur l'étagère près de l'endroit à faire exploser) | 
-| 21 | Bibliothèque |  Couteau de combat (sur le corp en bas des escaliers) | 
-| 22 | Bibliothèque |  Munitions pour pistolet x6 (derrière la bibliothèque la plus à gauche) | 
-| 23 | Salon | Carte | 
-| 24 | Hall principal | Munitions de pistolet x3 (au fond à droite en sortant de la bibliothèque) | 
-| 31 | Salle d'attente | Herbe verte | 
+
 
 ???+ danger "2. Ne courez pas"
 
@@ -152,6 +134,31 @@
     </figure>
 
     Même chose que pour les zombies enflammés, attendez bien que le réticule soit stable pour tirer et reculez quand nécéssaire.
+
+
+## Les deux premières medailles [2/2]
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 21 | Allez maintenant dans la bibliothèque et tuez le zombie qui se balade, ainsi que celui assis devant la porte pique | 
+| 22 | Déplacez les bibliothèques, celle de droite : une fois sur la gauche ; celles de gauche : une fois sur la droite | 
+| 23 | Passez la porte en bas des escaliers et récupérez la médaille (jumeaux - balance - petit vers) | 
+| 24 | Retournez dans le hall en passant par la bibliothèque | 
+| 25 | Récuperez la médaille Lion (couronne - torche - oiseau) | 
+| 26 | Descendez et ouvrez la porte pique | 
+| 27 | Tuez les deux zombies avec une balle de fusil dans la tête chacun, ajoutez des balles de pistolet si nécéssaire | 
+| 28 | Disposez les médailles | 
+| 29 | Récupérez l'herbe verte dans la réception et combinez là avec votre herbe rouge | 
+| 30 | Dirigez vous dans la salle d'attente au premier étage, tuez le zombie de la même manière ques les autres | 
+| 31 | Utilisez la clé pique pour pouvoir la jeter et récupérez le silencieux dans le coffre-fort (droite 6, gauche 2, droite 11) |
+
+| No. | Lieu          | Objets |
+| :---------------: |:---------------| :------------- |
+| 21 | Bibliothèque |  Couteau de combat (sur le corp en bas des escaliers) | 
+| 22 | Bibliothèque |  Munitions pour pistolet x6 (derrière la bibliothèque la plus à gauche) | 
+| 23 | Salon | Carte | 
+| 24 | Hall principal | Munitions de pistolet x3 (au fond à droite en sortant de la bibliothèque) | 
+| 31 | Salle d'attente | Herbe verte | 
 
 ???+ tip "28. Soignez vous"
 
