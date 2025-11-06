@@ -74,7 +74,6 @@
     Attention à l'homme kebab, tuez le pour ne pas qu'il pose problème pour la suite.
 
 ## Les deux premières medailles
-
 | No. | Procédure          |
 | :---------------: |:---------------| 
 | 1 | Longez l'entrée du hall principal et traversez la réception | 
@@ -99,9 +98,6 @@
 | 20 | Déposez le détonateur |
 | 21 | Allez maintenant dans la bibliothèque et tuez le zombie qui se balade, ainsi que celui assis devant la porte pique | 
 | 22 | Déplacez les bibliothèques, celle de droite : une fois sur la gauche ; celles de gauche : une fois sur la droite | 
-
-|||
-| :---------------: |:---------------| 
 | 23 | Passez la porte en bas des escaliers et récupérez la médaille (jumeaux - balance - petit vers) | 
 | 24 | Retournez dans le hall en passant par la bibliothèque | 
 | 25 | Récuperez la médaille Lion (couronne - torche - oiseau) | 
