@@ -73,7 +73,10 @@
 
     Attention à l'homme kebab, tuez le pour ne pas qu'il pose problème pour la suite.
 
+<div>
+
 ## Les deux premières medailles
+
 | No. | Procédure          |
 | :---------------: |:---------------| 
 | 1 | Longez l'entrée du hall principal et traversez la réception | 
@@ -107,6 +110,8 @@
 | 29 | Récupérez l'herbe verte dans la réception et combinez là avec votre herbe rouge | 
 | 30 | Dirigez vous dans la salle d'attente au premier étage, tuez le zombie de la même manière ques les autres | 
 | 31 | Utilisez la clé pique pour pouvoir la jeter et récupérez le silencieux dans le coffre-fort (droite 6, gauche 2, droite 11) |
+
+</div>
 
 | No. | Lieu          | Objets |
 | :---------------: |:---------------| :------------- |
