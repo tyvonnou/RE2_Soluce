@@ -1,6 +1,6 @@
 # Leon | Scénario B
 
-## Commissariat [1/?] 
+## Commissariat [1/4] 
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
@@ -73,7 +73,7 @@
 
     Attention à l'homme kebab, tuez le pour ne pas qu'il pose problème pour la suite.
 
-## Commissariat [2/?] 
+## Commissariat [2/4] 
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
@@ -136,7 +136,7 @@
     Même chose que pour les zombies enflammés, attendez bien que le réticule soit stable pour tirer et reculez quand nécéssaire.
 
 
-## Commissariat [3/?] 
+## Commissariat [3/4] 
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
@@ -170,7 +170,7 @@
 
     Si vous vous êtes fait toucher, un spray premiers secours est disposé à l'entrée du commisariat.
 
-## Commissariat [4/?] 
+## Commissariat [4/4] 
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
