@@ -109,7 +109,7 @@
 | 30 | Récupérez l'herbe verte dans la réception et combinez là avec votre herbe rouge | 
 | 30 | Récupérez l'herbe verte dans la réception et combinez là avec votre herbe rouge | 
 | 31 | Dirigez vous dans la salle d'attente au premier étage, tuez le zombie sur le chemin de la même manière ques les deux autres | 
-| 32 | Ouvrez la porte pique et récupérez le silencieux dans le coffre-fort (droite 6, gauche 2, droite 11) |
+| 32 | Utilisez la clé pique pour pouvoir la jeter et récupérez le silencieux dans le coffre-fort (droite 6, gauche 2, droite 11) |
 
 | No. | Lieu          | Objets |
 | :---------------: |:---------------| :------------- |
