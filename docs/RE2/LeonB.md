@@ -78,7 +78,7 @@
 | No. | Procédure          |
 | :---------------: |:---------------| 
 | 1 | Longez l'entrée du hall principal et traversez la réception | 
-| 2 | Traversez le couloir en disposant les planches de bois sur les fenêtres : <br> Sur la deuxième fenêtre, tout droit en rentrant vers le corp du policier <br> Sur la fenêtre après avoir passer la porte ouverte <br> Sur la fenêtre au fond du couloir |   
+| 2 | Traversez le couloir en disposant les planches de bois sur les fenêtres. Les premières sur la deuxième fenêtre, tout droit en rentrant vers le corp du policier.  Ensuite sur la fenêtre après avoir passer la porte ouverte. Les dernières sur la fenêtre au fond du couloir |   
 | 3 | Dans la salle des opérations, utilisez le coupe-boulon sur la porte au fond | 
 | 4 | Jetez maintenant le coupe-boulon et récuperez les objets dans la salle de stockage | 
 | 5 | Sortez par la porte verouillée et éliminez les deux zombies | 
@@ -87,29 +87,27 @@
 | 8 | Ressortez et ouvrez le coffre 109 dans la salles des coffres | 
 | 9 | Dirigez vous maintenant vers la chambre noire |
 | 10 | Éliminez les deux zombies au niveau des escaliers | 
-| 11 | Entrez dans la chambre noire et allumez la lumière |
-| 12 | Combinez HV + HR |  
-| 13 | Organisez vos objets : <br> - Herbe verte + bleue <br> - Chargeur étendu <br> - Herbe verte <br> - Flash <br> - Poudre à canon <br> - Spray de premiers secours <br> | 
-| 14 | Fouillez les casiers | 
-| 15 | Organisez vos objets : <br> - Poudre à canon <br>- Rubans encreurs x3 <br> + Munitions pour fusil x2| 
-| 16 | Sortez et éliminez le dernier zombie | 
-| 17 | Récupérez le fusil à pompe et les balles dans la salle des coffres <br> Pensez à recharger le fusil | 
-| 18 | Montez les escaliers |
-| 19 | Tuez le zombie en haut des escaliers |
-| 20 | Dans la salle de stockage Ouest, tuez le zombie au plafond | 
-| 21 | Déposez le détonateur |
-| 22 | Allez maintenant dans la bibliothèque et tuez le zombie qui se balade, ainsi que celui assis devant la porte pique | 
-| 23 | Déplacez les bibliothèques, celle de droite : une fois sur la gauche ; celles de gauche : une fois sur la droite | 
-| 24 | Passez la porte en bas des escaliers et récupérez la médaille (jumeaux - balance - petit vers) | 
-| 25 | Retournez dans le hall en passant par la bibliothèque | 
-| 26 | Récuperez la médaille Lion (couronne - torche - oiseau) | 
-| 27 | Descendez et ouvrez la porte pique | 
-| 28 | Tuez les deux zombies avec une balle de fusil dans la tête chacun, ajoutez des balles de pistolet si nécéssaire | 
-| 29 | Disposez les médailles | 
-| 30 | Récupérez l'herbe verte dans la réception et combinez là avec votre herbe rouge | 
-| 30 | Récupérez l'herbe verte dans la réception et combinez là avec votre herbe rouge | 
-| 31 | Dirigez vous dans la salle d'attente au premier étage, tuez le zombie sur le chemin de la même manière ques les deux autres | 
-| 32 | Utilisez la clé pique pour pouvoir la jeter et récupérez le silencieux dans le coffre-fort (droite 6, gauche 2, droite 11) |
+| 11 | Entrez dans la chambre noire et allumez la lumière <br> Combinez HV + HR |  
+| 12 | Organisez vos objets : <br> - Herbe verte + rouge <br> - Chargeur étendu <br> - Herbe verte <br> - Flash <br> - Poudre à canon <br> - Spray de premiers secours <br> | 
+| 13 | Fouillez les casiers | 
+| 14 | Organisez vos objets : <br> - Poudre à canon <br>- Rubans encreurs x3 <br> + Munitions pour fusil x2| 
+| 15 | Sortez et éliminez le dernier zombie | 
+| 16 | Récupérez le fusil à pompe et les balles dans la salle des coffres <br> Pensez à recharger le fusil | 
+| 17 | Montez les escaliers |
+| 18 | Tuez le zombie en haut des escaliers |
+| 19 | Dans la salle de stockage Ouest, tuez le zombie au plafond | 
+| 20 | Déposez le détonateur |
+| 21 | Allez maintenant dans la bibliothèque et tuez le zombie qui se balade, ainsi que celui assis devant la porte pique | 
+| 22 | Déplacez les bibliothèques, celle de droite : une fois sur la gauche ; celles de gauche : une fois sur la droite | 
+| 23 | Passez la porte en bas des escaliers et récupérez la médaille (jumeaux - balance - petit vers) | 
+| 24 | Retournez dans le hall en passant par la bibliothèque | 
+| 25 | Récuperez la médaille Lion (couronne - torche - oiseau) | 
+| 26 | Descendez et ouvrez la porte pique | 
+| 27 | Tuez les deux zombies avec une balle de fusil dans la tête chacun, ajoutez des balles de pistolet si nécéssaire | 
+| 28 | Disposez les médailles | 
+| 29 | Récupérez l'herbe verte dans la réception et combinez là avec votre herbe rouge | 
+| 30 | Dirigez vous dans la salle d'attente au premier étage, tuez le zombie de la même manière ques les autres | 
+| 31 | Utilisez la clé pique pour pouvoir la jeter et récupérez le silencieux dans le coffre-fort (droite 6, gauche 2, droite 11) |
 
 | No. | Lieu          | Objets |
 | :---------------: |:---------------| :------------- |
