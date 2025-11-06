@@ -72,3 +72,25 @@
     </figure>
 
     Attention à l'homme kebab, tuez le pour ne pas qu'il pose problème pour la suite.
+
+## Commisariat 
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 1 | Longez l'entrée du hall principal et traversez la réception | 
+| 2 | Traversez le couloir en disposant les planches de bois sur les fenêtres : <br> Sur la deuxième fenêtre, tout droit en rentrant vers le corp du policier <br> Sur la fenêtre après avoir passer la porte ouverte <br> Sur la fenêtre au fond du couloir |   
+
+
+| No. | Lieu          | Objets |
+| :---------------: |:---------------| :------------- |
+| 1 | Réception | Munition pour pistolet x6 |
+
+???+ danger "12. Ne courez pas"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/L4.jpg){ width="416" }
+
+    </figure>
+
+    Il est possible qu'un Licker se trouve dans ce couloir. Comme il est aveugle, marchez et ne courez pas afin d'éviter d'attirer son attention.
