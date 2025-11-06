@@ -73,7 +73,7 @@
 
     Attention à l'homme kebab, tuez le pour ne pas qu'il pose problème pour la suite.
 
-## Les deux premières medailles [2/2]
+## Les deux premières medailles [1/2]
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
