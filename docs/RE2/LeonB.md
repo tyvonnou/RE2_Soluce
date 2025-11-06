@@ -1,6 +1,6 @@
 # Leon | Scénario B
 
-## Commissariat [1/4] 
+## Commissariat [1/3] 
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
@@ -73,7 +73,7 @@
 
     Attention à l'homme kebab, tuez le pour ne pas qu'il pose problème pour la suite.
 
-## Commissariat [2/4] 
+## Commissariat [2/3] 
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
@@ -136,7 +136,7 @@
     Même chose que pour les zombies enflammés, attendez bien que le réticule soit stable pour tirer et reculez quand nécéssaire.
 
 
-## Commissariat [3/4] 
+## Commissariat [3/3] 
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
@@ -151,6 +151,20 @@
 | 9 | Récupérez l'herbe verte dans la réception et combinez là avec votre herbe rouge | 
 | 10 | Dirigez vous dans la salle d'attente au premier étage, tuez le zombie de la même manière ques les autres | 
 | 11 | Utilisez la clé pique pour pouvoir la jeter et récupérez le silencieux dans le coffre-fort (droite 6, gauche 2, droite 11) |
+| 12 | Retournez dans le bureau Ouest via le hall principal | 
+| 13 | Dirigez vous dans la chambre noire | 
+| 14 | Organisez vos objets : <br> - Herbe verte <br> - Silencieux <br> - Herbe verte + rouge <br> - Poudre à canon  <br> - Couteau de combat <br> + Valve |
+| 15 | Montez au premier étage au niveau des douches | 
+| 16 | Dévérouillez le casier (CAP), n'ouvrez pas le dernier casier tout à gauche | 
+| 17 | Utilisez la valve | 
+| 18 | Empruntez le couloir pour entrer dans le bureau des S.T.A.R.S | 
+| 19 | Allez combiner la pile dans le détonateur | 
+| 20 | Ouvrez la porte de la bibliothèque le temps de l'explosion, pour éviter que l'étagère chute | 
+| 21 | Récupérez la dernière médaille (bélier - harpe - oiseau) | 
+| 22 | Rendez-vous dans le hall principal via la bibliothèque pour déposer la dernière médaille |
+| 23 | Empruntez le passage secret |
+| 24 | Organisez vos objets : <br> - TOUT <br> + Couteau de combat x2 (couteau infini) <br> + Flash <br> + Ruban encreur x1 |
+| 25 | Effectuez votre première sauvegarde |
 
 | No. | Lieu          | Objets |
 | :---------------: |:---------------| :------------- |
@@ -159,6 +173,12 @@
 | 3 | Salon | Carte | 
 | 4 | Hall principal | Munitions de pistolet x3 (au fond à droite en sortant de la bibliothèque) | 
 | 11 | Salle d'attente | Herbe verte | 
+| 16 | Vestiaire homme |  Cartouches de fusil x3 (dans le casier) <br> Cartouches de fusil x3 (dans le casier verouillé) |
+| 17 | Vestiaire femme |  Poudre à canon (dans le casier le plus à gauche) |
+| 18 | Couloir |  Cartouches de fusil x2 (sur le banc) |
+| 18 | Bureau S.T.A.R.S | Pile (sur le bureau individuel) <br> Herbe rouge <br> Poudre à canon de haute qualité (jaune) <br> Spray de premiers secours <br> Flash <br> Cartouches de fusils x2 <br> Munitions pour pistolet x6 |
+| 23 | Passage secret  | Cartouches de fusils x2 <br> Ruban encreur |
+
 
 ???+ tip "8. Soignez vous"
 
@@ -170,35 +190,6 @@
 
     Si vous vous êtes fait toucher, un spray premiers secours est disposé à l'entrée du commisariat.
 
-## Commissariat [4/4] 
-
-| No. | Procédure          |
-| :---------------: |:---------------| 
-| 1 | Retournez dans le bureau Ouest via le hall principal | 
-| 2 | Dirigez vous dans la chambre noire | 
-| 3 | Organisez vos objets : <br> - Herbe verte <br> - Silencieux <br> - Herbe verte + rouge <br> - Poudre à canon  <br> - Couteau de combat <br> + Valve |
-| 4 | Montez au premier étage au niveau des douches | 
-| 5 | Dévérouillez le casier (CAP), n'ouvrez pas le dernier casier tout à gauche | 
-| 6 | Utilisez la valve | 
-| 7 | Empruntez le couloir pour entrer dans le bureau des S.T.A.R.S | 
-| 8 | Allez combiner la pile dans le détonateur | 
-| 9 | Ouvrez la porte de la bibliothèque le temps de l'explosion, pour éviter que l'étagère chute | 
-| 10 | Récupérez la dernière médaille (bélier - harpe - oiseau) | 
-| 11 | Rendez-vous dans le hall principal via la bibliothèque pour déposer la dernière médaille |
-| 12 | Empruntez le passage secret |
-| 13 | Organisez vos objets : <br> - TOUT <br> + Couteau de combat x2 (couteau infini) <br> + Flash <br> + Ruban encreur x1 |
-| 14 | Effectuez votre première sauvegarde |
-
-
-| No. | Lieu          | Objets |
-| :---------------: |:---------------| :------------- |
-| 4 | Vestiaire homme |  Cartouches de fusil x3 (dans le casier) <br> Cartouches de fusil x3 (dans le casier verouillé) |
-| 6 | Vestiaire femme |  Poudre à canon (dans le casier le plus à gauche) |
-| 7 | Couloir |  Cartouches de fusil x2 (sur le banc) |
-| 7 | Bureau S.T.A.R.S | Pile (sur le bureau individuel) <br> Herbe rouge <br> Poudre à canon de haute qualité (jaune) <br> Spray de premiers secours <br> Flash <br> Cartouches de fusils x2 <br> Munitions pour pistolet x6 |
-| 12 | Passage secret  | Cartouches de fusils x2 <br> Ruban encreur |
-
-
-???+ warning "8. Rebroussez chemin"
+???+ warning "19. Rebroussez chemin"
 
     Dirigez-vous bien en partant sur la droite, de là d'où vous venez. Vous allez être poursuivi par le Tyran, en partant dans ce sens vous évitez de tomber dessus.
