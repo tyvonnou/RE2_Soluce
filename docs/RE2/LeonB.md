@@ -1,6 +1,6 @@
 # Leon | Scénario B
 
-## Entrée au commisariat 
+## Commissariat [1/?] 
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
@@ -73,7 +73,7 @@
 
     Attention à l'homme kebab, tuez le pour ne pas qu'il pose problème pour la suite.
 
-## Les deux premières medailles [1/2]
+## Commissariat [2/?] 
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
@@ -136,31 +136,31 @@
     Même chose que pour les zombies enflammés, attendez bien que le réticule soit stable pour tirer et reculez quand nécéssaire.
 
 
-## Les deux premières medailles [2/2]
+## Commissariat [3/?] 
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
-| 21 | Allez maintenant dans la bibliothèque et tuez le zombie qui se balade, ainsi que celui assis devant la porte pique | 
-| 22 | Déplacez les bibliothèques, celle de droite : une fois sur la gauche ; celles de gauche : une fois sur la droite | 
-| 23 | Passez la porte en bas des escaliers et récupérez la médaille (jumeaux - balance - petit vers) | 
-| 24 | Retournez dans le hall en passant par la bibliothèque | 
-| 25 | Récuperez la médaille Lion (couronne - torche - oiseau) | 
-| 26 | Descendez et ouvrez la porte pique | 
-| 27 | Tuez les deux zombies avec une balle de fusil dans la tête chacun, ajoutez des balles de pistolet si nécéssaire | 
-| 28 | Disposez les médailles | 
-| 29 | Récupérez l'herbe verte dans la réception et combinez là avec votre herbe rouge | 
-| 30 | Dirigez vous dans la salle d'attente au premier étage, tuez le zombie de la même manière ques les autres | 
-| 31 | Utilisez la clé pique pour pouvoir la jeter et récupérez le silencieux dans le coffre-fort (droite 6, gauche 2, droite 11) |
+| 1 | Allez maintenant dans la bibliothèque et tuez le zombie qui se balade, ainsi que celui assis devant la porte pique | 
+| 2 | Déplacez les bibliothèques, celle de droite : une fois sur la gauche ; celles de gauche : une fois sur la droite | 
+| 3 | Passez la porte en bas des escaliers et récupérez la médaille (jumeaux - balance - petit vers) | 
+| 4 | Retournez dans le hall en passant par la bibliothèque | 
+| 5 | Récuperez la médaille Lion (couronne - torche - oiseau) | 
+| 6 | Descendez et ouvrez la porte pique | 
+| 7 | Tuez les deux zombies avec une balle de fusil dans la tête chacun, ajoutez des balles de pistolet si nécéssaire | 
+| 8 | Disposez les médailles | 
+| 9 | Récupérez l'herbe verte dans la réception et combinez là avec votre herbe rouge | 
+| 10 | Dirigez vous dans la salle d'attente au premier étage, tuez le zombie de la même manière ques les autres | 
+| 11 | Utilisez la clé pique pour pouvoir la jeter et récupérez le silencieux dans le coffre-fort (droite 6, gauche 2, droite 11) |
 
 | No. | Lieu          | Objets |
 | :---------------: |:---------------| :------------- |
-| 21 | Bibliothèque |  Couteau de combat (sur le corp en bas des escaliers) | 
-| 22 | Bibliothèque |  Munitions pour pistolet x6 (derrière la bibliothèque la plus à gauche) | 
-| 23 | Salon | Carte | 
-| 24 | Hall principal | Munitions de pistolet x3 (au fond à droite en sortant de la bibliothèque) | 
-| 31 | Salle d'attente | Herbe verte | 
+| 1 | Bibliothèque |  Couteau de combat (sur le corp en bas des escaliers) | 
+| 2 | Bibliothèque |  Munitions pour pistolet x6 (derrière la bibliothèque la plus à gauche) | 
+| 3 | Salon | Carte | 
+| 4 | Hall principal | Munitions de pistolet x3 (au fond à droite en sortant de la bibliothèque) | 
+| 11 | Salle d'attente | Herbe verte | 
 
-???+ tip "28. Soignez vous"
+???+ tip "8. Soignez vous"
 
     <figure markdown="span">
 
@@ -170,4 +170,4 @@
 
     Si vous vous êtes fait toucher, un spray premiers secours est disposé à l'entrée du commisariat.
 
-## La dernière médaille et le Tyran 
+## Commissariat [4/?] 
