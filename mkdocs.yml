@@ -16,6 +16,8 @@ nav:
 
 
 theme:
+  icon:
+    annotation: material/star-four-points-circle 
   name: material
   nav_style: light
   navigation_depth: 4
