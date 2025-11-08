@@ -35,16 +35,6 @@
 | 20 | Sortez de la salle et récupérez les objets <br> *+ Cartouches de fusil x2 (sur les étagères métalliques)* <br> *+ Couteau de combat (planté dans le mur à côté du boîtier à fusibles)*| 
 
 </figure>
-<figure markdown="span">
-
-| No. | Procédure          |
-| :---------------: |:---------------| 
-| 21 | Ré-organisez vos objets dans la salle de pause <br> *- Cartouches de fusil x2* <br> *- Couteau de combat* | 
-| 22 | Dirigez vous maintenant vers le hall principal <br> *+ Spray de premiers secours (dans les toilettes, celles du milieu)*| 
-| 23 | Utilisez le fusible pour ouvrir le volet menant au hall principal | 
-
-</figure>
-
 
 ???+ danger "12. Éliminez les deux zombies enflammés"
 
@@ -65,6 +55,16 @@
     </figure>
 
     Le zombie peut vous attaquer, courez dans la direction opposée le temps qu'il finisse sa charge, puis brisez lui les genoux pour passer.
+
+<figure markdown="span">
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 21 | Ré-organisez vos objets dans la salle de pause <br> *- Cartouches de fusil x2* <br> *- Couteau de combat* | 
+| 22 | Dirigez vous maintenant vers le hall principal <br> *+ Spray de premiers secours (dans les toilettes, celles du milieu)*| 
+| 23 | Utilisez le fusible pour ouvrir le volet menant au hall principal | 
+
+</figure>
 
 ???+ warning "22. L'homme kebab"
 
@@ -94,22 +94,6 @@
 | 10 | Éliminez les deux zombies au niveau des escaliers <br> *+ Herbe verte*| 
 
 </figure>
-<figure markdown="span">
-
-| No. | Procédure          |
-| :---------------: |:---------------| 
-| 11 | Entrez dans la chambre noire et allumez la lumière  <br> *+ Herbe rouge* <br> Combinez HV + HR |  
-| 12 | Organisez vos objets <br> *- Herbe verte + rouge* <br> *- Chargeur étendu* <br> *- Herbe verte* <br> *- Flash* <br> *- Poudre à canon* <br> *- Spray de premiers secours* | 
-| 13 | Fouillez les casiers <br> *+ Poudre à canon* <br> *+ Rubans encreurs x3* | 
-| 14 | Organisez vos objets <br> *- Poudre à canon* <br>*- Rubans encreurs x3* <br> *+ Munitions pour fusil x2*| 
-| 15 | Sortez et éliminez le dernier zombie | 
-| 16 | Récupérez le fusil à pompe et les balles dans la salle des coffres <br> Pensez à recharger le fusil | 
-| 17 | Montez les escaliers <br> *+ Munitions pour pistolet x3 (sur le corp au deuxième étage)* <br> *+ Herbe rouge (deuxième étage)* |
-| 18 | Tuez le zombie en haut des escaliers <br> *+ Munitions pour pistolet x4* <br> *+ Clé pique* |
-| 19 | Dans la salle de stockage Ouest, tuez le zombie au plafond <br> *+ Poudre à canon (en rentrant sur le petit meuble)* <br> *+ Munitions pour pistolet x4 (sur l'étagère près de l'endroit à faire exploser)*| 
-| 20 | Déposez le détonateur |
-
-</figure>
 
 ???+ danger "2. Ne courez pas"
 
@@ -131,6 +115,22 @@
 
     Même chose que pour les zombies enflammés, attendez bien que le réticule soit stable pour tirer et reculez quand nécéssaire.
 
+<figure markdown="span">
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 11 | Entrez dans la chambre noire et allumez la lumière  <br> *+ Herbe rouge* <br> Combinez HV + HR |  
+| 12 | Organisez vos objets <br> *- Herbe verte + rouge* <br> *- Chargeur étendu* <br> *- Herbe verte* <br> *- Flash* <br> *- Poudre à canon* <br> *- Spray de premiers secours* | 
+| 13 | Fouillez les casiers <br> *+ Poudre à canon* <br> *+ Rubans encreurs x3* | 
+| 14 | Organisez vos objets <br> *- Poudre à canon* <br>*- Rubans encreurs x3* <br> *+ Munitions pour fusil x2*| 
+| 15 | Sortez et éliminez le dernier zombie | 
+| 16 | Récupérez le fusil à pompe et les balles dans la salle des coffres <br> Pensez à recharger le fusil | 
+| 17 | Montez les escaliers <br> *+ Munitions pour pistolet x3 (sur le corp au deuxième étage)* <br> *+ Herbe rouge (deuxième étage)* |
+| 18 | Tuez le zombie en haut des escaliers <br> *+ Munitions pour pistolet x4* <br> *+ Clé pique* |
+| 19 | Dans la salle de stockage Ouest, tuez le zombie au plafond <br> *+ Poudre à canon (en rentrant sur le petit meuble)* <br> *+ Munitions pour pistolet x4 (sur l'étagère près de l'endroit à faire exploser)*| 
+| 20 | Déposez le détonateur |
+
+</figure>
 
 ## Commissariat [3/3] 
 
@@ -150,6 +150,17 @@
 | 10 | Dirigez vous dans la salle d'attente au premier étage, tuez le zombie de la même manière ques les autres | 
 
 </figure>
+
+???+ tip "8. Soignez vous"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/L6.jpg){ width="416" }
+
+    </figure>
+
+    Si vous vous êtes fait toucher, un spray premiers secours est disposé à l'entrée du commisariat.
+
 <figure markdown="span">
 
 | No. | Procédure          |
@@ -166,6 +177,11 @@
 | 20 | Ouvrez la porte de la bibliothèque le temps de l'explosion, pour éviter que l'étagère chute | 
 
 </figure>
+
+???+ warning "19. Rebroussez chemin"
+
+    Dirigez-vous bien en partant sur la droite, de là d'où vous venez. Vous allez être poursuivi par le Tyran, en partant dans ce sens vous évitez de tomber dessus.
+
 <figure markdown="span">
 
 | No. | Procédure          |
@@ -179,16 +195,4 @@
 </figure>
 
 
-???+ tip "8. Soignez vous"
 
-    <figure markdown="span">
-
-    ![Image title](IMG/L6.jpg){ width="416" }
-
-    </figure>
-
-    Si vous vous êtes fait toucher, un spray premiers secours est disposé à l'entrée du commisariat.
-
-???+ warning "19. Rebroussez chemin"
-
-    Dirigez-vous bien en partant sur la droite, de là d'où vous venez. Vous allez être poursuivi par le Tyran, en partant dans ce sens vous évitez de tomber dessus.
