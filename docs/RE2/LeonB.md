@@ -20,11 +20,11 @@
 | No. | Procédure          |
 | :---------------: |:---------------| 
 | 11 | Retournez vers la porte menant à l'escalier de secours |
-| 12 | Éliminez les deux zombies enflammés |
+| **12** | Éliminez les deux zombies enflammés |
 | 13 | Rendez-vous au bureau Est au 1er étage via l'escalier de sercours |
 | 14 | Récuperez les objets <br> *+ Flash (sur un bureau vers l'entrée)* <br> *+ Munitions pour pistolet (sur le corps du policier)* <br> *+ Valve (dans le petit bureau)* <br> *+ Poudre à canon de haute qualité (jaune) (dans le petit bureau)*|
 | 15 | Rendez-vous dans la salle de presse en faisant une étape dans la petite sal le d'archivage <br> *+ Planches en bois (petite salle d'archivage)* <br> *+ Munitions pour pistolet x5 (petite salle d'archivage)* <br> *+  Munitions pour pistolet x5 (sur le corp dans la salle de presse)*| 
-| 16 | Rendez-vous dans la salle de pause via le volet de la petite salle de garde <br> Allumez la lumière en rentrant | 
+| **16** | Rendez-vous dans la salle de pause via le volet de la petite salle de garde <br> Allumez la lumière en rentrant | 
 | 17 | Organisez vos objets dans la salle de pause  <br> *- Valve* <br> *- Flash* <br> *- Poudre à canon de haute qualité (jaune)* | 
 | 18 | Récupérez les objets dans la salle <br> *+ Herbe bleue (sur la table)* <br> *+ Munitions pour pistolet x8 (dans le casier de droite)* <br> *+  Poudre à canon de haute qualité (jaune) (dans le casier de gauche)* <br> *+ fusible (sur une chaisse dans l'autre salle)*| 
 | 19 | Ré-organisez vos objets dans la salle de pause <br> *- Poudre à canon de haute qualité (jaune)* <br> *- Herbe bleue* | 
@@ -55,7 +55,7 @@
 | No. | Procédure          |
 | :---------------: |:---------------| 
 | 21 | Ré-organisez vos objets dans la salle de pause <br> *- Cartouches de fusil x2* <br> *- Couteau de combat* | 
-| 22 | Dirigez vous maintenant vers le hall principal <br> *+ Spray de premiers secours (dans les toilettes, celles du milieu)*| 
+| **22** | Dirigez vous maintenant vers le hall principal <br> *+ Spray de premiers secours (dans les toilettes, celles du milieu)*| 
 | 23 | Utilisez le fusible pour ouvrir le volet menant au hall principal | 
 
 
@@ -74,10 +74,10 @@
 | No. | Procédure          |
 | :---------------: |:---------------| 
 | 1 | Longez l'entrée du hall principal et traversez la réception <br> *+ Munitions pour pistolet x6 (réception)* | 
-| 2 | Traversez le couloir en disposant les planches de bois sur les fenêtres. Les premières sur la deuxième fenêtre, tout droit en rentrant vers le corp du policier.  Ensuite sur la fenêtre après avoir passer la porte ouverte. Les dernières sur la fenêtre au fond du couloir |   
+| **2** | Traversez le couloir en disposant les planches de bois sur les fenêtres. Les premières sur la deuxième fenêtre, tout droit en rentrant vers le corp du policier.  Ensuite sur la fenêtre après avoir passer la porte ouverte. Les dernières sur la fenêtre au fond du couloir |   
 | 3 | Dans la salle des opérations, utilisez le coupe-boulon sur la porte au fond <br> *+ Munitions pour pistolet x4 (à gauche directement en rentrant dans la salle)* <br> *+ Carte (sur le tableau)*| 
 | 4 | Jetez maintenant le coupe-boulon et récuperez les objets dans la salle de stockage <br> *+ Détonateur* <br> *+ Herbe verte* <br> *+ Flash*| 
-| 5 | Sortez par la porte verouillée et éliminez les deux zombies <br> *+ Munitions pour pistolet x3 (sur le corp, au fond à gauche en arrivant)*| 
+| **5** | Sortez par la porte verouillée et éliminez les deux zombies <br> *+ Munitions pour pistolet x3 (sur le corp, au fond à gauche en arrivant)*| 
 | 6 | Dans le bureau Ouest, récupérez la sacoche dans le coffre-fort (gauche 9, droite 15, gauche 7) <br> *+ Munitions pour pistolet x2 (à l'intérieur du casier)* <br> *+ Poudre à canon* | 
 | 7 | Récupérez le chargeur étendu (serrure gauche : NED, serrure droite : MRG) | 
 | 8 | Ressortez et ouvrez le coffre dans la salles des coffres <br> *+  Munitions pour pistolet x5 (109)*| 
@@ -131,7 +131,7 @@
 | 5 | Récuperez la médaille Lion (couronne - torche - oiseau) | 
 | 6 | Descendez et ouvrez la porte pique | 
 | 7 | Tuez les deux zombies avec une balle de fusil dans la tête chacun, ajoutez des balles de pistolet si nécéssaire | 
-| 8 | Disposez les médailles | 
+| **8** | Disposez les médailles | 
 | 9 | Récupérez l'herbe verte dans la réception et combinez là avec votre herbe rouge | 
 | 10 | Dirigez vous dans la salle d'attente au premier étage, tuez le zombie de la même manière ques les autres | 
 
@@ -156,10 +156,8 @@
 | 16 | Dévérouillez le casier (CAP), n'ouvrez pas le dernier casier tout à gauche <br> *+ Cartouches de fusil x3 (dans le casier)* <br> *+ Cartouches de fusil x3 (dans le casier verouillé)*| 
 | 17 | Utilisez la valve <br> *+ Poudre à canon (dans le casier le plus à gauche des vestaires suivants)*| 
 | 18 | Empruntez le couloir pour entrer dans le bureau des S.T.A.R.S <br> *+ Cartouches de fusil x2 (dans le couloir sur le banc)* <br> *+ Pile (sur le bureau individuel)* <br> *+ Herbe rouge* <br> *+ Poudre à canon de haute qualité (jaune)* <br> *+ Spray de premiers secours* <br> *+ Flash* <br> *+ Cartouches de fusils x2* <br> *+ Munitions pour pistolet x6*| 
-| 19 | Allez combiner la pile dans le détonateur (1) <br> { .annotate } <br>1.  :man_raising_hand: I'm an annotation! | 
+| **19** | Allez combiner la pile dans le détonateur | 
 | 20 | Ouvrez la porte de la bibliothèque le temps de l'explosion, pour éviter que l'étagère chute | 
-
-
 
 ???+ warning "19. Rebroussez chemin"
 
