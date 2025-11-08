@@ -156,13 +156,11 @@
 | 16 | Dévérouillez le casier (CAP), n'ouvrez pas le dernier casier tout à gauche <br> *+ Cartouches de fusil x3 (dans le casier)* <br> *+ Cartouches de fusil x3 (dans le casier verouillé)*| 
 | 17 | Utilisez la valve <br> *+ Poudre à canon (dans le casier le plus à gauche des vestaires suivants)*| 
 | 18 | Empruntez le couloir pour entrer dans le bureau des S.T.A.R.S <br> *+ Cartouches de fusil x2 (dans le couloir sur le banc)* <br> *+ Pile (sur le bureau individuel)* <br> *+ Herbe rouge* <br> *+ Poudre à canon de haute qualité (jaune)* <br> *+ Spray de premiers secours* <br> *+ Flash* <br> *+ Cartouches de fusils x2* <br> *+ Munitions pour pistolet x6*| 
-| 19 | Allez combiner la pile dans le détonateur (1) <br> { .annotate } | 
+| 19 | Allez combiner la pile dans le détonateur (1) <br> { .annotate } <br>1.  :man_raising_hand: I'm an annotation! | 
 | 20 | Ouvrez la porte de la bibliothèque le temps de l'explosion, pour éviter que l'étagère chute | 
 
 { .annotate }
 
-1.  :man_raising_hand: I'm an annotation! I can contain `code`, __formatted
-    text__, images, ... basically anything that can be expressed in Markdown.
 
 ???+ warning "19. Rebroussez chemin"
 
