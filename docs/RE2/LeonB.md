@@ -2,6 +2,8 @@
 
 ## Commissariat [1/3] 
 
+<figure markdown="span">
+
 | No. | Procédure          |
 | :---------------: |:---------------| 
 | 1 | Traversez le cimetière <br> + *Ruban encreur (sur le banc, au fond à gauche)* | 
@@ -15,6 +17,10 @@
 | 9 | Traversez jusqu'à la salle d'art <br> *+ Planches en bois (à côté du mur dans le coin nord-ouest du passage)* |   
 | 10 | Prenez seulement la carte pour le dépôt d'armes <br> *+ Carte pour le dépôt d'armes (sur la petite table avec la lampe de lecture verte)* |
 
+</figure>
+<figure markdown="span">
+
+
 | No. | Procédure          |
 | :---------------: |:---------------| 
 | 11 | Retournez vers la porte menant à l'escalier de secours |
@@ -23,16 +29,22 @@
 | 14 | Récuperez les objets <br> *+ Flash (sur un bureau vers l'entrée)* <br> *+ Munitions pour pistolet (sur le corps du policier)* <br> *+ Valve (dans le petit bureau)* <br> *+ Poudre à canon de haute qualité (jaune) (dans le petit bureau)*|
 | 15 | Rendez-vous dans la salle de presse en faisant une étape dans la petite sal le d'archivage <br> *+ Planches en bois (petite salle d'archivage)* <br> *+ Munitions pour pistolet x5 (petite salle d'archivage)* <br> *+  Munitions pour pistolet x5 (sur le corp dans la salle de presse)*| 
 | 16 | Rendez-vous dans la salle de pause via le volet de la petite salle de garde <br> Allumez la lumière en rentrant | 
-| 17 | Organisez vos objets dans la salle de pause  <br> - Valve <br> - Flash <br> - Poudre à canon de haute qualité (jaune) | 
+| 17 | Organisez vos objets dans la salle de pause  <br> *- Valve* <br> *- Flash* <br> *- Poudre à canon de haute qualité (jaune)* | 
 | 18 | Récupérez les objets dans la salle <br> *+ Herbe bleue (sur la table)* <br> *+ Munitions pour pistolet x8 (dans le casier de droite)* <br> *+  Poudre à canon de haute qualité (jaune) (dans le casier de gauche)* <br> *+ fusible (sur une chaisse dans l'autre salle)*| 
-| 19 | Ré-organisez vos objets dans la salle de pause <br> - Poudre à canon de haute qualité (jaune) <br> - Herbe bleue | 
+| 19 | Ré-organisez vos objets dans la salle de pause <br> *- Poudre à canon de haute qualité (jaune)* <br> *- Herbe bleue* | 
 | 20 | Sortez de la salle et récupérez les objets <br> *+ Cartouches de fusil x2 (sur les étagères métalliques)* <br> *+ Couteau de combat (planté dans le mur à côté du boîtier à fusibles)*| 
+
+</figure>
+<figure markdown="span">
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
-| 21 | Ré-organisez vos objets dans la salle de pause <br> - Cartouches de fusil x2 <br> - Couteau de combat | 
+| 21 | Ré-organisez vos objets dans la salle de pause <br> *- Cartouches de fusil x2* <br> *- Couteau de combat* | 
 | 22 | Dirigez vous maintenant vers le hall principal <br> *+ Spray de premiers secours (dans les toilettes, celles du milieu)*| 
 | 23 | Utilisez le fusible pour ouvrir le volet menant au hall principal | 
+
+</figure>
+
 
 ???+ danger "12. Éliminez les deux zombies enflammés"
 
@@ -66,6 +78,8 @@
 
 ## Commissariat [2/3] 
 
+<figure markdown="span">
+
 | No. | Procédure          |
 | :---------------: |:---------------| 
 | 1 | Longez l'entrée du hall principal et traversez la réception <br> *+ Munitions pour pistolet x6 (réception)* | 
@@ -79,12 +93,15 @@
 | 9 | Dirigez vous maintenant vers la chambre noire |
 | 10 | Éliminez les deux zombies au niveau des escaliers <br> *+ Herbe verte*| 
 
+</figure>
+<figure markdown="span">
+
 | No. | Procédure          |
 | :---------------: |:---------------| 
 | 11 | Entrez dans la chambre noire et allumez la lumière  <br> *+ Herbe rouge* <br> Combinez HV + HR |  
-| 12 | Organisez vos objets <br> - Herbe verte + rouge <br> - Chargeur étendu <br> - Herbe verte <br> - Flash <br> - Poudre à canon <br> - Spray de premiers secours | 
+| 12 | Organisez vos objets <br> *- Herbe verte + rouge* <br> *- Chargeur étendu* <br> *- Herbe verte* <br> *- Flash* <br> *- Poudre à canon* <br> *- Spray de premiers secours* | 
 | 13 | Fouillez les casiers <br> *+ Poudre à canon* <br> *+ Rubans encreurs x3* | 
-| 14 | Organisez vos objets <br> - Poudre à canon <br>- Rubans encreurs x3 <br> + Munitions pour fusil x2| 
+| 14 | Organisez vos objets <br> *- Poudre à canon* <br>*- Rubans encreurs x3* <br> *+ Munitions pour fusil x2*| 
 | 15 | Sortez et éliminez le dernier zombie | 
 | 16 | Récupérez le fusil à pompe et les balles dans la salle des coffres <br> Pensez à recharger le fusil | 
 | 17 | Montez les escaliers <br> *+ Munitions pour pistolet x3 (sur le corp au deuxième étage)* <br> *+ Herbe rouge (deuxième étage)* |
@@ -92,6 +109,7 @@
 | 19 | Dans la salle de stockage Ouest, tuez le zombie au plafond <br> *+ Poudre à canon (en rentrant sur le petit meuble)* <br> *+ Munitions pour pistolet x4 (sur l'étagère près de l'endroit à faire exploser)*| 
 | 20 | Déposez le détonateur |
 
+</figure>
 
 ???+ danger "2. Ne courez pas"
 
@@ -116,12 +134,14 @@
 
 ## Commissariat [3/3] 
 
+<figure markdown="span">
+
 | No. | Procédure          |
 | :---------------: |:---------------| 
-| 1 | Allez maintenant dans la bibliothèque et tuez le zombie qui se balade, ainsi que celui assis devant la porte pique | 
-| 2 | Déplacez les bibliothèques, celle de droite : une fois sur la gauche ; celles de gauche : une fois sur la droite | 
-| 3 | Passez la porte en bas des escaliers et récupérez la médaille (jumeaux - balance - petit vers) | 
-| 4 | Retournez dans le hall en passant par la bibliothèque | 
+| 1 | Allez maintenant dans la bibliothèque et tuez le zombie qui se balade, ainsi que celui assis devant la porte pique <br> *+ Couteau de combat (sur le corp en bas des escaliers)*| 
+| 2 | Déplacez les bibliothèques, celle de droite : une fois sur la gauche ; celles de gauche : une fois sur la droite <br> *+ Munitions pour pistolet x6 (derrière la bibliothèque la plus à gauche)* | 
+| 3 | Passez la porte en bas des escaliers et récupérez la médaille (jumeaux - balance - petit vers) <br> *+ Carte*| 
+| 4 | Retournez dans le hall en passant par la bibliothèque <br> *+ Munitions de pistolet x3 (au fond à droite en sortant de la bibliothèque)*| 
 | 5 | Récuperez la médaille Lion (couronne - torche - oiseau) | 
 | 6 | Descendez et ouvrez la porte pique | 
 | 7 | Tuez les deux zombies avec une balle de fusil dans la tête chacun, ajoutez des balles de pistolet si nécéssaire | 
@@ -129,39 +149,34 @@
 | 9 | Récupérez l'herbe verte dans la réception et combinez là avec votre herbe rouge | 
 | 10 | Dirigez vous dans la salle d'attente au premier étage, tuez le zombie de la même manière ques les autres | 
 
+</figure>
+<figure markdown="span">
+
 | No. | Procédure          |
 | :---------------: |:---------------| 
-| 11 | Utilisez la clé pique pour pouvoir la jeter et récupérez le silencieux dans le coffre-fort (droite 6, gauche 2, droite 11) |
+| 11 | Utilisez la clé pique pour pouvoir la jeter et récupérez le silencieux dans le coffre-fort (droite 6, gauche 2, droite 11) <br> *+ Herbe verte*|
 | 12 | Retournez dans le bureau Ouest via le hall principal | 
 | 13 | Dirigez vous dans la chambre noire | 
-| 14 | Organisez vos objets <br> - Herbe verte <br> - Silencieux <br> - Herbe verte + rouge <br> - Poudre à canon  <br> - Couteau de combat <br> + Valve |
+| 14 | Organisez vos objets <br> *- Herbe verte* <br> *- Silencieux* <br> *- Herbe verte + rouge* <br> *- Poudre à canon* <br> *- Couteau de combat* <br> *+ Valve* |
 | 15 | Montez au premier étage au niveau des douches | 
-| 16 | Dévérouillez le casier (CAP), n'ouvrez pas le dernier casier tout à gauche | 
-| 17 | Utilisez la valve | 
-| 18 | Empruntez le couloir pour entrer dans le bureau des S.T.A.R.S | 
+| 16 | Dévérouillez le casier (CAP), n'ouvrez pas le dernier casier tout à gauche <br> *+ Cartouches de fusil x3 (dans le casier)* <br> *+ Cartouches de fusil x3 (dans le casier verouillé)*| 
+| 17 | Utilisez la valve <br> *+ Poudre à canon (dans le casier le plus à gauche des vestaires suivants)*| 
+| 18 | Empruntez le couloir pour entrer dans le bureau des S.T.A.R.S <br> *+ Cartouches de fusil x2 (dans le couloir sur le banc)* <br> *+ Pile (sur le bureau individuel)* <br> *+ Herbe rouge* <br> *+ Poudre à canon de haute qualité (jaune)* <br> *+ Spray de premiers secours* <br> *+ Flash* <br> *+ Cartouches de fusils x2* <br> *+ Munitions pour pistolet x6*| 
 | 19 | Allez combiner la pile dans le détonateur | 
 | 20 | Ouvrez la porte de la bibliothèque le temps de l'explosion, pour éviter que l'étagère chute | 
+
+</figure>
+<figure markdown="span">
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
 | 21 | Récupérez la dernière médaille (bélier - harpe - oiseau) | 
 | 22 | Rendez-vous dans le hall principal via la bibliothèque pour déposer la dernière médaille |
-| 23 | Empruntez le passage secret |
-| 24 | Organisez vos objets <br> - TOUT <br> + Couteau de combat x2 (couteau infini) <br> + Flash <br> + Ruban encreur x1 |
+| 23 | Empruntez le passage secret <br> *+ Cartouches de fusils x2* <br> *+ Ruban encreur*|
+| 24 | Organisez vos objets <br> *- TOUT* <br> *+ Couteau de combat x2* <br> *+ Flash* <br> *+ Ruban encreur x1* |
 | 25 | Effectuez votre première sauvegarde |
 
-| No. | Lieu          | Objets |
-| :---------------: |:---------------| :------------- |
-| 1 | Bibliothèque |  Couteau de combat (sur le corp en bas des escaliers) | 
-| 2 | Bibliothèque |  Munitions pour pistolet x6 (derrière la bibliothèque la plus à gauche) | 
-| 3 | Salon | Carte | 
-| 4 | Hall principal | Munitions de pistolet x3 (au fond à droite en sortant de la bibliothèque) | 
-| 11 | Salle d'attente | Herbe verte | 
-| 16 | Vestiaire homme |  Cartouches de fusil x3 (dans le casier) <br> Cartouches de fusil x3 (dans le casier verouillé) |
-| 17 | Vestiaire femme |  Poudre à canon (dans le casier le plus à gauche) |
-| 18 | Couloir |  Cartouches de fusil x2 (sur le banc) |
-| 18 | Bureau S.T.A.R.S | Pile (sur le bureau individuel) <br> Herbe rouge <br> Poudre à canon de haute qualité (jaune) <br> Spray de premiers secours <br> Flash <br> Cartouches de fusils x2 <br> Munitions pour pistolet x6 |
-| 23 | Passage secret  | Cartouches de fusils x2 <br> Ruban encreur |
+</figure>
 
 
 ???+ tip "8. Soignez vous"
