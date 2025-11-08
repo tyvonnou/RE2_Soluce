@@ -124,7 +124,7 @@
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
-| 1 | Allez maintenant dans la bibliothèque et tuez le zombie qui se balade, ainsi que celui assis devant la porte pique <br> *+ Couteau de combat (sur le corp en bas des escaliers)*| 
+| **1** | Allez maintenant dans la bibliothèque et tuez le zombie qui se balade, ainsi que celui assis devant la porte pique <br> *+ Couteau de combat (sur le corp en bas des escaliers)*| 
 | 2 | Déplacez les bibliothèques, celle de droite : une fois sur la gauche ; celles de gauche : une fois sur la droite <br> *+ Munitions pour pistolet x6 (derrière la bibliothèque la plus à gauche)* | 
 | 3 | Passez la porte en bas des escaliers et récupérez la médaille (jumeaux - balance - petit vers) <br> *+ Carte*| 
 | 4 | Retournez dans le hall en passant par la bibliothèque <br> *+ Munitions de pistolet x3 (au fond à droite en sortant de la bibliothèque)*| 
@@ -134,6 +134,16 @@
 | **8** | Disposez les médailles | 
 | 9 | Récupérez l'herbe verte dans la réception et combinez là avec votre herbe rouge | 
 | 10 | Dirigez vous dans la salle d'attente au premier étage, tuez le zombie de la même manière ques les autres | 
+
+???+ warning "1. N'empruntez pas l'echelle"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/L7.jpg){ width="416" }
+
+    </figure>
+
+    Si vous empruntez l'echelle de la bibliothèque, vous allez attirer le zombie qui mange.
 
 ???+ tip "8. Soignez vous"
 
@@ -167,20 +177,10 @@
 | No. | Procédure          |
 | :---------------: |:---------------| 
 | 21 | Récupérez la dernière médaille (bélier - harpe - oiseau) | 
-| **22** | Rendez-vous dans le hall principal via la bibliothèque pour déposer la dernière médaille |
+| 22 | Rendez-vous dans le hall principal via la bibliothèque pour déposer la dernière médaille |
 | 23 | Empruntez le passage secret <br> *+ Cartouches de fusils x2* <br> *+ Ruban encreur*|
 | 24 | Organisez vos objets <br> *- TOUT* <br> *+ Couteau de combat x2* <br> *+ Flash* <br> *+ Ruban encreur x1* |
 | 25 | Effectuez votre première sauvegarde |
-
-???+ warning "22. N'empruntez pas l'echelle"
-
-    <figure markdown="span">
-
-    ![Image title](IMG/L7.jpg){ width="416" }
-
-    </figure>
-
-    Si vous empruntez l'echelle de la bibliothèque, vous allez attirer le zombie qui mange.
 
 ## Passage souterain
 
