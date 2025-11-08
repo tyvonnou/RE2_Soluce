@@ -159,7 +159,6 @@
 | 19 | Allez combiner la pile dans le détonateur (1) <br> { .annotate } <br>1.  :man_raising_hand: I'm an annotation! | 
 | 20 | Ouvrez la porte de la bibliothèque le temps de l'explosion, pour éviter que l'étagère chute | 
 
-{ .annotate }
 
 
 ???+ warning "19. Rebroussez chemin"
