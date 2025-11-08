@@ -26,7 +26,7 @@
 | 15 | Rendez-vous dans la salle de presse en faisant une étape dans la petite sal le d'archivage <br> *+ Planches en bois (petite salle d'archivage)* <br> *+ Munitions pour pistolet x5 (petite salle d'archivage)* <br> *+  Munitions pour pistolet x5 (sur le corp dans la salle de presse)*| 
 | **16** | Rendez-vous dans la salle de pause via le volet de la petite salle de garde <br> Allumez la lumière en rentrant | 
 | 17 | Organisez vos objets dans la salle de pause  <br> *- Valve* <br> *- Flash* <br> *- Poudre à canon de haute qualité (jaune)* | 
-| 18 | Récupérez les objets dans la salle <br> *+ Herbe bleue (sur la table)* <br> *+ Munitions pour pistolet x8 (dans le casier de droite)* <br> *+  Poudre à canon de haute qualité (jaune) (dans le casier de gauche)* <br> *+ fusible (sur une chaisse dans l'autre salle)*| 
+| 18 | Récupérez les objets dans la salle <br> *+ Herbe bleue (sur la table)* <br> *+ Munitions pour pistolet x8 (dans le casier de droite)* <br> *+  Poudre à canon de haute qualité (jaune) (dans le casier de gauche)* <br> *+ Fusible (sur une chaisse dans l'autre salle)*| 
 | 19 | Ré-organisez vos objets dans la salle de pause <br> *- Poudre à canon de haute qualité (jaune)* <br> *- Herbe bleue* | 
 | 20 | Sortez de la salle et récupérez les objets <br> *+ Cartouches de fusil x2 (sur les étagères métalliques)* <br> *+ Couteau de combat (planté dans le mur à côté du boîtier à fusibles)*| 
 
