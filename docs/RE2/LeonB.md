@@ -85,7 +85,7 @@
 | 10 | Éliminez les deux zombies au niveau des escaliers <br> *+ Herbe verte*| 
 
 
-???+ danger "2. Ne courez pas"
+???+ danger inline "2. Ne courez pas"
 
     <figure markdown="span">
 
@@ -95,7 +95,7 @@
 
     Il est possible qu'un Licker se trouve dans ce couloir. Comme il est aveugle, marchez tout le long du couloir et ne courez pas afin d'éviter d'attirer son attention.
 
-???+ tip "5. Visez la tête"
+???+ tip inline end "5. Visez la tête"
 
     <figure markdown="span">
 
