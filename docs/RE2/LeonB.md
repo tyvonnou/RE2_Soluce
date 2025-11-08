@@ -14,6 +14,9 @@
 | 8 | Montez dans le couloir Est, via l'escalier de secours <br> *+  Munitions pour pistolet x10 (sur les barils sous l'escalier)* <br> *+ Planches en bois (au sol, à côté de la clôture)* |   
 | 9 | Traversez jusqu'à la salle d'art <br> *+ Planches en bois (à côté du mur dans le coin nord-ouest du passage)* |   
 | 10 | Prenez seulement la carte pour le dépôt d'armes <br> *+ Carte pour le dépôt d'armes (sur la petite table avec la lampe de lecture verte)* |
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
 | 11 | Retournez vers la porte menant à l'escalier de secours |
 | 12 | Éliminez les deux zombies enflammés |
 | 13 | Rendez-vous au bureau Est au 1er étage via l'escalier de sercours |
@@ -24,6 +27,9 @@
 | 18 | Récupérez les objets dans la salle <br> *+ Herbe bleue (sur la table)* <br> *+ Munitions pour pistolet x8 (dans le casier de droite)* <br> *+  Poudre à canon de haute qualité (jaune) (dans le casier de gauche)* <br> *+ fusible (sur une chaisse dans l'autre salle)*| 
 | 19 | Ré-organisez vos objets dans la salle de pause <br> - Poudre à canon de haute qualité (jaune) <br> - Herbe bleue | 
 | 20 | Sortez de la salle et récupérez les objets <br> *+ Cartouches de fusil x2 (sur les étagères métalliques)* <br> *+ Couteau de combat (planté dans le mur à côté du boîtier à fusibles)*| 
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
 | 21 | Ré-organisez vos objets dans la salle de pause <br> - Cartouches de fusil x2 <br> - Couteau de combat | 
 | 22 | Dirigez vous maintenant vers le hall principal <br> *+ Spray de premiers secours (dans les toilettes, celles du milieu)*| 
 | 23 | Utilisez le fusible pour ouvrir le volet menant au hall principal | 
@@ -72,6 +78,9 @@
 | 8 | Ressortez et ouvrez le coffre dans la salles des coffres <br> *+  Munitions pour pistolet x5 (109)*| 
 | 9 | Dirigez vous maintenant vers la chambre noire |
 | 10 | Éliminez les deux zombies au niveau des escaliers <br> *+ Herbe verte*| 
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
 | 11 | Entrez dans la chambre noire et allumez la lumière  <br> *+ Herbe rouge* <br> Combinez HV + HR |  
 | 12 | Organisez vos objets <br> - Herbe verte + rouge <br> - Chargeur étendu <br> - Herbe verte <br> - Flash <br> - Poudre à canon <br> - Spray de premiers secours | 
 | 13 | Fouillez les casiers <br> *+ Poudre à canon* <br> *+ Rubans encreurs x3* | 
@@ -119,6 +128,9 @@
 | 8 | Disposez les médailles | 
 | 9 | Récupérez l'herbe verte dans la réception et combinez là avec votre herbe rouge | 
 | 10 | Dirigez vous dans la salle d'attente au premier étage, tuez le zombie de la même manière ques les autres | 
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
 | 11 | Utilisez la clé pique pour pouvoir la jeter et récupérez le silencieux dans le coffre-fort (droite 6, gauche 2, droite 11) |
 | 12 | Retournez dans le bureau Ouest via le hall principal | 
 | 13 | Dirigez vous dans la chambre noire | 
@@ -129,6 +141,9 @@
 | 18 | Empruntez le couloir pour entrer dans le bureau des S.T.A.R.S | 
 | 19 | Allez combiner la pile dans le détonateur | 
 | 20 | Ouvrez la porte de la bibliothèque le temps de l'explosion, pour éviter que l'étagère chute | 
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
 | 21 | Récupérez la dernière médaille (bélier - harpe - oiseau) | 
 | 22 | Rendez-vous dans le hall principal via la bibliothèque pour déposer la dernière médaille |
 | 23 | Empruntez le passage secret |
