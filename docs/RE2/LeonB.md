@@ -189,8 +189,10 @@
 | 1 | Empruntez l'ascenseur et dirigez vous vers le boss <br> *+ Grenade à fragementation (sous les escaliers)* | 
 | 2 | Allez déclencher la cinématique en déplaçant le casier |
 | **3** | Vaincre William Birkin |
-| 4 | Organisez vos objets <br> *- TOUT* <br> *+ Couteau de combat x2* <br> *+ Flash* <br> *+ Ruban encreur x1* |
-| 5 | Effectuez votre première sauvegarde |
+| 4 | Fouillez la pièce <br> *+ Herbe verte (sur un baril d'eau dans la partie sud-est de la pièce)* <br> *+ Munitions pour pistolet x8 (au-dessus des caisses dans la partie sud-est de la pièce)* <br> *+ Herbe rouge (au-dessus des palettes en bois dans la partie sud-ouest de la pièce)* <br> *+ Munitions pour pistolet x7 (au-dessus d'un baril dans la partie sud-ouest de la pièce)* <br> *+ Munitions pour pistolet x7 (sur les machines recouvertes d'une bâche dans la partie nord-ouest de la pièce)* <br> *+ Grenade à fragmentation (sur les machines dans la partie nord-ouest de la pièce)* <br> *+ Herbe verte (sur les petites boîtes en plastique bleu situées à côté du panneau de commande dans la partie nord-ouest de la pièce)*|
+| 5 | Montez l'echelle pour aller activer le levier <br> *+ Poudre à canon (dans un casier, juste en haut à droite de l'echelle)* <br> *+ Herbe verte* (dans un coin, juste en haut à droite de l'echelle)|
+| 6 | Traversez le pont et organisez votre inventaire <br> *- TOUT, excepté les munitions pour pistolet* <br> *+ M19* <br> *+ Cartouches de fusil* <br> *+ Fusil à pompes*|
+| 7 | Accédez au terminal du parking pour déclencher la cinématique | 
 
 ???+ tip "3. Vaincre William Birkin"
 
@@ -210,4 +212,4 @@
 
     </figure>
 
-    Changez de couteau dès qu'il est à moitié usé avec le couteau qui est en moins bon état. De cette manière, vous pourrez contrer une attaque et continuer à lui mettre des coups de couteau.
+    Changez de couteau dès qu'il est à moitié usé avec le couteau qui est en moins bon état. De cette manière, vous pourrez contrer une attaque et continuer à lui mettre des coups de couteau par la suite.
