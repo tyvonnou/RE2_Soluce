@@ -2,22 +2,22 @@
 
 ## Commissariat [1/3] 
 
-    <figure markdown="span">
+<div align="center">
+   
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 1 | Traversez le cimetière <br> + *Ruban encreur (sur le banc, au fond à gauche)* | 
+| 2 | Suivez le chemin et récupérez le coupe-boulon <br> *+ Herbe rouge (juste après avoir monté les escaliers)* <br> + *Herbe bleue (sur la droite juste avant le muret)* <br> *+ Coupe-boulon (dans la brouette)* |   
+| 3 | Après la cinématique, rebroussez chemin jusqu'à la porte en bas des escaliers <br> Ouvrez la avec le coupe-boulon |   
+| 4 | Récupérez tous les objets dans la salle des gardes <br> *+ Grenade (sur le radiateur)* <br> *+ Pistolet M19 (sur la table)* <br> *+ Munitions pour pistolet x10 (sur les boîtes en carton à côté des casiers)* <br> *+ Clé de la cour (sur la porte du casier ouvert)* |   
+| 5 | Après vous êtes changé, déposez dans le coffre : <br> - Mathilda <br> - Ruban encreur <br> - Herbe R+B <br>  |   
+| 6 | Retournez au grillage, en ciblant le genou du zombie dans les escalier et en lançant une genade dans la meute au niveau du muret |   
+| 7 | Ouvrez la grille et jetez la clé |   
+| 8 | Montez dans le couloir Est, via l'escalier de secours <br> *+  Munitions pour pistolet x10 (sur les barils sous l'escalier)* <br> *+ Planches en bois (au sol, à côté de la clôture)* |   
+| 9 | Traversez jusqu'à la salle d'art <br> *+ Planches en bois (à côté du mur dans le coin nord-ouest du passage)* |   
+| 10 | Prenez seulement la carte pour le dépôt d'armes <br> *+ Carte pour le dépôt d'armes (sur la petite table avec la lampe de lecture verte)* |
 
-    | No. | Procédure          |
-    | :---------------: |:---------------| 
-    | 1 | Traversez le cimetière <br> + *Ruban encreur (sur le banc, au fond à gauche)* | 
-    | 2 | Suivez le chemin et récupérez le coupe-boulon <br> *+ Herbe rouge (juste après avoir monté les escaliers)* <br> + *Herbe bleue (sur la droite juste avant le muret)* <br> *+ Coupe-boulon (dans la brouette)* |   
-    | 3 | Après la cinématique, rebroussez chemin jusqu'à la porte en bas des escaliers <br> Ouvrez la avec le coupe-boulon |   
-    | 4 | Récupérez tous les objets dans la salle des gardes <br> *+ Grenade (sur le radiateur)* <br> *+ Pistolet M19 (sur la table)* <br> *+ Munitions pour pistolet x10 (sur les boîtes en carton à côté des casiers)* <br> *+ Clé de la cour (sur la porte du casier ouvert)* |   
-    | 5 | Après vous êtes changé, déposez dans le coffre : <br> - Mathilda <br> - Ruban encreur <br> - Herbe R+B <br>  |   
-    | 6 | Retournez au grillage, en ciblant le genou du zombie dans les escalier et en lançant une genade dans la meute au niveau du muret |   
-    | 7 | Ouvrez la grille et jetez la clé |   
-    | 8 | Montez dans le couloir Est, via l'escalier de secours <br> *+  Munitions pour pistolet x10 (sur les barils sous l'escalier)* <br> *+ Planches en bois (au sol, à côté de la clôture)* |   
-    | 9 | Traversez jusqu'à la salle d'art <br> *+ Planches en bois (à côté du mur dans le coin nord-ouest du passage)* |   
-    | 10 | Prenez seulement la carte pour le dépôt d'armes <br> *+ Carte pour le dépôt d'armes (sur la petite table avec la lampe de lecture verte)* |
-
-    </figure>
+</div>
 
     <figure markdown="span">
 
