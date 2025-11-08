@@ -167,11 +167,47 @@
 | No. | Procédure          |
 | :---------------: |:---------------| 
 | 21 | Récupérez la dernière médaille (bélier - harpe - oiseau) | 
-| 22 | Rendez-vous dans le hall principal via la bibliothèque pour déposer la dernière médaille |
+| **22** | Rendez-vous dans le hall principal via la bibliothèque pour déposer la dernière médaille |
 | 23 | Empruntez le passage secret <br> *+ Cartouches de fusils x2* <br> *+ Ruban encreur*|
 | 24 | Organisez vos objets <br> *- TOUT* <br> *+ Couteau de combat x2* <br> *+ Flash* <br> *+ Ruban encreur x1* |
 | 25 | Effectuez votre première sauvegarde |
 
+???+ warning "22. N'empruntez pas l'echelle"
 
+    <figure markdown="span">
 
+    ![Image title](IMG/L7.jpg){ width="416" }
 
+    </figure>
+
+    Si vous empruntez l'echelle de la bibliothèque, vous allez attirer le zombie qui mange.
+
+## Passage souterain
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 1 | Empruntez l'ascenseur et dirigez vous vers le boss <br> *+ Grenade à fragementation (sous les escaliers)* | 
+| 2 | Allez déclencher la cinématique en déplaçant le casier |
+| **3** | Vaincre William Birkin |
+| 4 | Organisez vos objets <br> *- TOUT* <br> *+ Couteau de combat x2* <br> *+ Flash* <br> *+ Ruban encreur x1* |
+| 5 | Effectuez votre première sauvegarde |
+
+???+ tip "3. Vaincre William Birkin"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/L8.jpg){ width="416" }
+
+    </figure>
+
+    Pour commencer, dès la fin de la cinématique utilisez votre grenade à fragmentation. Ensuite, frapper le avec le couteau qui est en meilleur état. Essayez de le toucher deux fois par coup, une fois dans le corp et l'autre dans le bras. À la fin de son annimation, utilisez votre grenade flash, et continuez.
+
+???+ danger "3. Il va probablement vous attraper"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/L9.jpg){ width="416" }
+
+    </figure>
+
+    Changez de couteau dès qu'il est à moitié usé avec le couteau qui est en moins bon état. De cette manière, vous pourrez contrer une attaque et continuer à lui mettre des coups de couteau.
