@@ -135,7 +135,6 @@
 | 9 | Récupérez l'herbe verte dans la réception et combinez là avec votre herbe rouge | 
 | 10 | Dirigez vous dans la salle d'attente au premier étage, tuez le zombie de la même manière ques les autres | 
 
-
 ???+ tip "8. Soignez vous"
 
     <figure markdown="span">
@@ -145,7 +144,6 @@
     </figure>
 
     Si vous vous êtes fait toucher, un spray premiers secours est disposé à l'entrée du commisariat.
-
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
