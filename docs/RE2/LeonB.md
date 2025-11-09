@@ -132,10 +132,10 @@
 | 6 | Descendez et ouvrez la porte pique | 
 | 7 | Tuez les deux zombies avec une balle de fusil dans la tête chacun, ajoutez des balles de pistolet si nécéssaire | 
 | **8** | Disposez les médaillons | 
-| 9 | Récupérez l'herbe verte dans la réception et combinez là avec votre herbe rouge | 
-| 10 | Dirigez vous dans la salle d'attente au premier étage, tuez le zombie de la même manière ques les autres | 
+| 9 | Récupérez l'herbe verte dans la réception et combinez-la avec votre herbe rouge | 
+| 10 | Allez dans la salle d'attente au premier étage, tuez le zombie de la même manière que les autres | 
 
-???+ warning "1. N'empruntez pas l'echelle"
+???+ warning "1. N'empruntez pas l'échelle"
 
     <figure markdown="span">
 
@@ -143,9 +143,9 @@
 
     </figure>
 
-    Si vous empruntez l'echelle de la bibliothèque, vous allez attirer le zombie qui mange.
+    Si vous empruntez l'échelle de la bibliothèque, vous allez attirer le zombie qui mange.
 
-???+ tip "8. Soignez vous"
+???+ tip "8. Soignez-vous"
 
     <figure markdown="span">
 
@@ -153,31 +153,31 @@
 
     </figure>
 
-    Si vous vous êtes fait toucher, un spray premiers secours est disposé à l'entrée du commisariat.
+    Si vous vous êtes fait toucher, un spray premiers secours est disposé à l'entrée du commissariat.
 
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
 | 11 | Utilisez la clé pique pour pouvoir la jeter et récupérez le silencieux dans le coffre-fort (droite 6, gauche 2, droite 11) <br> *+ Herbe verte*|
 | 12 | Retournez dans le bureau Ouest via le hall principal | 
-| 13 | Dirigez vous dans la chambre noire | 
+| 13 | Dirigez-vous dans la chambre noire | 
 | 14 | Organisez vos objets <br> *- Herbe verte* <br> *- Silencieux* <br> *- Herbe verte + rouge* <br> *- Poudre à canon* <br> *- Couteau de combat* <br> *+ Valve* |
 | 15 | Montez au premier étage au niveau des douches | 
-| 16 | Dévérouillez le casier (CAP), n'ouvrez pas le dernier casier tout à gauche <br> *+ Cartouches de fusil x3 (dans le casier)* <br> *+ Cartouches de fusil x3 (dans le casier verouillé)*| 
-| 17 | Utilisez la valve <br> *+ Poudre à canon (dans le casier le plus à gauche des vestaires suivants)*| 
-| 18 | Empruntez le couloir pour entrer dans le bureau des S.T.A.R.S <br> *+ Cartouches de fusil x2 (dans le couloir sur le banc)* <br> *+ Pile (sur le bureau individuel)* <br> *+ Herbe rouge* <br> *+ Poudre à canon de haute qualité (jaune)* <br> *+ Spray de premiers secours* <br> *+ Flash* <br> *+ Cartouches de fusils x2* <br> *+ Munitions pour pistolet x6*| 
-| **19** | Allez combiner la pile dans le détonateur | 
-| 20 | Ouvrez la porte de la bibliothèque le temps de l'explosion, pour éviter que l'étagère chute | 
+| 16 | Dévérouillez le casier (CAP), mais n'ouvrez pas le dernier casier tout à gauche <br> *+ Cartouches de fusil x3 (dans le casier)* <br> *+ Cartouches de fusil x3 (dans le casier verouillé)*| 
+| 17 | Utilisez la valve <br> *+ Poudre à canon (dans le casier le plus à gauche des vestiaires suivants)*| 
+| 18 | Empruntez le couloir pour entrer dans le bureau des S.T.A.R.S <br> *+ Cartouches de fusil x2 (dans le couloir sur le banc)* <br> *+ Pile (sur le bureau individuel)* <br> *+ Herbe rouge* <br> *+ Poudre à canon de haute qualité (jaune)* <br> *+ Spray de premiers secours* <br> *+ Flash* <br> *+ Cartouches de fusil x2* <br> *+ Munitions pour pistolet x6*| 
+| **19** | Allez combiner la pile avec le détonateur | 
+| 20 | Ouvrez la porte de la bibliothèque le temps de l'explosion, pour éviter que l'étagère ne chute | 
 
 ???+ warning "19. Rebroussez chemin"
 
-    Dirigez-vous bien en partant sur la droite, de là d'où vous venez. Vous allez être poursuivi par le Tyran, en partant dans ce sens vous évitez de tomber dessus.
+    Repartez sur la droite, de là d'où vous venez. Vous allez être poursuivi par le Tyran. En partant dans ce sens vous éviterez de tomber dessus.
 
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
-| 21 | Récupérez la dernière médaillon (bélier - harpe - oiseau) | 
-| 22 | Rendez-vous dans le hall principal via la bibliothèque pour déposer la dernière médaillon |
+| 21 | Récupérez le dernier médaillon (bélier - harpe - oiseau) | 
+| 22 | Rendez-vous dans le hall principal via la bibliothèque pour déposer le dernier médaillon |
 | 23 | Empruntez le passage secret <br> *+ Cartouches de fusils x2* <br> *+ Ruban encreur*|
 | 24 | Organisez vos objets <br> *- TOUT* <br> *+ Couteau de combat x2* <br> *+ Flash* <br> *+ Ruban encreur x1* |
 | 25 | Effectuez votre première sauvegarde |
@@ -190,7 +190,7 @@
 | 2 | Allez déclencher la cinématique en déplaçant le casier |
 | **3** | Vaincre William Birkin |
 | 4 | Fouillez la pièce <br> *+ Herbe verte (sur un baril d'eau dans la partie sud-est de la pièce)* <br> *+ Munitions pour pistolet x8 (au-dessus des caisses dans la partie sud-est de la pièce)* <br> *+ Herbe rouge (au-dessus des palettes en bois dans la partie sud-ouest de la pièce)* <br> *+ Munitions pour pistolet x7 (au-dessus d'un baril dans la partie sud-ouest de la pièce)* <br> *+ Munitions pour pistolet x7 (sur les machines recouvertes d'une bâche dans la partie nord-ouest de la pièce)* <br> *+ Grenade à fragmentation (sur les machines dans la partie nord-ouest de la pièce)* <br> *+ Herbe verte (sur les petites boîtes en plastique bleu situées à côté du panneau de commande dans la partie nord-ouest de la pièce)*|
-| 5 | Montez l'echelle pour aller activer le levier <br> *+ Poudre à canon (dans un casier, juste en haut à droite de l'echelle)* <br> *+ Herbe verte* (dans un coin, juste en haut à droite de l'echelle)|
+| 5 | Montez l'échelle pour aller activer le levier <br> *+ Poudre à canon (dans un casier, juste en haut à droite de l'échelle)* <br> *+ Herbe verte* (dans un coin, juste en haut à droite de l'échelle)|
 | 6 | Traversez le pont et organisez votre inventaire <br> *- TOUT, excepté les munitions pour pistolet* <br> *+ M19* <br> *+ Cartouches de fusil* <br> *+ Fusil à pompes*|
 | 7 | Accédez au terminal du parking pour déclencher la cinématique | 
 
