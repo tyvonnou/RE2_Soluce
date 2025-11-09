@@ -280,15 +280,15 @@
 | 19 | **Marchez pour ne pas attirer le licker.**  | 
 | 20 | Ouvrez la salle des archives avec la clé trèfle | 
 
-???+ danger ""16. Esquivez le Tyran, encore"
+???+ danger ""16. Esquivez le Tyran"
 
     <figure markdown="span">
 
-    ![Image title](IMG/L12.jpg){ width="416" }
+    ![Image title](IMG/L11.jpg){ width="416" }
 
     </figure>
 
-    Attendez le Tyran dans la salle des archives, et esquivez ses coups grâce à l'angle de l'étagère. De cette manière, vous gagnerez du temps car il frappera dans le vide
+    Si vous le sentez, vous pouvez juste esquivez son coup. Sinon, faites demi-tour et contournez le sur le toit.
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
@@ -298,3 +298,13 @@
 | 24 | Courez jusqu'à la bibliothèque | 
 | 25 | Utilisez l'outil sur la bibliothèque coincée. Puis déplacez celle la plus à gauche sur la droite | 
 | 26 | Montez l'échelle, et prenez la porte en passant sur les bibliothèques | 
+
+???+ danger ""22. Esquivez le Tyran, encore"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/L12.jpg){ width="416" }
+
+    </figure>
+
+    Attendez le Tyran dans la salle des archives, et esquivez ses coups grâce à l'angle de l'étagère. De cette manière, vous gagnerez du temps car il frappera dans le vide
