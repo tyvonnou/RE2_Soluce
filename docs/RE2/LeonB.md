@@ -178,20 +178,20 @@
 | :---------------: |:---------------| 
 | 21 | Récupérez le dernier médaillon (bélier - harpe - oiseau) | 
 | 22 | Rendez-vous dans le hall principal via la bibliothèque pour déposer le dernier médaillon |
-| 23 | Empruntez le passage secret <br> *+ Cartouches de fusils x2* <br> *+ Ruban encreur*|
+| 23 | Empruntez le passage secret <br> *+ Cartouches de fusil x2* <br> *+ Ruban encreur*|
 | 24 | Organisez vos objets <br> *- TOUT* <br> *+ Couteau de combat x2* <br> *+ Flash* <br> *+ Ruban encreur x1* |
 | 25 | Effectuez votre première sauvegarde |
 
-## Passage souterain
+## Passage souterrain
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
-| 1 | Empruntez l'ascenseur et dirigez vous vers le boss <br> *+ Grenade à fragementation (sous les escaliers)* | 
-| 2 | Allez déclencher la cinématique en déplaçant le casier |
+| 1 | Empruntez l'ascenseur et dirigez-vous vers le boss <br> *+ Grenade à fragmentation (sous les escaliers)* | 
+| 2 | Déclenchez la cinématique en déplaçant le casier |
 | **3** | Vaincre William Birkin |
 | 4 | Fouillez la pièce <br> *+ Herbe verte (sur un baril d'eau dans la partie sud-est de la pièce)* <br> *+ Munitions pour pistolet x8 (au-dessus des caisses dans la partie sud-est de la pièce)* <br> *+ Herbe rouge (au-dessus des palettes en bois dans la partie sud-ouest de la pièce)* <br> *+ Munitions pour pistolet x7 (au-dessus d'un baril dans la partie sud-ouest de la pièce)* <br> *+ Munitions pour pistolet x7 (sur les machines recouvertes d'une bâche dans la partie nord-ouest de la pièce)* <br> *+ Grenade à fragmentation (sur les machines dans la partie nord-ouest de la pièce)* <br> *+ Herbe verte (sur les petites boîtes en plastique bleu situées à côté du panneau de commande dans la partie nord-ouest de la pièce)*|
 | 5 | Montez l'échelle pour aller activer le levier <br> *+ Poudre à canon (dans un casier, juste en haut à droite de l'échelle)* <br> *+ Herbe verte* (dans un coin, juste en haut à droite de l'échelle)|
-| 6 | Traversez le pont et organisez votre inventaire <br> *- TOUT, excepté les munitions pour pistolet* <br> *+ M19* <br> *+ Cartouches de fusil* <br> *+ Fusil à pompes*|
+| 6 | Traversez le pont et organisez votre inventaire <br> *- TOUT, excepté les munitions pour pistolet* <br> *+ M19* <br> *+ Cartouches de fusil* <br> *+ Fusil à pompe*|
 | 7 | Accédez au terminal du parking pour déclencher la cinématique | 
 
 ???+ tip "3. Vaincre William Birkin"
@@ -202,7 +202,7 @@
 
     </figure>
 
-    Pour commencer, dès la fin de la cinématique utilisez votre grenade à fragmentation. Ensuite, frapper le avec le couteau qui est en meilleur état. Essayez de le toucher deux fois par coup, une fois dans le corps et l'autre dans le bras. À la fin de son annimation, utilisez votre grenade flash, et continuez.
+    Dès la fin de la cinématique, utilisez votre grenade à fragmentation. Ensuite, frappez-le avec le couteau qui est en meilleur état. Essayez de le toucher deux fois par coup, une fois dans le corps et l'autre dans le bras. À la fin de son animation, utilisez votre grenade flash et continuez.
 
 ???+ danger "3. Il va probablement vous attraper"
 
@@ -212,4 +212,4 @@
 
     </figure>
 
-    Changez de couteau dès qu'il est à moitié usé avec le couteau qui est en moins bon état. De cette manière, vous pourrez contrer une attaque et continuer à lui mettre des coups de couteau par la suite.
+    Dès que votre couteau est à moitié usé, échangez-le avec le couteau qui est en moins bon état. De cette manière, si Birkin vous attrape, vous pourrez le contrer (ce qui vous fera perdre votre couteau nul) et continuer à lui mettre des coups avec le couteau restant en meilleur état.
