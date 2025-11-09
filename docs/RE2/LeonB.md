@@ -242,7 +242,7 @@
 | 19 | Alez dans la salle de pose, via la porte ouverte grâce à l'alimentation |
 | 20 | Organisez vos objets <br> *- Poudre à canon de haute qualité (jaune)* <br> *- Composant électronique* <br> *- Poudre à canon* <br> *- Flash* <br> *- Herbe V+R+B* |
 
-???+ tip ""17. Anticipez le chien"
+???+ tip "17. Anticipez le chien"
 
     <figure markdown="span">
 
@@ -252,7 +252,7 @@
 
     Visez le haut de la grille au sol pour anticipez le chien qui arrive en courant. Dès qu'il est dans votre viseur, tirez.
 
-## Retour au commissariat
+## Retour au commissariat [1/2]
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
@@ -280,7 +280,7 @@
 | 19 | **Marchez pour ne pas attirer le licker.**  | 
 | 20 | Ouvrez la salle des archives avec la clé trèfle | 
 
-???+ danger ""16. Esquivez le Tyran"
+???+ danger "16. Esquivez le Tyran"
 
     <figure markdown="span">
 
@@ -299,7 +299,7 @@
 | 25 | Utilisez l'outil sur la bibliothèque coincée. Puis déplacez celle la plus à gauche sur la droite | 
 | 26 | Montez l'échelle, et prenez la porte en passant sur les bibliothèques | 
 
-???+ danger ""22. Esquivez le Tyran, encore"
+???+ danger "22. Esquivez le Tyran, encore"
 
     <figure markdown="span">
 
@@ -308,3 +308,5 @@
     </figure>
 
     Attendez le Tyran dans la salle des archives, et esquivez ses coups grâce à l'angle de l'étagère. De cette manière, vous gagnerez du temps car il frappera dans le vide.
+
+## Retour au commissariat [2/2]
