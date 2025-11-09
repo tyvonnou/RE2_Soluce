@@ -114,7 +114,7 @@
 | 14 | Organisez vos objets <br> *- Poudre à canon* <br>*- Rubans encreurs x3* <br> *+ Munitions pour fusil x2*| 
 | 15 | Sortez et éliminez le dernier zombie | 
 | 16 | Récupérez le fusil à pompe et les balles dans la salle des coffres <br> Pensez à recharger le fusil | 
-| 17 | Montez les escaliers <br> *+ Munitions pour pistolet x3 (sur le corps au deuxième étage)* <br> *+ Herbe rouge (deuxième étage)* |
+| 17 | Montez les escaliers <br> *+ Munitions pour pistolet x3 (dans le coin au deuxième étage)* <br> *+ Herbe rouge (deuxième étage)* |
 | 18 | Tuez le zombie en haut des escaliers <br> *+ Munitions pour pistolet x4* <br> *+ Clé pique* |
 | 19 | Dans la salle de stockage Ouest, tuez le zombie au plafond <br> *+ Poudre à canon (en rentrant sur le petit meuble)* <br> *+ Munitions pour pistolet x4 (sur l'étagère près de l'endroit à faire exploser)*| 
 | 20 | Déposez le détonateur |
@@ -213,3 +213,88 @@
     </figure>
 
     Dès que votre couteau est à moitié usé, échangez-le avec le couteau qui est en moins bon état. De cette manière, si Birkin vous attrape, vous pourrez le contrer (ce qui vous fera perdre votre couteau nul) et continuer à lui mettre des coups avec le couteau restant en meilleur état.
+
+## Parking
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 1 | Rendez-vous au stand de tir <br> *+ Clé de la voiture (dans la boite jaune)* <br> *+ Cartouches de fusil x4 (sur le petit chariot situé dans le coin sud-est de la zone de cible)* | 
+| 2 | Retournez dans le parking et ouvrez le coffre de la voiture avec la clé, jetez-la ensuite <br> *+ Crosse Matilda*|
+| 3 | Descendez dans le passage souterrain et ouvrez le coffre à objets <br> *- Crosse Matilda*|
+| 4 | Retournez dans le parking et empruntez la porte menant à la prison <br> *+ Carte* <br> *+ Munitions pour pistolet x4*|
+| 5 | En rentrant dans la prison, tuez le zombie allongé avec une cartouche de fusil |
+| 6 | Continuez votre route pour déclencher la cinématique |
+| 7 | Après la cinématique, récupérez la manivelle |
+| 8 | Faite demi-tour et rendez-vous au chenil <br> *+ Herbe bleue (devant la porte du chenil, dans l'impasse)* |
+| 9 | Tuez les trois chiens dans les cages <br> *+ Poudre à canon de haute qualité (jaune) (à droite de la porte d'entrée)* |
+| 10 | Continuez jusqu'à rentrer dans la morgue |
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 11 | Récupérez les objets <br> *+ Herbe rouge (deuxième porte sur la droite)* <br> *+ Flash (dernière porte sur la droite)* | 
+| 12 | Retournez dans le couloir et utilisez votre manivelle pour ouvrir le volet |
+| 13 | Empruntez la porte pour arriver dans la salle du générateur <br> *+ Herbe verte (derière la porte en rentrant) (pensez à combinez vos trois herbes)* <br> *Poudre à canon* <br> *Composant électronique (boite orange)* |
+| 14 | Résolvez l'énigme de l'alimentation (off, on, on, off) |
+| 15 | Faite demi-tour, tuez le chien derrière le grillage |
+| 16 | En sortant de la pièce, tuez également le chien |
+| **17** | Tuez un autre chien dans le couloir à l'aide du fusil à pompe |
+| 18 | Tuez également le chien dans le chenil avec l'aide du fusil |
+| 19 | Alez dans la salle de pose, via la porte ouverte grâce à l'alimentation |
+| 20 | Organisez vos objets <br> *- Poudre à canon de haute qualité (jaune)* <br> *- Composant électronique* <br> *- Poudre à canon* <br> *- Flash* <br> *- Herbe V+R+B* |
+
+???+ tip ""17. Anticipez le chien"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/L10.jpg){ width="416" }
+
+    </figure>
+
+    Visez le haut de la grille au sol pour anticipez le chien qui arrive en courant. Dès qu'il est dans votre viseur, tirez.
+
+## Retour au commissariat
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 1 | Dirigez-vous vers la salle des gardes, tuez les trois zombies avec le fusil à pompe | 
+| 2 | Montez les escaliers de secours | 
+| 3 | Ouvrez le volet après la salle d'art, puis jetez la manivelle |
+| 4 | Récupérez les planches de bois en haut des escaliers <br> *+ Planches de bois* | 
+| 5 | Descendez tous les escaliers et utilisez les planches sur la fenêtre <br> *+ Poudre à canon de haute qualité (jaune) (casier au bout du couloir)* | 
+| 6 | Remontez tous les escaliers <br> *+ Flash* <br> *+ Munitions pour pistolet x4 (dans le casier)* | 
+| 7 | Tuez les deux zombies de la salle de stockage Est <br> *+ Herbe bleue* <br> *+ Grand engrenage* <br> *+ Cartouches de fusil x4*| 
+| 8 | Faites demi-tour et tempruntez maintenant la porte vers la terrasse <br> *+ Herbe bleue*| 
+| 9 | Descendez l'échelle <br> *+ Munitions pour pistolet x4 (sur le banc vers les flammes)*| 
+| 10 | Descendez les escaliers et combinez les herbes <br> *+ Herbes vertes x2*| 
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 11 | Activez le levier et tuez les deux zombies avec le fusil à pompe | 
+| 12 | Organisez vos objets <br> *- Herbes B+V x2* <br> *- Flash* <br> *- Poudre à canon de haute qualité (jaune)*| 
+| 13 | Prenez la clé trèfle et repartez <br> *+ clé trèfle* | 
+| 14 | Remontez les escaliers et activez le levier du toit | 
+| 15 | Entrez dans le couloir <br> *+ Herbe rouge* | 
+| **16** | Esquivez le Tyran |
+| 17 | Dirigez-vous vers le hall via la salle d'attente <br> *+ Herbe verte (combinez avec la rouge)* | 
+| 18 | Empruntez le couloir Ouest, au niveau de la réception | 
+| 19 | **Marchez pour ne pas attirer le licker.**  | 
+| 20 | Ouvrez la salle des archives avec la clé trèfle | 
+
+???+ danger ""16. Esquivez le Tyran, encore"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/L12.jpg){ width="416" }
+
+    </figure>
+
+    Attendez le Tyran dans la salle des archives, et esquivez ses coups grâce à l'angle de l'étagère. De cette manière, vous gagnerez du temps car il frappera dans le vide
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 21 | Récupérez les objets <br> *+ Grenade à fragmentation* <br> *+ Outil*| 
+| **22** | Attendez le Tyran | 
+| 23 | Repartez dans le couloir et marchez jusqu'à la réception | 
+| 24 | Courez jusqu'à la bibliothèque | 
+| 25 | Utilisez l'outil sur la bibliothèque coincée. Puis déplacez celle la plus à gauche sur la droite | 
+| 26 | Montez l'échelle, et prenez la porte en passant sur les bibliothèques | 
