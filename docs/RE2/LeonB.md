@@ -307,4 +307,4 @@
 
     </figure>
 
-    Attendez le Tyran dans la salle des archives, et esquivez ses coups grâce à l'angle de l'étagère. De cette manière, vous gagnerez du temps car il frappera dans le vide
+    Attendez le Tyran dans la salle des archives, et esquivez ses coups grâce à l'angle de l'étagère. De cette manière, vous gagnerez du temps car il frappera dans le vide.
