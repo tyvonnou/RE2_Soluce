@@ -342,6 +342,12 @@
 | **2** | Traversez-le pour atteindre la prison | 
 | **3** | Résolvez le puzzle électronique | 
 | 4 | Récupérez les objets dans la cellule <br> *+ Spray de premiers secours* <br> *+ Carte d'accès du parking* | 
+| 5 | Rebroussez chemin et activez le levier | 
+| 6 | Esquivez le Tyran (en le faisant frapper le vide) | 
+| 7 | Avancez et utilisez une grenade flash sur les zombies (si vous vous faites toucher, utilisez le spray de premiers secours) | 
+| 8 | Déclenchez la cinématique dans le parking | 
+| 9 | Ouvrez la porte du parking grâce au terminal <br> *+ Herbe verte (sur la droite derrière la porte)* | 
+| 10 | Suivez Ada jusqu'à l'armurerie | 
 
 
 ???+ warning "2. Chiens méchants"
