@@ -288,7 +288,7 @@
 
     </figure>
 
-    Si vous le sentez, vous pouvez juste esquivez son coup. Sinon, faites demi-tour et contournez le sur le toit.
+    Si vous le sentez, vous pouvez juste esquivez son coup en fonçant sur lui au moment où il frappe. Sinon, faites demi-tour et contournez le sur le toit.
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
