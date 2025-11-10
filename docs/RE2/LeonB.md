@@ -334,4 +334,30 @@
 
     Pour ne pas vous faire attraper par le zombie, longez le mur sur la droite jusqu'à la porte.
 
-    
+## Sortir du commissariat
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 1 | Retournez maintenant au parking | 
+| **2** | Traversez-le pour atteindre la prison | 
+| **3** | Résolvez le puzzle électronique | 
+
+???+ warning "2. Chiens méchants"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/L14.jpg){ width="416" }
+
+    </figure>
+
+    Serpentez du mieux que vous pouvez pour esquivez les chiens. C'est ok de se faire toucher.
+
+???+ warning "3. Solution du puzzle électronique"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/L15.jpg){ width="416" }
+
+    </figure>
+
+    Voici comment doivent-être disposées les pieces du puzzle.
