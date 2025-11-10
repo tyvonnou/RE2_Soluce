@@ -376,4 +376,4 @@
 | 2 | Déclenchez la cinématique | 
 | 3 | Suivez Ada jusqu'aux égouts <br> *+ Munitions pour pistolet x4 (au bout d'un des tunnels)* | 
 | 4 | Organisez vos objets <br> *- Herbe verte* <br> *- Grenade* <br> *+ Ruban encreur* | 
-| 5 | Realisez votre deuxième sauvegarde | 
+| 5 | Réalisez votre deuxième sauvegarde | 
