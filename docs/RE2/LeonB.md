@@ -310,3 +310,28 @@
     Attendez le Tyran dans la salle des archives, et esquivez ses coups grâce à l'angle de l'étagère. De cette manière, vous gagnerez du temps car il frappera dans le vide.
 
 ## Retour au commissariat [2/2]
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| **1** | Dirigez-vous vers la salle de l'horloge | 
+| 2 | Utilisez le grand engrenage, **n'oubliez pas de le récupérer** | 
+| 3 | Rendez-vous dans le couloir du fond pour récupérer l'objet <br> *+ Poudre à canon (grande quantité)*|
+| 4 | Montez les escaliers <br> *+ Petit engrenage* <br> *- Herbe V+R (Si vous n'avez pas assez de place)*| 
+| 5 | Utilisez le grand engrenage | 
+| 6 | Redescendez et utilisez le petit engrenage | 
+| 7 | Récupérez le composant électronique | 
+| 8 | Ouvrez prudement la porte, puis dirigez-vous vers la salle de stockage Est | 
+| 9 | Continuez votre chemin pour redescendre par les escaliers de secours | 
+| 10 | Organisez votre inventaire dans la salle de pause <br> *- clé trèfle* <br> *- Herbe verte* <br> *- Grenade à fragmentation* <br> *- Poudre à canon (grande quantité)* <br> *+ Composant électronique* <br> *+ Flash*| 
+
+???+ warning "1. Collez-vous au mur de droite"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/L13.jpg){ width="416" }
+
+    </figure>
+
+    Pour ne pas vous faire attraper par le zombie, longez le mur sur la droite jusqu'à la porte.
+
+    
