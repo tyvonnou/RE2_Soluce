@@ -334,7 +334,7 @@
 
     Pour ne pas vous faire attraper par le zombie, longez le mur sur la droite jusqu'à la porte.
 
-## Sortir du commissariat
+## Accès aux égouts
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
@@ -369,3 +369,11 @@
     </figure>
 
     Voici comment doivent-être disposées les pieces du puzzle.
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 1 | Récupérez les objets dans l'armurerie <br> *+ Amélioration pour fusil à pompe* <br> *+ Grenade à fragmentation* <br> *+ Munitions pour pistolet x3*  | 
+| 2 | Déclenchez la cinématique | 
+| 3 | Suivez Ada jusqu'aux égouts <br> *+ Munitions pour pistolet x4 (au bout d'un des tunnels)* | 
+| 4 | Organisez vos objets <br> *- Herbe verte* <br> *- Grenade* <br> *+ Ruban encreur* | 
+| 5 | Realisez votre deuxième sauvegarde | 
