@@ -372,8 +372,24 @@
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
-| 1 | Récupérez les objets dans l'armurerie <br> *+ Amélioration pour fusil à pompe* <br> *+ Grenade à fragmentation* <br> *+ Munitions pour pistolet x3*  | 
-| 2 | Déclenchez la cinématique | 
-| 3 | Suivez Ada jusqu'aux égouts <br> *+ Munitions pour pistolet x4 (au bout d'un des tunnels)* | 
-| 4 | Organisez vos objets <br> *- Herbe verte* <br> *- Grenade* <br> *+ Ruban encreur* | 
-| 5 | Réalisez votre deuxième sauvegarde | 
+| 11 | Récupérez les objets dans l'armurerie <br> *+ Amélioration pour fusil à pompe* <br> *+ Grenade à fragmentation* <br> *+ Munitions pour pistolet x3*  | 
+| 12 | Déclenchez la cinématique | 
+| 13 | Suivez Ada jusqu'aux égouts <br> *+ Munitions pour pistolet x4 (au bout d'un des tunnels)* | 
+| 14 | Organisez vos objets <br> *- Herbe verte* <br> *- Grenade* <br> *+ Ruban encreur* | 
+| 15 | Réalisez votre deuxième sauvegarde | 
+| 16 | Passez la grille et continuez votre chemin | 
+| 17 | Sautez dans les égouts pour déclencher la cinématique | 
+| **18** | Survivez à l'alligator | 
+| 19 | Tirez sur le tuyau jaune <br> *+ Grenade à fragmentation* | 
+| 20 | Continuez jusqu'à débuter la partie avec Ada | 
+
+
+???+ tip "18. Esquiver l'alligator"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/L16.jpg){ width="416" }
+
+    </figure>
+
+    Collez-vous sur la gauche jusqu'à sa première morsure. Dès qu'il mord, collez-vous sur la droite. Il va ensuite mordre deux fois, après cela, collez-vous de nouveau à gauche.
