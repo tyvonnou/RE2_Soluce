@@ -341,6 +341,8 @@
 | 1 | Retournez maintenant au parking | 
 | **2** | Traversez-le pour atteindre la prison | 
 | **3** | Résolvez le puzzle électronique | 
+| 4 | Récupérez les objets dans la cellule <br> *+ Spray de premiers secours* <br> *+ Carte d'accès du parking* | 
+
 
 ???+ warning "2. Chiens méchants"
 
@@ -352,7 +354,7 @@
 
     Serpentez du mieux que vous pouvez pour esquivez les chiens. C'est ok de se faire toucher.
 
-???+ warning "3. Solution du puzzle électronique"
+???+ tip "3. Solution du puzzle électronique"
 
     <figure markdown="span">
 
