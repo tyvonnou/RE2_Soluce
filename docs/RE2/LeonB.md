@@ -438,10 +438,4 @@
 
     </figure>
 
-    Ordre d'activation : 
-    * Mur de gauche en bas à gauche
-    * Porte en haut à gauche 
-    * Mur de gauche au milieu
-    * Porte en haut à droite
-    * Mur de droite au milieu
-    * Porte en haut au milieu
+    Ordre d'activation : mur de gauche en bas à gauche, porte en haut à gauche, mur de gauche au milieu, porte en haut à droite, mur de droite au milieu, porte en haut au milieu.
