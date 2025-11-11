@@ -393,3 +393,57 @@
     </figure>
 
     Collez-vous sur la gauche jusqu'à sa première morsure. Dès qu'il mord, collez-vous sur la droite. Il va ensuite mordre deux fois, après cela, collez-vous de nouveau à gauche.
+
+## Ada
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 1 | Utilisez l'echelle pour déclencher la cinématique | 
+| 2 | Intéragissez ensuite avec le mur de droite pour activer le circuit caché. Puis, avec le ventilateur pour le briser | 
+| 3 | Montez l'echelle | 
+| 4 | Au bout du tunel, intéragissez avec le circuit en bas à droite du ventilateur, puis le ventilateur lui-même, et enfin le circuit en bas à gauche du ventilateur | 
+| 5 | Descendez dans la pièce et passez la porte | 
+| 6 | Descendez les escaliers <br> *+ Munitions pour pistolet x12* | 
+| 7 | Évitez le zombie en passant entre le contenaire rouge et les caisses | 
+| **8** | Continuez votre chemin, passez la lumière rouge | 
+| 9 | Scannez le circuit à l'endroit où la barrière jaune joint le mur | 
+| 10 | Faites demi-tour et activez l'ascenseur, tirer dans les jambes des zombies qui vous bloquent le chemin pour passer | 
+
+???+ warning "8. Zombie venant du ciel"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/L17.jpg){ width="416" }
+
+    </figure>
+
+    Restez bien sur la droite pour ne pas vous faire écraser par le zombie.
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 11 | Dès que vous êtes devant la porte métalique, activez le circuit au loin à droite | 
+| 12 | Activez le levier | 
+| 13 | Pendant que la porte s'ouvre, activez le circuit juste au-dessus | 
+| 14 | Dirigez-vous vers le ventilateur en intéragissant avec lui également | 
+| 15 | Passez la grille et montez les escaliers plus loin | 
+| 16 | Activez le levier et rendez-vous dans l'incinérateur | 
+| **17** | Corrigez les circuits pour dévérouiller la porte | 
+| **8** | Continuez votre chemin, passez la lumière rouge | 
+| 9 | Scannez le circuit à l'endroit où la barrière jaune joint le mur | 
+| 10 | Faites demi-tour et activez l'ascenseur, tirer dans les jambes des zombies qui vous bloquent le chemin pour passer | 
+
+???+ tip "17. Sortir de l'incinérateur"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/L18.jpg){ width="416" }
+
+    </figure>
+
+    Ordre d'activation : 
+    * Mur de gauche en bas à gauche
+    * Porte en haut à gauche 
+    * Mur de gauche au milieu
+    * Porte en haut à droite
+    * Mur de droite au milieu
+    * Porte en haut au milieu
