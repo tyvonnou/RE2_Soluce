@@ -428,9 +428,7 @@
 | 15 | Passez la grille et montez les escaliers plus loin | 
 | 16 | Activez le levier et rendez-vous dans l'incinérateur | 
 | **17** | Corrigez les circuits pour dévérouiller la porte | 
-| **8** | Continuez votre chemin, passez la lumière rouge | 
-| 9 | Scannez le circuit à l'endroit où la barrière jaune joint le mur | 
-| 10 | Faites demi-tour et activez l'ascenseur, tirer dans les jambes des zombies qui vous bloquent le chemin pour passer | 
+| 18 | Continuez en dévérouillant la porte avec le bracelet pour terminer la partie d'Ada |  
 
 ???+ tip "17. Sortir de l'incinérateur"
 
