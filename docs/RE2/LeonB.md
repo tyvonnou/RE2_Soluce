@@ -397,7 +397,7 @@
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
-| 1 | Utilisez l'echelle pour déclencher la cinématique | 
+| 1 | Utilisez l'échelle pour déclencher la cinématique | 
 | 2 | Intéragissez ensuite avec le mur de droite pour activer le circuit caché. Puis, avec le ventilateur pour le briser | 
 | 3 | Montez l'echelle | 
 | 4 | Au bout du tunel, intéragissez avec le circuit en bas à droite du ventilateur, puis le ventilateur lui-même, et enfin le circuit en bas à gauche du ventilateur | 
@@ -439,7 +439,7 @@
 
     Ordre d'activation : mur de gauche en bas à gauche, porte en haut à gauche, mur de gauche au milieu, porte en haut à droite, mur de droite au milieu, porte en haut au milieu.
 
-## Égouts
+## Égouts [1/?]
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
@@ -466,4 +466,30 @@
 | No. | Procédure          |
 | :---------------: |:---------------| 
 | 11 | Montez l'échelle et passez la porte <br> *+ Cartouches de fusil x2 (au fond à gauche de la pièce)* | 
-| 12 | Descendez dans le trou  | 
+| 12 | Descendez dans le trou | 
+| 13 | Récupérez les objets <br> *+ Rubans encreurs x2* <br> *+ Carte* | 
+| 14 | Organisez vos objets <br> *- Herbe bleue* <br> *- Poudre à canon de haute qualité (jaune)* <br> *- Ruban encreur x1* <br> *- Couteau de combat*| 
+| 15 | **Réalisez votre deuxième sauvegarde** | 
+| 16 | Sortez et activez le pont | 
+| 17 | Dirigez-vous vers le funiculaire ​​<br> *+ Herbe rouge* <br> *+ Barre en T* | 
+| **18** | Allez maintenant ouvrir le coffre de l'autre côté de la pièce (-> 2,<- 12,-> 8) <br> *+ Herbe bleue* | 
+| 19 | Ouvrez la porte et descendez les escaliers . <br> Tuez les deux zombies qui vous accueilent ainsi que celui allongé à l'aide du fusil à pompe ​​<br> *+ Herbe verte* <br> *+ Grenade (dans l'eau)* |
+| 20 | Retournez à la salle de sauvegarde | 
+
+???+ warning "18. Ne pas réveiller le zombie qui dort"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/L20.jpg){ width="416" }
+
+    </figure>
+
+    Restez bien sur la droite pour ne pas réveiller le zombie.
+
+## Égouts [2/?]
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 1 | Organisez vos objets <br> *- Herbe V+B+R* <br> *- Cartouches pour fusil* <br> *- Fusil à pompe* <br> *+ Couteau de combat* | 
+| 2 | Retournez en bas des escaliers, et ouvrez la porte sur la gauche grâce à la barre en T | 
+| 3 | Descendez l'échelle, **ne prenez pas la clé**  | 
