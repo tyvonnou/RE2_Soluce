@@ -439,3 +439,32 @@
     </figure>
 
     Ordre d'activation : mur de gauche en bas à gauche, porte en haut à gauche, mur de gauche au milieu, porte en haut à droite, mur de droite au milieu, porte en haut au milieu.
+
+## Égouts
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 1 | Faites demi-tour et utilisez l'ascenceur | 
+| 2 | Organisez vos objets <br> *- Grenade à fragmentation* | 
+| 3 | Sautez dans les égouts | 
+| 4 | Prenez le tunel de gauche <br> *+ Cartouches de fusil x2* | 
+| 5 | Faites demi-tour et prenez le tunel de droite | 
+| 6 | Montez les escaliers et tuez le zombie à l'aide du fusil | 
+| 7 | Passez la passerelle, étourdisez le zombie pour passer et descendez les escaliers <br> *+ Couteau de combat (en bas des escaliers)*| 
+| 9 | Laissez-vous glisser directement sur la droite <br> *+ Herbe bleue (en bas, devant la porte bleue)* <br> *+ Poudre à canon de haute qualité (jaune) (sur la gauche avant les deux tunels)*| 
+| **10** | Passez le G adulte | 
+
+???+ tip "10. Esquiver le G adulte"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/L19.jpg){ width="416" }
+
+    </figure>
+
+    Restez à une distance convenable et tirer lui dessus. Dès que vous avez tirer, courez en longeant le mur de gauche.
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 11 | Montez l'échelle et passez la porte <br> *+ Cartouches de fusil x2 (au fond à gauche de la pièce)* | 
+| 12 | Descendez dans le trou  | 
