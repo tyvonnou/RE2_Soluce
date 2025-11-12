@@ -554,7 +554,7 @@
 | 11 | Dirigez-vous vers le second boss <br> *+ Herbe V + R + B (en chemin)* | 
 | 12 | Rétablisez l'alimentation (off,on,on,on) | 
 | 13 | Faite demi-tour à la porte d'entrée et esquivez Birkin | 
-| 14 | 
+| 14 | Rendez-vous à la plateforme et debarrassez vous de Birkin à l'aide de la grue |
 
 ???+ tip "13. Esquivez Birkin"
 
@@ -575,3 +575,13 @@
     </figure>
 
     Une fois que Birkin rugit, déplacez-vous sur le côté de la porte. Vous pouvez vous faufiler sur le côté.
+
+???+ danger "14. William Birkin 2ème forme"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/L25.jpg)
+
+    </figure>
+
+    Déplacez directement la grue, puis commencez le combat en lançant la grenade à fragmentation. Visez les yeux (dos, bras et genou) avec le matilda tout en esquivant ces coups. Lorsqu'il est à terre utilisez le couteau entre son torse et son bras. Utilisez le lance-flammes lorsque vous êtes à court de munition de pistolet. Pour terminer, lorsqu'il est à terre pour la troisième fois, rappelez la grue. Lancez une grenade flash au moment où il se relève pour le maintenir à terre.
