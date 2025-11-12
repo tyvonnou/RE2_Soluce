@@ -493,3 +493,40 @@
 | 1 | Organisez vos objets <br> *- Herbe V+B+R* <br> *- Cartouches pour fusil* <br> *- Fusil à pompe* <br> *+ Couteau de combat* | 
 | 2 | Retournez en bas des escaliers, et ouvrez la porte sur la gauche grâce à la barre en T | 
 | 3 | Descendez l'échelle, **ne prenez pas la clé**  | 
+| 4 | Récupérez l'objet et retounez vous pour montez sur le tas de vase <br> *+ Herbe verte* | 
+| 5 | Tirez sur l'adulte G et esquivez-le sur la droite | 
+| 6 | Esquivez l'autre adulte G après qu'il ait frapper | 
+| 7 | Continuez pour récupérez la Reine <br> *+ Herbe rouge (sur des étagères)*|  
+| 8 | Placez la Reine en-dessous des escaliers <br> *+ Herbe bleue (dans des cartons)*|  
+| 9 | Récupérez le Roi en haut des escaliers et sautez |  
+| 10 | Repassez la porte sous les escaliers et utilisez le Roi au fond <br> *+ Lance-flammes* |  
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 11 | Reprennez le Roi et étourdissez les zombies pour ressortir |  
+| 12 | Posez la Reine sur son emplacement d'origine | 
+| 13 | Posez le Roi | 
+| 14 | Récupérez la Reine puis le Roi | 
+| 15 | Sortez de la pièce et esquivez le zombie puis l'adulte G | 
+| 16 | Longez le mur de gauche | 
+| **17** | Esquivez le dernier adulte G | 
+| 18 | Remontez l'échelle et retournez dans la salle de sauvegarde | 
+
+
+???+ warning "17. Accéder facilement à l'échelle"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/L21.jpg){ width="416" }
+
+    </figure>
+
+    Le dernier adulte G est facilement esquivable. Attendez qu'il vous charge et dès qu'il essaye de vous attraper, foncez.
+
+## Égouts [3/?]
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 1 | Organisez vos objets <br> *- Lance-flammes* <br> *- Reine* <br> *- Roi* <br> *+ Cartouches de fusil* <br> *+ fusil à pompe* | 
+| 2 | Redescendez les escaliers et activez le levier sur la droite | 
+| 3 | Longez sur la gauche jusqu'a la porte bleue et utilisez la barre en T | 
