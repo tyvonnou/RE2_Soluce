@@ -570,7 +570,7 @@
 
     <figure markdown="span">
 
-    ![Image title](IMG/L24.jpg)
+    ![Image title](IMG/L24.jpg){ width="416" }
 
     </figure>
 
@@ -580,7 +580,7 @@
 
     <figure markdown="span">
 
-    ![Image title](IMG/L25.jpg)
+    ![Image title](IMG/L25.jpg){ width="416" }
 
     </figure>
 
