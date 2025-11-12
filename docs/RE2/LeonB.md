@@ -439,7 +439,7 @@
 
     Ordre d'activation : mur de gauche en bas à gauche, porte en haut à gauche, mur de gauche au milieu, porte en haut à droite, mur de droite au milieu, porte en haut au milieu.
 
-## Égouts [1/?]
+## Égouts [1/3]
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
@@ -486,7 +486,7 @@
 
     Restez bien sur la droite pour ne pas réveiller le zombie.
 
-## Égouts [2/?]
+## Égouts [2/3]
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
@@ -523,7 +523,7 @@
 
     Le dernier adulte G est facilement esquivable. Attendez qu'il vous charge et dès qu'il essaye de vous attraper, foncez.
 
-## Égouts [3/?]
+## Égouts [3/3]
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
@@ -554,7 +554,9 @@
 | 11 | Dirigez-vous vers le second boss <br> *+ Herbe V + R + B (en chemin)* | 
 | 12 | Rétablisez l'alimentation (off,on,on,on) | 
 | 13 | Faite demi-tour à la porte d'entrée et esquivez Birkin | 
-| 14 | Rendez-vous à la plateforme et debarrassez vous de Birkin à l'aide de la grue |
+| 14 | Rendez-vous à la plateforme et debarrassez vous de Birkin à l'aide de la grue <br> *+ Flash* <br> *+ Couteau de combat* <br> *+ Munitions pour pistolet x8*|
+| 15 | Sortez et activez le levier | 
+| 16 | Rendez-vous au funiculaire pour atteindre le laboratoire | 
 
 ???+ tip "13. Esquivez Birkin"
 
