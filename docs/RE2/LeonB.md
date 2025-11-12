@@ -548,3 +548,30 @@
 
     Mur de droite (de gauche à droite) : Cavalier, Tour, Pion.
     Mur de gauche (de gauche à droite) : Reine, Fou, Roi
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 11 | Dirigez-vous vers le second boss <br> *+ Herbe V + R + B (en chemin)* | 
+| 12 | Rétablisez l'alimentation (off,on,on,on) | 
+| 13 | Faite demi-tour à la porte d'entrée et esquivez Birkin | 
+| 14 | 
+
+???+ tip "13. Esquivez Birkin"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/L23.jpg){ width="416" }
+
+    </figure>
+
+    Restez sous le ventilateur, ainsi Birkin ne pourra pas vous attraper.
+
+???+ tip "13. Attendez à côté de la porte"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/L24.jpg)
+
+    </figure>
+
+    Une fois que Birkin rugit, déplacez-vous sur le côté de la porte. Vous pouvez vous faufiler sur le côté.
