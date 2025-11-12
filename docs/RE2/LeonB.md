@@ -527,6 +527,24 @@
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
-| 1 | Organisez vos objets <br> *- Lance-flammes* <br> *- Reine* <br> *- Roi* <br> *+ Cartouches de fusil* <br> *+ fusil à pompe* | 
+| 1 | Organisez vos objets <br> *- Lance-flammes* <br> *+ Cartouches de fusil* <br> *+ fusil à pompe* | 
 | 2 | Redescendez les escaliers et activez le levier sur la droite | 
 | 3 | Longez sur la gauche jusqu'à la porte bleue et utilisez la barre en T | 
+| 4 | Prenez l'ascenceur <br> *+ Cartouches de fusil x3 (avant l'ascenseur)* |
+| 5 | Courez vers la porte <br> *+ Munitions pour pistolet x5* |
+| 6 | Récupérez la Tour |
+| 7 | Retournez prendre l'ascenseur en esquivant le zombie grâce à la table |
+| 8 | Attendez que l'adulte G plonge pour repartir à la salle de sauvegarde |
+| **9** | Résolvez le puzzle avec les pièces d'échecs |
+| 10 | Organisez vos objets <br> *- M19* <br> *- Fusil à pompe* <br> *- Cartouches de fusil* <br> *- Barre en T* <br> *+ Matilda (avec les améliorations)* <br> *+ Lance-flammes* <br> *+ Spray de premiers secours* <br> *+ Couteau de combat* <br> *+ Grenade à fragmentation*|
+
+???+ tip "9. Ordre des pièces d'échecs"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/L22.jpg){ width="416" }
+
+    </figure>
+
+    Mur de droite (de gauche à droite) : Cavalier, Tour, Pion.
+    Mur de gauche (de gauche à droite) : Reine, Fou, Roi
