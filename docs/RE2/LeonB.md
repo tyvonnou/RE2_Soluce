@@ -529,4 +529,4 @@
 | :---------------: |:---------------| 
 | 1 | Organisez vos objets <br> *- Lance-flammes* <br> *- Reine* <br> *- Roi* <br> *+ Cartouches de fusil* <br> *+ fusil à pompe* | 
 | 2 | Redescendez les escaliers et activez le levier sur la droite | 
-| 3 | Longez sur la gauche jusqu'a la porte bleue et utilisez la barre en T | 
+| 3 | Longez sur la gauche jusqu'à la porte bleue et utilisez la barre en T | 
