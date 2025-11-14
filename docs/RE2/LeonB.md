@@ -682,4 +682,4 @@
 | 17 | Utilisez le bracelet pour ouvrir la passerelle Ouest dans le hall principal <br> *+ Grenade à fragmentation (sur le corps après la passerelle)* | 
 | 18 | Récupérez le modulateur dans le coffre et utilisez le en AWS |
 | 19 | Continuez jusqu'à la prochaine salle de sauvegarde et déclenchez la cinématique <br> *+ Herbe bleue (en sortant de la pièce)* |
-| 20 | Récupérez les objets et effectuez votre troisième sauvegarde <br> *+ Poudre à canon (grande quantité)* <br> *+ Poudre à canon de haute qualité (jaune)* <br> *+ Herbe rouge* <br> *+ Ruban encreur*|
+| 20 | Récupérez les objets et effectuez votre troisième sauvegarde <br> *+ Poudre à canon (grande quantité)* <br> *+ Poudre à canon de haute qualité (jaune)* <br> *+ Herbe rouge* <br> *+ Ruban encreur* |
