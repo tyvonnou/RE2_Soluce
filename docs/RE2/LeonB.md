@@ -647,7 +647,7 @@
 | 5 | Utilisez le modulateur en URF |
 | 6 | Demi-tour et organisez votre inventaire dans la salle des serveurs <br> *- Lance-flammes* <br> *- Poudre à canon de haute qualité (jaune)* <br> *- Poudre à canon (grande quantité)* <br> *- Cartouches de fusil* <br> *- Modulateur* <br> *- flash* <br> *- Herbe R+V* <br> *+ Fusil à pompe* |
 | 7 | Récupérez les objets de la pièce et mettez-les dans le coffre <br> *+ Poudre à canon de haute qualité (jaune)* <br> *+ Carburant pour lance-flammes* <br> *+ Couteau de combat* <br> *- Poudre à canon de haute qualité (jaune)* <br> *- Carburant pour lance-flammes* <br> *- Couteau de combat*|
-| **8** | Dirigez-vous vers le laboratoire d'essais à basse température, esquivez le licker à l'entrez |
+| **8** | Dirigez-vous vers le laboratoire d'essais à basse température, esquivez le Licker à l'entrez |
 
 ???+ tip "4. Utilisez une grenade"
 
@@ -659,7 +659,7 @@
 
     Utilisez une grenade pour vous débarrasser facilement d'eux. Finnissez-les au pistolet si besoin.
 
-???+ danger "8. Utilisez une grenade"
+???+ danger "8. Attention au Licker"
 
     <figure markdown="span">
 
@@ -667,4 +667,4 @@
 
     </figure>
 
-    Marchez car un licker va apparaitre au bout du couloirs, reculer légèrement pour pouvoir le contourner, et prenez la porte sur la gauche menant au laboratoire d'essais à basse température.
+    Marchez car un Licker va apparaitre au bout du couloirs, reculer légèrement pour pouvoir le contourner, et prenez la porte sur la gauche menant au laboratoire d'essais à basse température.
