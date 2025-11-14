@@ -612,3 +612,24 @@
     </figure>
 
     Parfois, le zombie entre directement dans la cuisine, ne vous laissez pas surprendre et tuez le d'une balle dans la tête.
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 1 | Retournez dans la salle de sieste et tuez le zombie en chemin | 
+| 2 | Utilisez le modulateur en mode OSS <br> *+ Amélioration pour le lance-flammes (dans le casier)* | 
+| 3 | Récupérez les sacoches | 
+| 4 | Organisez vos objets dans la réception <br> *- Fusil à pompe* <br> *- Cartouches de fusil* <br> *+ Lance-flammes amélioré*| 
+| 5 | Activez la passerelle Est dans le hall principal | 
+| 6 | Rendez-vous dans le hall d'entrée Est <br> *+ Poudre à canon*| 
+| 7 | Organisez vos objets dans la réception <br> *- Poudre à canon* | 
+| **8** | Passez la salle de conférence et brulez les deux Ivy |
+
+???+ tip "8. Économisez votre carburant"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/L27.jpg){ width="416" }
+
+    </figure>
+
+    Activez d'abord l'Ivy le plus éloigné avec votre pistolet, puis celui suspendu. Tirez dans leurs bulbes pour les ralentir si besoin et brûlez les lorsqu'ils sont bien aligné.
