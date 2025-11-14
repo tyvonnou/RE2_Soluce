@@ -588,7 +588,7 @@
 
     Déplacez directement la grue, puis commencez le combat en lançant la grenade à fragmentation. Visez les yeux (dos, bras et genou) avec le matilda tout en esquivant ces coups. Lorsqu'il est à terre utilisez le couteau entre son torse et son bras. Utilisez le lance-flammes lorsque vous êtes à court de munition de pistolet. Pour terminer, lorsqu'il est à terre pour la troisième fois, rappelez la grue. Lancez une grenade flash au moment où il se relève pour le maintenir à terre.
 
-## Laboratoire
+## Laboratoire [1/]
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
@@ -622,7 +622,9 @@
 | 15 | Activez la passerelle Est dans le hall principal | 
 | 16 | Rendez-vous dans le hall d'entrée Est <br> *+ Poudre à canon*| 
 | 17 | Organisez vos objets dans la réception <br> *- Poudre à canon* | 
-| **18** | Passez la salle de conférence et brulez les deux Ivy |
+| **18** | Passez la salle de conférence et brulez les deux Ivy <br> *+ Poudre à canon de haute qualité (jaune)* |
+| 19 | Continuez dans la salle de contrôle de la serre <br> *+ Flash* |
+| 20 | Entrez les codes : 5, 2, 9, 7 et 8, 0, 4, 2 et dispersez la solution <br> *+ Fiole* | 
 
 ???+ tip "18. Économisez votre carburant"
 
@@ -633,3 +635,36 @@
     </figure>
 
     Activez d'abord l'Ivy le plus éloigné avec votre pistolet, puis celui suspendu. Tirez dans leurs bulbes pour les ralentir si besoin et brûlez les lorsqu'ils sont bien aligné.
+
+## Laboratoire [2/]
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 1 | Traversez la serre sur la gauche pour vous rendre au laboratoire de test <br> *+ Herbe rouge* | 
+| 2 | Résolvez l'énigme : Bleu - Rouge - Vert - Bleu - Rouge - Vert - Bleu - Rouge - Vert <br> *+ Poudre à canon (grande quantité)* <br> *+ Grenade à fragmentation* | 
+| 3 | Sortez et atteignez rapidement l'échelle |
+| **4** | Débarrasez-vous des trois zombies allongés dans le salon <br> *+ Cartouches de fusil x4* <br> *+ Herbe rouge (à combiner)* |
+| 5 | Utilisez le modulateur en URF |
+| 6 | Demi-tour et organisez votre inventaire dans la salle des serveurs <br> *- Lance-flammes* <br> *- Poudre à canon de haute qualité (jaune)* <br> *- Poudre à canon (grande quantité)* <br> *- Cartouches de fusil* <br> *- Modulateur* <br> *- flash* <br> *- Herbe R+V* <br> *+ Fusil à pompe* |
+| 7 | Récupérez les objets de la pièce et mettez-les dans le coffre <br> *+ Poudre à canon de haute qualité (jaune)* <br> *+ Carburant pour lance-flammes* <br> *+ Couteau de combat* <br> *- Poudre à canon de haute qualité (jaune)* <br> *- Carburant pour lance-flammes* <br> *- Couteau de combat*|
+| **8** | Dirigez-vous vers le laboratoire d'essais à basse température, esquivez le licker à l'entrez |
+
+???+ tip "4. Utilisez une grenade"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/L28.jpg){ width="416" }
+
+    </figure>
+
+    Utilisez une grenade pour vous débarrasser facilement d'eux. Finnissez-les au pistolet si besoin.
+
+???+ danger "8. Utilisez une grenade"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/L29.jpg){ width="416" }
+
+    </figure>
+
+    Marchez car un licker va apparaitre au bout du couloirs, reculer légèrement pour pouvoir le contourner, et prenez la porte sur la gauche menant au laboratoire d'essais à basse température.
