@@ -587,3 +587,28 @@
     </figure>
 
     Déplacez directement la grue, puis commencez le combat en lançant la grenade à fragmentation. Visez les yeux (dos, bras et genou) avec le matilda tout en esquivant ces coups. Lorsqu'il est à terre utilisez le couteau entre son torse et son bras. Utilisez le lance-flammes lorsque vous êtes à court de munition de pistolet. Pour terminer, lorsqu'il est à terre pour la troisième fois, rappelez la grue. Lancez une grenade flash au moment où il se relève pour le maintenir à terre.
+
+## Laboratoire
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 1 | Récupérez les cartouches dans la salle de sécurité <br> *+ Cartouches de fusil x4* | 
+| 2 | Organisez vos objets dans la réception <br> *- Couteau de combat x2* <br> *- Lance-flammes* <br> *- Matilda* <br> *- Cartouches de fusil*  <br>  *+ M19* <br> *+ Munitions pour pistolet* <br> *+ Fusil à pompe*| 
+| 3 | Rendez-vous dans la caféteria | 
+| 4 | **Rapidement,** rejoignez l'échelle tout en récupérant les objets <br> *+ Grenade à fragmentation (immédiatement sur la droite en rentrant)* <br> *+ Carburant pour lance-flammes (à l'autre bout de la salle en restant collé sur la gauche)* <br> *+ Munitions pour pistolet x8 (sur une table vers le centre là où le zombie mange)*|
+| 5 | Descendez dans la cuisine <br> *+ Poudre à canon (grande quantité)* <br> *+ Couteau de combat* | 
+| **6** | Tuez le zombie au niveau de la porte à l'aide du fusil à pompe | 
+| 7 | Récupérez les objets dans la salle de sieste <br> *+ Cartouches de fusil x3* <br> *+ Puce de mise à niveau (combinez le avec votre bracelet)* | 
+| 8 | Retournez à la réception en longeant le mur de droite pour ne pas activer les portes de la caféteria | 
+| 9 | Organisez vos objets dans la réception <br> *- Grenade à fragmentation* <br> *- Carburant pour lance-flammes* <br> *- Poudre à canon (grande quantité)* <br> *- Couteau de combat* |
+| 10 | Récupérez le modulateur dans le hall principal | 
+
+???+ warning "6. Soyez prudent"
+
+    <figure markdown="span">
+
+    ![Image title](IMG/L26.jpg){ width="416" }
+
+    </figure>
+
+    Parfois, le zombie entre directement dans la cuisine, ne vous laissez pas surprendre et tuez le d'une balle dans la tête.
