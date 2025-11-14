@@ -615,16 +615,16 @@
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
-| 1 | Retournez dans la salle de sieste et tuez le zombie en chemin | 
-| 2 | Utilisez le modulateur en mode OSS <br> *+ Amélioration pour le lance-flammes (dans le casier)* | 
-| 3 | Récupérez les sacoches | 
-| 4 | Organisez vos objets dans la réception <br> *- Fusil à pompe* <br> *- Cartouches de fusil* <br> *+ Lance-flammes amélioré*| 
-| 5 | Activez la passerelle Est dans le hall principal | 
-| 6 | Rendez-vous dans le hall d'entrée Est <br> *+ Poudre à canon*| 
-| 7 | Organisez vos objets dans la réception <br> *- Poudre à canon* | 
-| **8** | Passez la salle de conférence et brulez les deux Ivy |
+| 11 | Retournez dans la salle de sieste et tuez le zombie en chemin | 
+| 12 | Utilisez le modulateur en mode OSS <br> *+ Amélioration pour le lance-flammes (dans le casier)* | 
+| 13 | Récupérez les sacoches | 
+| 14 | Organisez vos objets dans la réception <br> *- Fusil à pompe* <br> *- Cartouches de fusil* <br> *+ Lance-flammes amélioré*| 
+| 15 | Activez la passerelle Est dans le hall principal | 
+| 16 | Rendez-vous dans le hall d'entrée Est <br> *+ Poudre à canon*| 
+| 17 | Organisez vos objets dans la réception <br> *- Poudre à canon* | 
+| **18** | Passez la salle de conférence et brulez les deux Ivy |
 
-???+ tip "8. Économisez votre carburant"
+???+ tip "18. Économisez votre carburant"
 
     <figure markdown="span">
 
