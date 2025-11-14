@@ -588,7 +588,7 @@
 
     Déplacez directement la grue, puis commencez le combat en lançant la grenade à fragmentation. Visez les yeux (dos, bras et genou) avec le matilda tout en esquivant ces coups. Lorsqu'il est à terre utilisez le couteau entre son torse et son bras. Utilisez le lance-flammes lorsque vous êtes à court de munition de pistolet. Pour terminer, lorsqu'il est à terre pour la troisième fois, rappelez la grue. Lancez une grenade flash au moment où il se relève pour le maintenir à terre.
 
-## Laboratoire [1/]
+## Laboratoire [1/3]
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
@@ -621,7 +621,7 @@
 | 14 | Organisez vos objets dans la réception <br> *- Fusil à pompe* <br> *- Cartouches de fusil* <br> *+ Lance-flammes amélioré*| 
 | 15 | Activez la passerelle Est dans le hall principal | 
 | 16 | Rendez-vous dans le hall d'entrée Est <br> *+ Poudre à canon*| 
-| 17 | Organisez vos objets dans la réception <br> *- Poudre à canon* | 
+| 17 | Organisez vos objets dans le hall d'entrée Est <br> *- Poudre à canon* | 
 | **18** | Passez la salle de conférence et brulez les deux Ivy <br> *+ Poudre à canon de haute qualité (jaune)* |
 | 19 | Continuez dans la salle de contrôle de la serre <br> *+ Flash* |
 | 20 | Entrez les codes : 5, 2, 9, 7 et 8, 0, 4, 2 et dispersez la solution <br> *+ Fiole* | 
@@ -636,7 +636,7 @@
 
     Activez d'abord l'Ivy le plus éloigné avec votre pistolet, puis celui suspendu. Tirez dans leurs bulbes pour les ralentir si besoin et brûlez les lorsqu'ils sont bien aligné.
 
-## Laboratoire [2/]
+## Laboratoire [2/3]
 
 | No. | Procédure          |
 | :---------------: |:---------------| 
@@ -648,6 +648,8 @@
 | 6 | Demi-tour et organisez votre inventaire dans la salle des serveurs <br> *- Lance-flammes* <br> *- Poudre à canon de haute qualité (jaune)* <br> *- Poudre à canon (grande quantité)* <br> *- Cartouches de fusil* <br> *- Modulateur* <br> *- flash* <br> *- Herbe R+V* <br> *+ Fusil à pompe* |
 | 7 | Récupérez les objets de la pièce et mettez-les dans le coffre <br> *+ Poudre à canon de haute qualité (jaune)* <br> *+ Carburant pour lance-flammes* <br> *+ Couteau de combat* <br> *- Poudre à canon de haute qualité (jaune)* <br> *- Carburant pour lance-flammes* <br> *- Couteau de combat*|
 | **8** | Dirigez-vous vers le laboratoire d'essais à basse température, esquivez le Licker à l'entrez |
+| 9 | Refroidissez la solution <br> *+ Poudre à canon* |
+| 10 | Resortez et prenez cette fois-ci la porte qui était derrière le Licker, toujours en marchant |
 
 ???+ tip "4. Utilisez une grenade"
 
@@ -668,3 +670,16 @@
     </figure>
 
     Marchez car un Licker va apparaitre au bout du couloirs, reculer légèrement pour pouvoir le contourner, et prenez la porte sur la gauche menant au laboratoire d'essais à basse température.
+
+| No. | Procédure          |
+| :---------------: |:---------------| 
+| 11 | Montez les escaliers pour atteindre la salle de stockage. Esquivez les zombies et tirer dans un des bulbes du Ivy pour passer | 
+| 12 | Tirer dans les jambes du zombie pour passer la salle de stockage <br> *+ Poudre à canon de haute qualité (jaune) (à gauche en rentrant)* <br> *+ Munitions pour pistolet x8 (dans un casier à gauche en rentrant)*| 
+| 13 | Organisez vos objets dans le hall d'entrée Est <br> *- Poudre à canon* <br> *- Poudre à canon de haute qualité (jaune)* <br> *- Fusil à pompe* <br> *+ 2 Couteaux de combat en mauvais état* | 
+| 14 | Retournez disperser la solution |
+| 15 | Récupérez la partie du bracelet dans la serre |
+| 16 | Retournez au hall d'entrée Est en esquivant les Ivy, soignez-vous au coffre si nécéssaire |
+| 17 | Utilisez le bracelet pour ouvrir la passerelle Ouest dans le hall principal <br> *+ Grenade à fragmentation (sur le corps après la passerelle)* | 
+| 18 | Récupérez le modulateur dans le coffre et utilisez le en AWS |
+| 19 | Continuez jusqu'à la prochaine salle de sauvegarde et déclenchez la cinématique <br> *+ Herbe bleue (en sortant de la pièce)* |
+| 20 | Récupérez les objets et effectuez votre troisième sauvegarde <br> *+ Poudre à canon (grande quantité)* <br> *+ Poudre à canon de haute qualité (jaune)* <br> *+ Herbe rouge* <br> *+ Ruban encreur*|
