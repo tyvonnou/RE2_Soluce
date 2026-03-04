@@ -6,13 +6,14 @@ nav:
   - Accueil: index.md
   - "Resident Evil 2 (Remake)":
     - "Conseils": RE2/Conseils.md
-    - "Claire":
-      - "Scénario A": RE2/ClaireA.md
-      - "Scénario B": RE2/ClaireB.md
-    - "Leon":
-      - "Scénario A": RE2/LeonA.md
-      - "Scénario B": RE2/LeonB.md
-    - Cartes: RE2/Cartes.md
+    - "Histoire principale":
+      - "Claire":
+        - "Scénario A": RE2/ClaireA.md
+        - "Scénario B": RE2/ClaireB.md
+      - "Leon":
+        - "Scénario A": RE2/LeonA.md
+        - "Scénario B": RE2/LeonB.md
+      - Cartes: RE2/Cartes.md
 
 
 theme:
