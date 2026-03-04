@@ -1,6 +1,6 @@
 
 site_dir: public  
-site_name: Naouak 
+site_name: Umbrella Archives 
 docs_dir: 'docs/'
 nav:
   - Accueil: index.md
