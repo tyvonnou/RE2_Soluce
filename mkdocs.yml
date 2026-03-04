@@ -16,6 +16,7 @@ nav:
 
 
 theme:
+  logo: assets/logo.svg
   icon:
     annotation: material/star-four-points-circle 
   name: material
@@ -28,7 +29,7 @@ theme:
     - toc.integrate # Table Of Content, table des matières intégrée dans la barre verticale de navigation
   palette:
     - scheme: default
-      primary: cyan
+      primary: red
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
